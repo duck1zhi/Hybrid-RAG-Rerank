@@ -1,0 +1,20 @@
+# MinerU 本机缓存，不是项目源码
+blobs/
+
+# MinerU 体积较大的中间产物（markdown/抽出图片仍入库）
+**/mineru_result.zip
+**/model_output.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini

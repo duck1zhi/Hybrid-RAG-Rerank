@@ -1,0 +1,11 @@
+# 1-迪士尼RAG知识库.py / 2-迪士尼RAG混合检索查询.py / 3-迪士尼RAG混合检索重排查询.py 运行依赖
+# MinerU 4 为本机独立服务，不在此安装
+requests==2.34.2
+numpy==2.4.4
+faiss-cpu==1.9.0.post1
+dashscope==1.22.2
+python-docx==1.2.0
+openai==1.51.2
+pywin32==312
+rank-bm25==0.2.2
+jieba==0.42.1
