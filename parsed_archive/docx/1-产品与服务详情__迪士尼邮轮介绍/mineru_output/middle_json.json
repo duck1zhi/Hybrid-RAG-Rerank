@@ -1,0 +1,485 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "authors": [
+        "Administrator"
+      ],
+      "created_at": "2025-07-28T09:01:00Z",
+      "modified_at": "2025-07-28T09:04:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 2,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼邮轮 航线主要包括 新加坡 出发的 迪士尼探险号 航线及 澳大利亚 和 新西兰 的 迪士尼奇观号 航线。以下是具体信息："
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "新加坡 出发航线"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "‌ 迪士尼探险号 ‌（Disney Adventure）"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- ‌母港‌：新加坡"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- ‌航行时间‌：2025年12月首航，计划2026年推出4天3晚或5天4晚的巡航路线"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- ‌特色‌："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 7大主题区域：迪士尼、 漫威 、 皮克斯 等IP主题区"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 漫威主题区含过山车、英雄主题舞台剧及角色扮演体验"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 迪士尼角色见面会及主题商店周边"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 全程海上活动，无港口停靠 ‌12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "澳大利亚/新西兰航线"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "‌ 迪士尼奇观号 ‌（Disney Wonder）"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- ‌航线‌：悉尼、墨尔本、布里斯班、奥克兰等澳新港口"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- ‌船体规格‌：11层、可载2713人、吨位83000吨"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- ‌设施‌："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 儿童俱乐部、亲子空间及冰雪主题活动"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 百老汇音乐剧、电影首映等娱乐"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 水上乐园及旋转餐厅 ‌4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "其他计划"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "日本东京计划于2028年推出迪士尼游轮服务，母港设于 横滨 ，搭载约1250间客房的邮轮，初期航线覆盖日本本土及周边海域。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼邮轮 船只介绍"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "根据现有信息，以下是迪士尼邮轮旗下船只的详细介绍："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. ‌迪士尼魔力号（Disney Magic）‌"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 首航时间：1998年"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 吨位：8.3万吨，船船舱875间，载客量约2400人‌12"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 设施：4家主餐厅（Parrot Cay等）、3个游泳池、2个影院‌1"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 特点：迪士尼首艘游轮，主打经典迪士尼风格‌1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. ‌迪士尼奇迹号（Disney Wonder）‌"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 首航时间：1999年"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 吨位：8.3万吨，船船舱877间，载客量2400人‌2"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 设施：家庭友好型设计，含图书馆、自助洗衣等‌2"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 特点：与魔力号为姊妹船，意大利建造，巴哈马船籍‌2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. ‌迪士尼探险号（Disney Adventure）‌"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 首航时间：2025年12月15日（新加坡母港）‌34"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 吨位：20.8万吨，载客量6700人，19层甲板‌34"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- ‌主题区域‌："
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": [
+                        {
+                          "type": "text",
+                          "content": "- Marvel Landing：含250米海上过山车‌35"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": [
+                        {
+                          "type": "text",
+                          "content": "- San Fransokyo Street：《超能陆战队》主题街区‌5"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": [
+                        {
+                          "type": "text",
+                          "content": "- Disney Imagination Garden：三层露天花园‌5"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 航线：3-4晚短途航线，覆盖东南亚‌3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. ‌其他船只‌"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 现有信息未提供完整列表，但提及全球共5艘迪士尼游轮（含魔法号、奇迹号等）‌6。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "注： 迪士尼探险号 为亚洲首艘迪士尼游轮， 漫威 和 皮克斯 主题为其核心特色‌35。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

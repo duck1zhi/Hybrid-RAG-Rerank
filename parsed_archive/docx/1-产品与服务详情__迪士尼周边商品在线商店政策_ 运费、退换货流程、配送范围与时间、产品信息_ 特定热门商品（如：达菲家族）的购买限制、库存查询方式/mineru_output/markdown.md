@@ -1,0 +1,67 @@
+**迪士尼周边商品在线商店政策: 运费、退换货流程、配送范围与时间、产品信息: 特定热门商品（如：达菲家族）的购买限制、库存查询方式**
+
+### **回答**
+
+迪士尼周边商品在线商店的政策涵盖了运费、退换货流程、配送范围与时间以及产品信息等多个方面。以下是对这些政策的详细说明：
+
+**运费政策**
+
+迪士尼商店的运费通常根据商品重量、体积和目的地而定。部分商品可能需要额外支付运费，尤其是大型、重或需要特殊包装的商品。对于MovieNEX、蓝光和DVD商品，运费是免费的，但选择便利店、PayPay或货到付款支付时，将产生额外手续费[3]。
+
+**退换货流程**
+
+迪士尼商店提供30天无条件退货政策，前提是商品保持原状，包括标签和包装。不接受直接换货，但可退款后购买其他商品。某些商品如密封收藏品、已开封的“神秘”商品、珠宝、已拆封的防伪包装商品、个性化商品、泳装以及促销商品（如赠品、捆绑销售）在非故障、损坏或错误发送的情况下不可退货[10]。
+
+**配送范围与时间**
+
+迪士尼商店的配送服务覆盖全球多个国家或地区和地区，但部分地区的配送服务可能受到限制。标准配送通常在付款确认后发货，但具体配送时间可能因支付方式和商品类型而异。例如，选择便利店预付或PayPay支付的商品可能无法在预计日期前送达[3]。
+
+**产品信息**
+
+迪士尼商店提供多种热门商品，包括迪士尼电影相关商品、国家地理和漫威等迪士尼旗下品牌的商品。此外，商店还经常推出限时优惠、免费附加玩具、捆绑销售、免费配送和信用卡促销等促销活动[7]。
+
+**特定热门商品的购买限制**
+
+迪士尼商店不提供基于身份的折扣，如学生、老年人或军人折扣。优惠券通常有时间限制，但没有特定的叠加规则。订阅迪士尼商店的电子邮件计划可获得独家优惠和提前通知[7]。
+
+**库存查询方式**
+
+顾客可以通过商品详情页面查看库存情况，部分商品可能需要从多个发货点发出，导致商品到达时间不同。在发货时，顾客会收到“发货通知邮件”，其中会确认商品的发货情况[3]。
+
+**总结**
+
+迪士尼周边商品在线商店的政策旨在为顾客提供便捷的购物体验，同时确保商品的质量和售后服务。无论是想要购买迪士尼电影周边商品，还是寻找独家商品，迪士尼商店都能满足不同用户的需求。
+
+[AI生成]
+
+### **参考资料**
+
+[1. J. Blackburn, V. Guide et al. “Reverse Supply Chains for Commercial Returns.” California Management Review](https://doi.org/10.2307/41166207)
+
+[2. Stacy L. Wood. “Remote Purchase Environments: The Influence of Return Policy Leniency on Two-Stage Decision Processes.” Journal of Marketing Research](https://doi.org/10.1509/jmkr.38.2.157.18847)
+
+[3. ご利用ガイド/お届けについて - ディズニーストア - Disney](https://om-shopdisney.disney.co.jp/guide/delivery.aspx)
+
+[4. N. Doherty, Fiona E. Ellis-Chadwick. “Internet retailing: the past, the present and the future.” International Journal of Retail & Distribution Management](https://doi.org/10.1108/09590551011086000)
+
+[5. K. Hjort, Björn Lantz et al. “Customer segmentation based on buying and returning behaviour.” International Journal of Physical Distribution & Logistics Management](https://doi.org/10.1108/IJPDLM-02-2013-0020)
+
+[6. Stanley E. Griffis, Shashank Rao et al. “The customer consequences of returns in online retailing: An empirical analysis.” Journal of Operations Management](https://doi.org/10.1016/J.JOM.2012.02.002)
+
+[7. Disney Store促销代码指南](https://coupons.slickdeals.net/disney-store/)
+
+[8. Toy Factory 2025](https://shop.thetoyfactory.biz/media/toy_factory/default/dwn_2025_toyfactory_weblr.pdf)
+
+[9. 上海迪士尼樂園-達菲和朋友們小小課堂系列-摺疊收納箱 - HOLIC](https://www.holicholic.com.tw/products/%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E9%81%94%E8%8F%B2%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%80%91%E5%B0%8F%E5%B0%8F%E8%AA%B2%E5%A0%82%E7%B3%BB%E5%88%97-%E6%91%BA%E7%96%8A%E6%94%B6%E7%B4%8D%E7%AE%B1)
+
+[10. Return Information | Disney Store](https://www.disneystore.asia/return-information/apac-footer-return-policy.html?srsltid=AfmBOopPc516RlRB_EyXeot-eCflaDoRvbn9Eu6Bm1LLwRVwcg15yGP1)
+
+[11. 迪士尼达菲熊图片- 京东](https://www.jd.com/chanpin/1040408.html)
+
+[12. Service Overview](https://support.huaweicloud.com/intl/en-us/productdesc-professionalservices/usermanual-professionalservices.pdf)
+
+[13. Disney Rewards Insider Spring 2023](https://disneydebit.com/app/uploads/2020/05/disney-insider-newsletter-debit-spring-2023.pdf)
+
+[14. Conditions générales de vente](https://www.darty.com/res3/services/contrat-de-confiance/pdf/conditions-generales-de-vente.pdf)
+
+[15. Disney Shop Online Australia：魔法与便捷的购物体验](https://thesbb.com/enter-a-realm-of-enchantment-and-convenience-with-disney-shop-online-australia/)

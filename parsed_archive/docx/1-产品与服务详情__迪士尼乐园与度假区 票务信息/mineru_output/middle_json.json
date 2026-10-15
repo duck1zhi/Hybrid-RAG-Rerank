@@ -1,0 +1,2029 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "created_at": "2025-07-28T01:48:00Z",
+      "modified_at": "2025-07-28T02:13:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 14,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园与度假区 票务信息",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园与度假区的票务信息涉及多个方面，包括门票价格、适用人群、购票方式、使用规则等。以下是对相关问题的详细解答："
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、门票价格",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "1. 上海迪士尼度假区",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "标准票",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：成人票价格为449元，儿童票（3-11岁）为204元，老年人票（60岁以上）为318元[11]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "一日/二日票",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：1日票价格为318元起，2日票价格为629元起[11]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "特殊优惠",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- 国际妇女节当天下午场门票：标准票299元，儿童、老年人及残障游客优惠价224元[15]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- 早鸟票：提前7天购买，价格从263元至446.25元不等[13]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- 1日票+6项尊享卡：成人票1039元，儿童票919元[11]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- 1日票+119元餐饮兑换券：老人票339元[11]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "2. 东京迪士尼度假区",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "单日票",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：成人票7,900～10,900日元，学生票6,600～9,000日元，儿童票4,700～5,600日元[4]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "一日护照",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：成人票7,900～10,900日元，学生票6,600～9,000日元，儿童票4,700～5,600日元[16]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "指定入园时间票",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：成人票6,500～8,700日元，学生票5,300～7,200日元，儿童票3,800～4,400日元[4]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "住宿游客门票",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：入住东京迪士尼海洋梦幻泉乡大饭店的游客，门票价格更高，成人票22,900～25,900日元[16]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "3. 全球迪士尼乐园",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "美国",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：洛杉矶迪士尼乐园和奥兰多沃尔特·迪士尼世界，成人单日票价在"
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "109至"
+                },
+                {
+                  "type": "text",
+                  "content": "159之间[20]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "欧洲",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：巴黎迪士尼乐园和西班牙港迪士尼乐园，成人单日票价大约在€75至€100[20]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "亚洲",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：中国香港迪士尼乐园、上海迪士尼乐园和东京迪士尼乐园，基础票价一般在人民币399元至699元[20]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、适用人群",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "儿童",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：3-11岁儿童可购买儿童票，3岁以下婴幼儿免票入园[10]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "老年人",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：60周岁及以上游客可购买老年人票[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "残障人士",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：需携带本人有效残障证明原件，并通过“中国残疾人联合会”微信公众号验证，方可享受优惠票价[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "学生",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：东京迪士尼度假区提供学生票，价格为6,600～9,000日元[4]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、购票方式",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "官方渠道",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：上海迪士尼度假区可通过官方网站、官方微信公众号、阿里旅行官方旗舰店、预订服务中心、度假区售票处等渠道购票[7]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "第三方平台",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：飞猪、携程等平台也提供迪士尼乐园门票预订服务，部分平台支持电子票和出票保障[9]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "年卡",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可通过上海迪士尼度假区官方APP购买年卡，享受12期免息分期付款[15]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、使用规则",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "实名制购票",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：上海迪士尼度假区实行实名制购票政策，一张有效身份证件限购一张门票[10]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "入园要求",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：不满十六周岁的游客须由十六周岁（含）及以上游客陪同入园[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "门票有效期",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：门票仅限于特定日期使用，二日票仅限于特定的两天使用[7]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "退改规则",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：门票不可转让、不可退款、不可改期[7]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "快速通关",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可通过购买快速通行证（如8项/14项快速卡）提升游玩体验[17]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": "五、其他服务与优惠",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 17,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "餐饮兑换券",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：部分门票包含119元餐饮兑换券，可在指定快餐服务餐厅使用[11]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "导游服务",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可选择购买包含导游服务的套餐，如“迪士尼奇梦假日-春夏套餐”[15]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "接送服务",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：从上海市区饭店到上海迪士尼乐园的接送服务价格为TWD 574[3]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "年卡福利",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：年卡持卡游客可享受多次入园、专属活动和分期付款等优惠[15]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 18,
+          "content": [
+            {
+              "type": "text",
+              "content": "六、注意事项",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 19,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "提前预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：建议至少提前31天购买门票，尤其是热门日期[7]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "天气影响",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：部分演出（如“奇梦之光幻影秀”）可能因恶劣天气调整或取消[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "安全提示",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客需遵守乐园的安全规定，特别是高原地区、户外游乐项目等[9]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 20,
+          "content": [
+            {
+              "type": "text",
+              "content": "七、总结",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 21,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园与度假区的票务信息丰富多样，游客可根据自身需求选择合适的门票类型和优惠方案。无论是标准票、一日票、二日票，还是年卡、快速通行证等，游客都能找到适合自己的选择。同时，乐园也提供了多种贴心服务，如餐饮兑换券、接送服务、导游服务等，以提升游客的游玩体验。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 22,
+          "content": [
+            {
+              "type": "text",
+              "content": "[AI生成]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 23,
+          "content": [
+            {
+              "type": "text",
+              "content": "相关事件",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "table",
+          "index": 24,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 24,
+              "content": "<table><tr><td><p><strong>事件名称</strong></p></td><td><p><strong>事件时间</strong></p></td><td><p><strong>事件概述</strong></p></td><td><p><strong>类型</strong></p></td></tr><tr><td><p>上海迪士尼度假区实行新的实名制购票政策</p></td><td><p>2024年9月</p></td><td><p>为打击“黄牛”行为，上海迪士尼度假区宣布实行新的实名制购票政策，要求游客必须携带本人有效身份证件购票，且一张身份证限购一张门票。</p></td><td><p>政策法规</p></td></tr><tr><td><p>上海迪士尼度假区调整门票价格结构</p></td><td><p>2023年6月23日</p></td><td><p>自2023年6月23日起，上海迪士尼度假区在现行四级票价结构下，调整了上海迪士尼乐园门票价格，将票价分为“普通日”、“特殊常规日”等类别。</p></td><td><p>价格变动</p></td></tr><tr><td><p>上海迪士尼度假区推出多项优惠活动</p></td><td><p>2025年2月-3月</p></td><td><p>为吸引游客，上海迪士尼度假区推出了多项优惠活动，如国际妇女节下午场门票、春日主题活动、以及与酒店合作的套餐等。</p></td><td><p>营销活动</p></td></tr><tr><td><p>上海迪士尼度假区推出儿童特惠票</p></td><td><p>2025年1月7日至2025年3月20日</p></td><td><p>迪士尼乐园度假区推出儿童特惠票，3-9岁儿童可享受50美元的1日1园门票优惠。</p></td><td><p>营销活动</p></td></tr><tr><td><p>上海迪士尼度假区推出“米奇童话专列”和“奇梦之光幻影秀”预留观赏区域</p></td><td><p>2025年</p></td><td><p>上海迪士尼乐园为游客提供“米奇童话专列”和“奇梦之光幻影秀”的预留观赏区域，但需留意官方APP获取具体场次信息。</p></td><td><p>服务升级</p></td></tr><tr><td><p>上海迪士尼度假区更新儿童免票政策</p></td><td><p>2024年9月</p></td><td><p>上海迪士尼度假区调整了儿童免票政策，规定3岁以下的婴幼儿可免票入园，而3至11周岁的儿童可购买儿童票。</p></td><td><p>政策法规</p></td></tr><tr><td><p>上海迪士尼度假区推出“早鸟票”</p></td><td><p>2024年</p></td><td><p>上海迪士尼度假区推出了“早鸟票”，游客需提前十天购买，价格从263元至446.25元不等。</p></td><td><p>产品发布</p></td></tr><tr><td><p>上海迪士尼度假区推出“迪士尼小镇游船票”</p></td><td><p>2025年</p></td><td><p>上海迪士尼度假区推出了“迪士尼小镇游船票”，十人一船的票价为215元。</p></td><td><p>产品发布</p></td></tr><tr><td><p>上海迪士尼度假区推出“快速游玩”服务</p></td><td><p>2025年</p></td><td><p>游客可购买“快速游玩”服务，例如8项快速游玩的套餐价格为898元。</p></td><td><p>服务升级</p></td></tr><tr><td><p>上海迪士尼度假区推出“公主变装”儿童票</p></td><td><p>2025年</p></td><td><p>上海迪士尼度假区推出了“公主变装”儿童票，价格为899元（经典系列）和1199元（梦幻系列）。</p></td><td><p>产品发布</p></td></tr><tr><td><p>上海迪士尼度假区推出“年卡”及“年卡日历”</p></td><td><p>2025年</p></td><td><p>上海迪士尼度假区提供年卡服务，游客可通过官方APP购买，并可查询“年卡日历”了解可入园日期。</p></td><td><p>产品发布</p></td></tr><tr><td><p>上海迪士尼度假区推出“1日票+套餐抵扣券”</p></td><td><p>2024年9月</p></td><td><p>上海迪士尼度假区推出了“1日票+套餐抵扣券”的组合产品，例如“1日票+买一赠一尊享卡”价格为439元。</p></td><td><p>产品发布</p></td></tr><tr><td><p>上海迪士尼度假区推出“同行专享”门票</p></td><td><p>2024年9月</p></td><td><p>上海迪士尼度假区推出了“同行专享”门票，分销渠道价格从318元至475元不等。</p></td><td><p>产品发布</p></td></tr><tr><td><p>东京迪士尼度假区门票价格公布</p></td><td><p>2024年8月</p></td><td><p>东京迪士尼度假区公布了详细的门票价格，包括单日票、一日护照、指定入园时间票等，价格范围在4,700日元至25,900日元之间。</p></td><td><p>价格变动</p></td></tr></table>"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 25,
+          "content": [
+            {
+              "type": "text",
+              "content": "相关组织",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "table",
+          "index": 26,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 26,
+              "content": "<table><tr><td><p><strong>组织名称</strong></p></td><td><p><strong>概述</strong></p></td><td><p><strong>类型</strong></p></td></tr><tr><td><p>上海迪士尼度假区</p></td><td><p>位于上海的迪士尼乐园运营主体，负责制定和执行门票价格、购票政策及游客服务。</p></td><td><p>商业公司</p></td></tr><tr><td><p>上海国际主题乐园有限公司</p></td><td><p>上海迪士尼度假区的运营方，负责发布乐园的购票须知和相关条款细则。</p></td><td><p>商业公司</p></td></tr><tr><td><p>中国残疾人联合会</p></td><td><p>其微信公众号被用于验证残障人士入园资格，是残障游客入园的重要官方机构。</p></td><td><p>政府机构</p></td></tr><tr><td><p>飞猪</p></td><td><p>提供迪士尼乐园门票在线预订服务的第三方平台，为游客提供电子票和出票保障。</p></td><td><p>电商平台</p></td></tr><tr><td><p>东京迪士尼度假区</p></td><td><p>日本的迪士尼乐园运营方，其门票价格和票种信息是全球迪士尼票价体系的重要参考。</p></td><td><p>商业公司</p></td></tr><tr><td><p>407&amp;Beyond Vacation Co.</p></td><td><p>推出包含迪士尼乐园度假区的旅行套餐的旅游公司，代表了迪士尼乐园的旅游合作方。</p></td><td><p>旅行社</p></td></tr><tr><td><p>美国空军罗宾斯空军基地 (ROBINS AFB)</p></td><td><p>一个提供迪士尼乐园门票价格列表的地点，其信息可能与美国本土的迪士尼乐园相关。</p></td><td><p>军事基地</p></td></tr><tr><td><p>中国银行</p></td><td><p>作为支付方式之一，出现在与迪士尼乐园相关的票务信息中。</p></td><td><p>金融机构</p></td></tr></table>"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 27,
+          "content": [
+            {
+              "type": "text",
+              "content": "相关人物",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "table",
+          "index": 28,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 28,
+              "content": "<table><tr><td><p><strong>人物名称</strong></p></td><td><p><strong>概述</strong></p></td><td><p><strong>类型</strong></p></td></tr><tr><td><p>李俊</p></td><td><p>报道了上海迪士尼度假区实名制购票政策的记者，该政策直接影响了门票的购买和使用方式。</p></td><td><p>媒体人</p></td></tr><tr><td><p>张勇</p></td><td><p>作为上海迪士尼度假区的代表，参与了关于实名制购票政策的新闻发布会。</p></td><td><p>企业高管</p></td></tr><tr><td><p>robinsitt@gmail.com</p></td><td><p>一个用于处理票务问题和住宿咨询的电子邮件地址，是乐园票务服务体系的一部分。</p></td><td><p>联系人</p></td></tr></table>"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 29,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园的淡旺季安排因地区而异，以下是各主要迪士尼乐园的淡旺季日历：",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 30,
+          "content": [
+            {
+              "type": "text",
+              "content": "上海迪士尼度假区",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 31,
+          "content": [
+            {
+              "type": "text",
+              "content": "淡季：11月至次年2月（除春节外），以及3月、4月、5月、9月、11月的部分时间。这些时间段游客较少，适合避开人流高峰。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 32,
+          "content": [
+            {
+              "type": "text",
+              "content": "旺季：暑假、国庆节、春节和五一劳动节等节假日。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 33,
+          "content": [
+            {
+              "type": "text",
+              "content": "美国奥兰多迪士尼世界",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 34,
+          "content": [
+            {
+              "type": "text",
+              "content": "淡季：8月底、9月以及1月。这些时间段游客数量大幅减少，乐园内的各个项目几乎不需要排队。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 35,
+          "content": [
+            {
+              "type": "text",
+              "content": "旺季：春季（3月至5月）和秋季（9月至11月）。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 36,
+          "content": [
+            {
+              "type": "text",
+              "content": "东京迪士尼乐园",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 37,
+          "content": [
+            {
+              "type": "text",
+              "content": "淡季：1月下旬至3月初和9月下旬至11月初。这些时间段游客较少，游乐设施等待时间较短，氛围更轻松。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 38,
+          "content": [
+            {
+              "type": "text",
+              "content": "旺季：日本学校假期（如黄金周4月下旬至5月初）、暑假（7月下旬至8月）和圣诞节假期（12月中旬至1月初）。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 39,
+          "content": [
+            {
+              "type": "text",
+              "content": "中国香港迪士尼乐园",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 40,
+          "content": [
+            {
+              "type": "text",
+              "content": "淡季：5月至6月和9月至10月。这些时间段游客相对较少，但需要注意的是，5-6月是中国香港的梅雨季节，天气较为闷热潮湿。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 41,
+          "content": [
+            {
+              "type": "text",
+              "content": "旺季：通常与中国香港的节假日和旅游旺季重合，如春节、国庆节等。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 42,
+          "content": [
+            {
+              "type": "text",
+              "content": "总结",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 43,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园的淡旺季安排主要受到地理位置和当地节假日的影响。游客可以选择在淡季前往，以享受更少的人群和更短的排队时间，从而提升游玩体验。同时，提前规划行程，避开节假日和周末，也是减少人潮的有效方法。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "text",
+          "index": 44,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园年卡政策",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 45,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园的年卡分为多个级别，每个级别都有其特定的权益、价格和适用规则。以下是对这些信息的详细说明：",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 46,
+          "content": [
+            {
+              "type": "text",
+              "content": "年卡级别及权益",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 47,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. "
+                },
+                {
+                  "type": "text",
+                  "content": "幻彩珍珠卡：",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "价格：1399元。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "权益：可全年不少于200天预约入园，每周可领取十张餐饮满减优惠券。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "不适用日期：仅限工作日入园，周末不可使用。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. "
+                },
+                {
+                  "type": "text",
+                  "content": "奇梦翡翠卡：",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "价格：2599元。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "权益：可预约入园天数为300天，每周可领取五张餐饮满减优惠券。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "不适用日期：无特定限制，但需提前预约。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. "
+                },
+                {
+                  "type": "text",
+                  "content": "无限钻石卡：",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "价格：4399元。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "权益：可全年365天无限次入园，每周可领取十张餐饮满减优惠券，并有早享入园等权益。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "不适用日期：无特定限制。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 48,
+          "content": [
+            {
+              "type": "text",
+              "content": "续费政策",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 49,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "有效期：年卡的有效期为一年，从个人化会员卡的签发或续期日期开始计算。",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "续期方式：会员可以在原会员资格到期前60天内续期，可以通过亲自前往公园主入口售票处、酒店前台或通过网站或中国香港迪士尼乐园预订中心进行续期。",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "续期费用：续期后的会员资格有效期为原会员资格到期后的一年。",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "续期福利：续期福利或优惠需遵守中国香港迪士尼乐园管理有限公司（HKITP）制定的适用条款和条件。",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 50,
+          "content": [
+            {
+              "type": "text",
+              "content": "注意事项",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 51,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "不可转让：年卡不可转让、不可兑换或退款。",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "身份验证：会员需提供有效身份证明文件以核实身份。",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "更改和伪造：会员卡如有更改或伪造，将被视为无效。",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "终止权利：HKITP有权拒绝接受、撤销或保留会员卡，或暂停或终止会员卡相关福利，无需退款或赔偿。",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 52,
+          "content": [
+            {
+              "type": "text",
+              "content": "以上信息综合了迪士尼乐园年卡的各级别权益、价格、不适用日期和续费政策，希望能帮助您更好地了解和选择适合自己的年卡。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 53,
+          "content": [
+            {
+              "type": "text",
+              "content": "各地区迪士尼乐园和度假区的特殊套票（如乐园+酒店套餐）通常包含以下内容与规定：",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 54,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. "
+                },
+                {
+                  "type": "text",
+                  "content": "套餐内容：",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "酒店住宿：通常包括迪士尼度假区内的酒店住宿，如迪士尼乐园酒店、迪士尼天堂码头酒店、迪士尼大加州酒店等。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "主题公园门票：套餐中通常包含一定天数的主题公园门票，例如3天或5天的纪念票，允许游客在指定时间内进入乐园。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "额外福利：部分套餐还提供额外的“魔法晨光”入场资格，允许游客提前一小时进入选定景点，以及“魔法时光”每天进入主题公园的机会。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "餐饮优惠：部分套餐包含餐饮折扣或特定餐厅的用餐优惠，例如中国香港迪士尼乐园的套票包含四张乐园二合一美食餐券。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "其他服务：如机场接送、租车服务、旅行保险、迪士尼角色电话服务、优先座位等。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. "
+                },
+                {
+                  "type": "text",
+                  "content": "使用规定：",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "预订要求：所有房间内的人员必须在同一套餐和票务选项下预订，且套餐和票务及其选项不可转让。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "有效期：主题公园门票和选项必须在首次使用后的13天内使用。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "入园方式：部分套餐要求游客出示身份证件或户口本原件入园，尤其是无身份证的儿童需携带户口本原件。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "预约制度：部分乐园要求游客提前预约入园，且预约名额有限，超额预约将无法使用。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "不可转让性：所有套票和优惠不可转让、退换或兑换现金，且不可与其他优惠叠加使用。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "取消与退款：部分套餐规定，若未按预订日期入住或取消预订，将收取费用；逾期退款可能收取高额违约金。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "特殊活动：部分套票不适用于另行收费的特别活动。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. "
+                },
+                {
+                  "type": "text",
+                  "content": "地区差异：",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "中国香港迪士尼乐园：提供针对香港居民的生日套票，包含免费晚餐和乐园门票，但需提前至少3天预订，并且每位宾客仅限使用一次。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "上海迪士尼乐园：提供多种酒店+门票套餐，包含接送服务和早餐，但部分套餐不支持单独入园，需统一安排。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "欧洲迪士尼：提供假期套餐，包括住宿和乐园访问，但需遵守法国旅游法的相关规定。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. "
+                },
+                {
+                  "type": "text",
+                  "content": "注意事项：",
+                  "styles": [
+                    "bold"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "证件要求：游客需确保填写的出行人信息准确无误，并携带所有必要的证件，否则可能导致无法入园。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "着装规定：部分乐园对游客的着装有严格要求，例如十六周岁及以上游客不得穿着卡通或电影角色服装。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "禁止携带物品：部分乐园禁止携带易燃易爆物品、酒精饮料、大型行李等。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "安全与文明：游客需尊重乐园内的其他游客和演职人员，遵守安全规定，不得在园内奔跑或进行危险行为。",
+                      "styles": [
+                        "bold"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 55,
+          "content": [
+            {
+              "type": "text",
+              "content": "各地区迪士尼乐园和度假区的特殊套票内容丰富，涵盖住宿、门票、餐饮、交通等多方面，但使用时需严格遵守相关条款和规定，以确保顺利游玩。",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 56,
+          "content": [
+            {
+              "type": "text",
+              "content": "内容为AI生成，可能不准确，请谨慎参考"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

@@ -1,0 +1,500 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "created_at": "2025-07-28T03:33:00Z",
+      "modified_at": "2025-07-28T05:04:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 5,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "各地区迪士尼乐园度假区客诉升级处理机制：何时需要将问题转给上级或特定部门（如：宾客关系部）",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "在各地区迪士尼乐园度假区，客诉处理机制通常包括多个层级，以确保问题能够得到妥善解决。当问题无法在基层解决时，需要将问题转交给上级或特定部门，如宾客关系部（Guest Relations）。以下是关于何时需要将问题转给上级或特定部门的详细说明："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. "
+                },
+                {
+                  "type": "text",
+                  "content": "现场投诉无法解决",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果游客在园区内遇到的问题无法通过现场工作人员解决，例如服务态度问题、设施故障或商品瑕疵等，游客可以向现场的客户服务站寻求帮助。如果问题仍未解决，游客可以向宾客关系部（Guest Relations）反映问题[7]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉涉及安全问题",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果投诉涉及安全问题，例如游客与员工之间的冲突，或者设施存在安全隐患，应立即上报给上级管理人员或相关部门，以确保游客的安全和园区的正常运营[11]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉涉及政策或程序问题",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果投诉涉及迪士尼乐园的政策或程序问题，例如票价、服务标准等，游客可以向宾客关系部提交正式投诉，以便相关部门进行调查和处理[5]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉未在规定时间内解决",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：根据迪士尼乐园的投诉处理流程，如果投诉在规定时间内（如24小时内）未得到解决，游客可以要求与上级管理人员或特定部门（如宾客关系部）联系，以获取进一步的帮助[1]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "5. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉升级至法律层面",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果投诉涉及法律问题，例如游客与员工之间的纠纷，游客可以选择通过法律途径解决，但迪士尼乐园也鼓励游客通过内部渠道解决争议，以避免不必要的法律纠纷[9]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "6. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉涉及多个部门或复杂情况",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果投诉涉及多个部门或情况较为复杂，例如涉及多个服务点或多个员工，游客可以将问题转交给上级管理人员或特定部门（如宾客关系部），以便更有效地协调和解决[11]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "通过上述机制，迪士尼乐园度假区能够确保游客的投诉得到及时、有效的处理，并在必要时将问题转交给上级或特定部门，以保障游客的权益和满意度。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "各地区迪士尼乐园度假区\n客诉升级处理机制（Escalation Rules）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、通用触发门槛\n以下七类情形出现任何一条，一线员工必须立即启动升级，3 分钟内通知当班主管，10 分钟内交由宾客关系部（Guest Relations, GR）或对应专业部门接手："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 人身/财产安全事故\n• 设施故障导致受伤、需现场医疗或送医\n• 食品安全疑似中毒、过敏"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 涉及执法或舆情风险\n• 宾客声称将报警、起诉、联系媒体或通过社交平台曝光\n• 已出现拍照录像并表明上传网络"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 歧视或严重服务冒犯\n• 演职人员被指控歧视、辱骂、肢体冲突"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. 高额赔偿诉求\n• 宾客索赔金额＞当班主管当日授权上限（上海：>1 000 元；香港：>1 000 港元；加州/佛州/巴黎：>150 USD/€）"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "5. 连续二次投诉\n• 相同宾客在 48 小时内就同一事件再次投诉"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "6. 政策与合同争议\n• 涉及门票退改、年卡条款、禁带食品规则、不可抗力退票等园区级政策解释"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "7. 系统级故障\n• 大面积票务、酒店预订、年卡系统异常，影响 ≥50 人"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、区域差异速查表"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "表格",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 9,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 9,
+              "content": "<table><thead><tr><th><p><strong>园区</strong></p></th><th><p><strong>升级首接部门</strong></p></th><th><p><strong>最高现场决策人</strong></p></th><th><p><strong>备注</strong></p></th></tr></thead><tbody><tr><td><p>上海 Disney Resort</p></td><td><p>宾客关系部（GR）+ 运营指挥中心</p></td><td><p>园区总经理</p></td><td><p>需同步录入“浦东新区一网统管”游客投诉数据库</p></td></tr><tr><td><p>香港 Disneyland</p></td><td><p>GR + 质量管理部（QMS）</p></td><td><p>度假区总经理</p></td><td><p>涉及法律威胁须 1 小时内抄送法务</p></td></tr><tr><td><p>加州 Disneyland &amp; Disney California Adventure</p></td><td><p>GR + Security &amp; Emergency Operations</p></td><td><p>VP, Park Operations</p></td><td><p>任何急救事件同步上报 Anaheim PD</p></td></tr><tr><td><p>佛州 Walt Disney World（4 园）</p></td><td><p>GR + Incident Command Center</p></td><td><p>园区副总裁</p></td><td><p>媒体威胁立即转 Reputation Management</p></td></tr><tr><td><p>巴黎 Disneyland Paris</p></td><td><p>GR + Guest &amp; Cast Excellence</p></td><td><p>园区副总裁</p></td><td><p>欧盟 GDPR 投诉需同步通知 DPO（数据保护官）</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、升级流程时间轴（适用于所有园区）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "0–3 min　一线员工使用对讲机呼叫“Code G”（Guest Escalation），同时填写《现场事件单》\n3–10 min　当班主管到场，核实触发门槛 → 若确认升级，立即电话通知 GR Duty Manager\n10–30 min　GR 到场接手，一线员工仅做安全看护，不再与宾客讨论补偿细节\n30–60 min GR 完成初步方案；若涉及法律或舆情，同步通知园区 Crisis Communication Team\n≥24 h　GR 完成二次回访，记录 CRM 并关闭或继续升级至总部消费者事务部"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、一句话记忆卡片\n“只要出现‘血、法、媒、钱、群、二、政’七个字，立刻升级！”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": "在各地区迪士尼乐园度假区，客诉处理机制通常包括多个层级，以确保问题能够得到妥善解决。当问题无法在基层解决时，需要将问题转交给上级或特定部门，如宾客关系部（Guest Relations）。以下是关于何时需要将问题转给上级或特定部门的详细说明："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. "
+                },
+                {
+                  "type": "text",
+                  "content": "现场投诉无法解决",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果游客在园区内遇到的问题无法通过现场工作人员解决，例如服务态度问题、设施故障或商品瑕疵等，游客可以向现场的客户服务站寻求帮助。如果问题仍未解决，游客可以向宾客关系部（Guest Relations）反映问题。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉涉及安全问题",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果投诉涉及安全问题，例如游客与员工之间的冲突，或者设施存在安全隐患，应立即上报给上级管理人员或相关部门，以确保游客的安全和园区的正常运营。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉涉及政策或程序问题",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果投诉涉及迪士尼乐园的政策或程序问题，例如票价、服务标准等，游客可以向宾客关系部提交正式投诉，以便相关部门进行调查和处理。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉未在规定时间内解决",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：根据迪士尼乐园的投诉处理流程，如果投诉在规定时间内（如24小时内）未得到解决，游客可以要求与上级管理人员或特定部门（如宾客关系部）联系，以获取进一步的帮助。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "5. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉升级至法律层面",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果投诉涉及法律问题，例如游客与员工之间的纠纷，游客可以选择通过法律途径解决，但迪士尼乐园也鼓励游客通过内部渠道解决争议，以避免不必要的法律纠纷。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "6. "
+                },
+                {
+                  "type": "text",
+                  "content": "投诉涉及多个部门或复杂情况",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果投诉涉及多个部门或情况较为复杂，例如涉及多个服务点或多个员工，游客可以将问题转交给上级管理人员或特定部门（如宾客关系部），以便更有效地协调和解决。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": "通过上述机制，迪士尼乐园度假区能够确保游客的投诉得到及时、有效的处理，并在必要时将问题转交给上级或特定部门，以保障游客的权益和满意度。"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": "内容为AI生成，可能不准确，请谨慎参考"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

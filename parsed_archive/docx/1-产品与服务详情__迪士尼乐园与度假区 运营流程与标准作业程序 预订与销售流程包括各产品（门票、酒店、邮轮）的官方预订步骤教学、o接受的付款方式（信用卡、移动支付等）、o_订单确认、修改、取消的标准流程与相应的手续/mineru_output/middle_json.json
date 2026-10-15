@@ -1,0 +1,1089 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "created_at": "2025-07-28T03:12:00Z",
+      "modified_at": "2025-07-28T03:12:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 5,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "各地区迪士尼乐园与度假区 运营流程与标准作业程序 预订与销售流程包括各产品（门票、酒店、邮轮）的官方预订步骤教学、接受的付款方式（信用卡、移动支付等）、订单确认、修改、取消的标准流程与相应的手续费",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园与度假区的运营流程与标准作业程序（SOP）涵盖了从预订到销售的各个环节，包括门票、酒店和邮轮等产品的官方预订步骤、接受的付款方式、订单确认、修改和取消的标准流程以及相应的手续费。以下是各地区的迪士尼乐园与度假区在这些方面的详细信息："
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、官方预订步骤教学",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. "
+                },
+                {
+                  "type": "text",
+                  "content": "门票预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "在线预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以通过迪士尼官方网站或官方App进行门票预订。选择想要游览的迪士尼乐园、游玩日期和票种，填写个人信息并完成支付即可[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "官方授权旅行社",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：许多迪士尼乐园设有官方授权旅行社，游客可以通过这些旅行社购买门票。授权旅行社通常提供更全面的服务，如行程安排、酒店预订等[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "第三方平台",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：除了官方网站和授权旅行社外，一些第三方平台也提供迪士尼乐园门票的预订服务。这些平台通常价格较为优惠，但游客在选择时需注意平台的信誉和售后服务[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "线下购票",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：部分迪士尼乐园的售票窗口也提供现场购票服务。游客可以前往乐园售票处购买门票，但现场购票可能需要排队等候[8]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. "
+                },
+                {
+                  "type": "text",
+                  "content": "酒店预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "在线预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以通过迪士尼官方网站或官方App进行酒店预订。选择想要入住的酒店、入住日期和房间类型，填写个人信息并完成支付即可[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "官方授权旅行社",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：许多迪士尼乐园设有官方授权旅行社，游客可以通过这些旅行社购买酒店预订。授权旅行社通常提供更全面的服务，如行程安排、门票预订等[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "第三方平台",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：除了官方网站和授权旅行社外，一些第三方平台也提供迪士尼乐园酒店的预订服务。这些平台通常价格较为优惠，但游客在选择时需注意平台的信誉和售后服务[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "线下预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：部分迪士尼乐园的酒店前台也提供现场预订服务。游客可以前往酒店前台进行预订，但现场预订可能需要排队等候[8]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. "
+                },
+                {
+                  "type": "text",
+                  "content": "邮轮预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "在线预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以通过迪士尼邮轮官方网站或官方App进行邮轮预订。选择想要乘坐的邮轮、出发日期和舱房类型，填写个人信息并完成支付即可[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "官方授权旅行社",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：许多迪士尼邮轮设有官方授权旅行社，游客可以通过这些旅行社购买邮轮预订。授权旅行社通常提供更全面的服务，如行程安排、酒店预订等[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "第三方平台",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：除了官方网站和授权旅行社外，一些第三方平台也提供迪士尼邮轮的预订服务。这些平台通常价格较为优惠，但游客在选择时需注意平台的信誉和售后服务[8]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "线下预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：部分迪士尼邮轮的旅行社或代理点也提供现场预订服务。游客可以前往旅行社或代理点进行预订，但现场预订可能需要排队等候[8]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、接受的付款方式",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. "
+                },
+                {
+                  "type": "text",
+                  "content": "信用卡",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：迪士尼乐园与度假区接受多种信用卡支付，包括Visa、MasterCard、American Express等[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. "
+                },
+                {
+                  "type": "text",
+                  "content": "借记卡",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：迪士尼乐园与度假区接受借记卡支付，包括PayPal、Apple Pay等[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. "
+                },
+                {
+                  "type": "text",
+                  "content": "电子钱包",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：迪士尼乐园与度假区接受电子钱包支付，包括微信支付、支付宝等[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. "
+                },
+                {
+                  "type": "text",
+                  "content": "现金",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：部分迪士尼乐园与度假区接受现金支付，但具体接受情况可能因地区而异[12]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、订单确认、修改、取消的标准流程与相应的手续费",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. "
+                },
+                {
+                  "type": "text",
+                  "content": "订单确认",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "门票预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客在完成门票预订后，将收到预订确认的电子票或预订编号。请妥善保存该信息，以备入园时使用[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "酒店预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客在完成酒店预订后，将收到预订确认的电子票或预订编号。请妥善保存该信息，以备入住时使用[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "邮轮预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客在完成邮轮预订后，将收到预订确认的电子票或预订编号。请妥善保存该信息，以备登船时使用[12]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. "
+                },
+                {
+                  "type": "text",
+                  "content": "订单修改",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "门票预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以在预订后的一定时间内修改门票预订，具体修改时间可能因地区而异[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "酒店预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以在预订后的一定时间内修改酒店预订，具体修改时间可能因地区而异[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "邮轮预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以在预订后的一定时间内修改邮轮预订，具体修改时间可能因地区而异[12]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. "
+                },
+                {
+                  "type": "text",
+                  "content": "订单取消",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 17,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "门票预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以在预订后的一定时间内取消门票预订，具体取消时间可能因地区而异。取消门票预订可能会产生一定的手续费[10]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "酒店预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以在预订后的一定时间内取消酒店预订，具体取消时间可能因地区而异。取消酒店预订可能会产生一定的手续费[10]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "邮轮预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：游客可以在预订后的一定时间内取消邮轮预订，具体取消时间可能因地区而异。取消邮轮预订可能会产生一定的手续费[10]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 18,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、总结",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园与度假区的运营流程与标准作业程序涵盖了从预订到销售的各个环节，包括门票、酒店和邮轮等产品的官方预订步骤、接受的付款方式、订单确认、修改和取消的标准流程以及相应的手续费。通过上述流程，游客可以轻松地规划他们的梦幻之旅，享受迪士尼乐园与度假区带来的乐趣。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 20,
+          "content": [
+            {
+              "type": "text",
+              "content": "[AI生成]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 21,
+          "content": [
+            {
+              "type": "text",
+              "content": "参考资料",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "text",
+          "index": 22,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://cdn1.parksmedia.wdprapps.disney.com/vision-dam/digital/parks-services/services-standard-assets/wdtc/downloads/Walt-Disney-Travel-Company-Booking-Terms-and-Conditions-English-08-12-21-.pdf?2022-04-26T14:54:29+00:00",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. WALT DISNEY TRAVEL COMPANY INTERNATIONAL BOOKING TERMS AND CONDITIONS (EFFECTIVE 1 JULY 2018 UPDATED 8 December 2021)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 23,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.booktickets.disneylandparis.com/tnsa64/live/8en/resources/CGV%20Int%20S17-W1718%20EN%20Euro.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. BOOKING TERMS AND CONDITIONS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 24,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://media.disneywebcontent.com/Media/media1/AgentCentral/Disney_Destinations_Commission_Research_Information_11-25-2019.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. Disney Destinations Commission Research Information"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 25,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://cdn1.parksmedia.wdprapps.disney.com/vision-dam/digital/parks-services/services-standard-assets/wdtc/downloads/booking-conditions/11-02-25/Walt-Disney-Travel-Company-International-Booking-Conditions-11-02-25.pdf?2025-02-10T09:49:58+00:00",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. THE WALT DISNEY TRAVEL COMPANY INTERNATIONAL BOOKING TERMS AND CONDITIONS (EFFECTIVE 1 JULY 2018 UPDATED 11 February 2025)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 26,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://media.disneywebcontent.com/Media/DTA/WDW/PDF/2025_WDTCPackageTermsConditionsDC-LeisureGroups_1-22-24.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "5. WALT DISNEY TRAVEL COMPANY TERMS AND CONDITIONS FOR WALT DISNEY WORLD® RESORT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 27,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.shanghaidisneyresort.com/tickets/#:~:text=%E6%AF%8F%E6%97%A5%E6%95%B0%E9%87%8F%E6%9C%89%E9%99%90%EF%BC%8C%E5%94%AE,%EF%BC%88%E5%90%AB%EF%BC%89%E4%BB%A5%E4%B8%8A%E9%A1%BB%E8%B4%AD%E4%B9%B0%E3%80%82",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "6. 购买门票| 上海迪士尼度假区"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 28,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://cdn1.parksmedia.wdprapps.disney.com/media/disneyparksjapan-prod/disneyparksjapan_v0001/1/media/FY18-Q2-Brochure.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "7. 迪士尼目的地"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 29,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.wumengli.com/lvyougonglue/100256.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "8. 迪士尼乐园门票价格一览，官方渠道购票攻略"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 30,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://faq.tokyodisneyresort.jp/reserve/en/",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "9. [Official] | FAQ (for Online Reservation & Tickets) - Tokyo Disney Resort"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 31,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://magicaladventureguide.com/are-disney-tickets-refundable/",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "10. Are Disney Tickets Refundable & What Is Disney World Cancellation Policy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 32,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://faq.tokyodisneyresort.jp/reserve/faq_list.html?page=&category=786",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "11. 【公式】変更・取消｜レストラン｜よくあるご質問 - オンライン予約・購入 - ｜東京ディズニーリゾート"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 33,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://bk.taobao.com/k/dishini_131/8b95841f86fa4642b0eb36bfaf7d0103.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "12. 迪士尼官网订票：如何轻松规划你的梦幻之旅"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 34,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.hstong.com/news/detail/24091512090433946",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "13. “贝碧嘉”来袭!上海迪士尼今天傍晚停止运营,明日闭园 港..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 35,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://faq.tokyodisneyresort.jp/reserve/zh-cn/faq_detail.html?id=18188&category=778",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "14. [官方] 可以使用A4大小以外的纸张打印迪士尼e票券（自行打印）吗…｜园区门票｜常见问题 - 网上预约＆购票 -｜东京迪士尼度假区"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 36,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.cqlpzs.cn/news/712329.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "15. 中国香港迪士尼乐园度假区官方网站 - 夜上海论坛"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 37,
+          "content": [
+            {
+              "type": "text",
+              "content": "内容为AI生成，可能不准确，请谨慎参考"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

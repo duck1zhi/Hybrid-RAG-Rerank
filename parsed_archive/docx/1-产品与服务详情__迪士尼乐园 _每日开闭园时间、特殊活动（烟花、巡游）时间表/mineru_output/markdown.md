@@ -1,0 +1,105 @@
+**各地区迪士尼乐园 	每日开闭园时间、特殊活动（烟花、巡游）时间表**
+
+各地区迪士尼乐园的每日开闭园时间及特殊活动（如烟花、巡游）时间表如下：
+
+**1. 迪士尼乐园开放时间**
+
+- **一般开放时间**：
+
+- 上海迪士尼乐园：通常为上午8:30至晚上9:30开园，但具体时间可能因季节、节假日或特殊活动而调整[7]。
+- 中国香港迪士尼乐园：普通日子的开放时间为上午10:00至晚上9:00[4]。
+
+![](images/page_0_image_5.jpg)
+
+<details>
+<summary>image content</summary>
+
+metapro添加图片
+</details>
+
+- 美国加州迪士尼乐园：通常为上午9:00至晚上21:00开园[1]。
+- 巴黎迪士尼乐园：全天都有活动，但具体开闭园时间未明确提及[13]。
+- 欧洲迪士尼乐园：开放时间会根据季节和特殊活动调整，非旺季可能在下午5点关闭，夏季可能延长至午夜[12]。
+
+- **闭园时间**：
+
+- 上海迪士尼乐园：一般在晚上9:30闭园，但旺季或特殊活动期间可能延长至午夜[7]。
+- 美国加州迪士尼乐园：通常在晚上21:00闭园[1]。
+- 中国香港迪士尼乐园：普通日子的闭园时间为晚上9:00[4]。
+- 巴黎迪士尼乐园：烟花表演大约在晚上10点开始，持续约20分钟[13]。
+
+**2. 特殊活动时间表**
+
+- **烟花表演**：
+
+- 上海迪士尼乐园：通常在晚上8:00进行“奇梦之光幻影秀”[14]。
+- 美国加州迪士尼乐园：烟花表演通常在晚上20:30至21:00之间进行[2]。
+- 中国香港迪士尼乐园：星梦奇缘烟花表演在晚上9:00进行[4]。
+- 巴黎迪士尼乐园：烟花表演大约在晚上10点开始[13]。
+- 欧洲迪士尼乐园：烟花表演时间通常在晚上20:30至21:00之间[2]。
+
+- **巡游**：
+
+- 上海迪士尼乐园：米奇童话专列巡游时间为下午3:30[6]。
+
+![](images/page_0_image_14.jpg)
+
+<details>
+<summary>image content</summary>
+
+metapro添加图片
+</details>
+
+- 美国加州迪士尼乐园：巡游时间为下午3:30和5:00[8]。
+- 中国香港迪士尼乐园：迪士尼飞天巡游时间为下午3:30[4]。
+- 巴黎迪士尼乐园：迪士尼明星大游行时间为下午5:30[13]。
+
+- **其他表演**：
+
+- 上海迪士尼乐园：冰雪奇缘：欢唱盛会时间为上午10:45、11:30、12:15、1:15、2:00、2:45、3:30、4:30[14]。
+- 美国加州迪士尼乐园：狮子王的故事时间为下午12:15、2:15、4:15、5:45[5]。
+- 中国香港迪士尼乐园：探险世界“狮子王庆典”演出时间为下午12:00、2:00、4:30、6:00；幻想世界“米奇金奖音乐剧”演出时间为上午11:30、12:45、1:45、4:00、5:00、6:15[4]。
+- 巴黎迪士尼乐园：哈兰贝村杂技演员时间为上午10:45、11:45、12:45、1:45、2:45、3:45[10]。
+
+**3. 注意事项**
+
+- **开放时间变化**：迪士尼乐园的开放时间会因季节、节假日或特殊活动而调整，建议游客提前查询乐园官网获取最新信息[12]。
+- **烟花表演时间**：烟花表演时间通常在日落前进行，具体时间可能因天气和闭园时间而异[2]。
+- **巡游时间**：巡游时间每天可能有所不同，建议提前查看时间表以避免错过[8]。
+- **特殊活动**：乐园在特殊活动期间可能会提前关闭，如“夜间迪士尼”活动[15]。
+
+以上信息为各地区迪士尼乐园的每日开闭园时间及特殊活动时间表，供游客参考。
+
+[AI生成]
+
+### **参考资料**
+
+[1. 梦幻迪斯尼通用12篇](https://www.xueshu.com/haowen/81668.html)
+
+[2. 迪士尼剧场演出时间（迪士尼剧场演出时间表） - 时光旅行者网](https://www.skdsw.com/post/17051.html)
+
+[3. 华东四市、上海迪士尼、灵山大佛、苏州耦园、杭州西湖景区、乌镇东栅、绍兴鲁迅故居、纯玩双飞六天游](http://mp.weixin.qq.com/s?src=11&timestamp=1537977258&ver=1146&signature=M00CgSpGhcNoGEzq2BUWF5ctR2xHI352pDLyoH0ti-aPnk9ct7pgV8rKCFKIQhIeekLZm8BjnO3MM2ePpsz2OlQfghgoq-yni7MLyT6KCuuLKZ7hqWl1wOoShn53FFLY&new=1)
+
+[4. 中国香港迪士尼乐园旅游攻略](http://download.cntv.cn/travel/guide/www_17u_com/2013-06-05/28470_xianggangdishinileyuangonglue_20130605_0.pdf)
+
+[5. 加州迪士尼乐园开放时间| 游行和表演时间](https://vacatis.com/zh-CN/%E5%8A%A0%E5%B7%9E%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E5%BC%80%E6%94%BE%E6%97%B6%E9%97%B4/)
+
+[6. 我国影视主题公园运营研究——以长江三角洲地区为例](https://yangtze.silkroadinfo.org.cn/2021/2/20210225142227164%E6%88%91%E5%9B%BD%E5%BD%B1%E8%A7%86%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E8%BF%90%E8%90%A5%E7%A0%94%E7%A9%B6%E2%80%94%E2%80%94%E4%BB%A5%E9%95%BF%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9C%B0%E5%8C%BA%E4%B8%BA%E4%BE%8B.pdf)
+
+[7. 【2025上海迪士尼】上海迪士尼樂園，20大設施、煙火表演](https://vivianjourney.tw/shanghai-disneyland/#:~:text=8%E9%A0%85%E8%A8%AD%E6%96%BD%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%B0%8A,%E2%80%A2%E9%A3%9B%E9%A3%9B%E8%B6%8A%E5%9C%B0%E5%B9%B3%E7%B7%9A%F0%9F%94%A5)
+
+[8. 关于进场注意事项](https://www.doc88.com/p-8019243759622.html)
+
+[9. 迪士尼烟花秀开始时间 - wee旅](https://m.weelv.com/qa/10769/106100.html)
+
+[10. 迪士尼世界开放时间 - 主题公园日历、演出时间等](https://ticketsdisneyland.com/zh-CN/%E8%BF%AA%E6%96%AF%E5%B0%BC%E4%B9%90%E5%9B%AD/%E4%B8%AA%E5%B0%8F%E6%97%B6%E9%87%8C/)
+
+[11. Walt Disney World Park Operating Hours and Parade and Show Times](https://allears.net/walt-disney-world/wdw-planning/walt-disney-world-park-operating-hours-and-parade-and-show-times/)
+
+[12. Operating Times for the Disney Theme Parks - guide-to-disney.com](https://www.guide-to-disney.com/when-to-go-to-disney-world/operating-times.php)
+
+[13. 巴黎迪士尼乐园开放时间](https://parisdisneyland-tickets.com/zh-CN/%E5%BC%80%E6%94%BE%E6%97%B6%E9%97%B4/)
+
+[14. 上海迪士尼的烟花表演时间](http://sh.bendibao.com/tour/202316/265326.shtm)
+
+[15. Disneyland Hours 2024 FAQ, Tips, & Expected Hours](https://mickeyvisit.com/disneyland-hours/)

@@ -1,0 +1,605 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "authors": [
+        "Administrator"
+      ],
+      "created_at": "2025-07-28T05:09:00Z",
+      "modified_at": "2025-07-28T05:22:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 6,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园 走失儿童协寻流程"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园「紧急情况处理」一站式速查表\n（适用于上海、东京、香港、加州、佛州、巴黎六大园区，信息更新至 2025-07-28）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、失物招领"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "表格",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 4,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 4,
+              "content": "<table><thead><tr><th><p><strong>园区</strong></p></th><th><p><strong>园内领取点</strong></p></th><th><p><strong>离开园区后如何申报</strong></p></th><th><p><strong>领取方式与时限</strong></p></th><th><p><strong>备注</strong></p></th></tr></thead><tbody><tr><td><p>上海</p></td><td><p>主入口游客服务中心（米奇大街侧）</p></td><td><p>①电话：+86-21-2099-8001（08:00-20:00）②App 在线表单</p></td><td><p>①本人凭有效证件现场领取；②可顺丰到付邮寄</p></td><td><p>保留 7 天，超期销毁</p></td></tr><tr><td><p>东京</p></td><td><p>①园内：大街服务所（世界市集）②园外：来宾服务窗口（Ikspiari 2F）</p></td><td><p>①园内立即登记 ②离园后英文表单或电话：+81-50-3090-2742（10:00-15:00）</p></td><td><p>仅限本人或持授权委托书领取</p></td><td><p>按日本遗失物法最长 3 个月</p></td></tr><tr><td><p>香港</p></td><td><p>美国小镇大街「宾客服务中心」</p></td><td><p>①电话：+852 1-830-830 选 3 ②App 在线表单</p></td><td><p>①本人领取 ②可代领需委托书</p></td><td><p>保留 1 个月</p></td></tr><tr><td><p>加州/佛州</p></td><td><p>City Hall（主街）/ Guest Relations</p></td><td><p>①App Lost &amp; Found ②电话：+1-407-939-5277</p></td><td><p>①现场 ②邮寄（到付）</p></td><td><p>保留 90 天</p></td></tr><tr><td><p>巴黎</p></td><td><p>City Hall（主街）</p></td><td><p>①App 表单 ②电话：+33-1-60-30-60-53</p></td><td><p>同上</p></td><td><p>保留 1 个月</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、走失儿童 / 亲友协寻"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 通用 SOP（所有园区 90% 一致）\n① 立即就近告知任何演职人员（CM）→ ② CM 用对讲机启动「走失代码」→ ③ 2 分钟内信息进入「走失系统」：\n• 儿童 6 要素：时间、地点、衣着、身高、性别、照片（家长手机原图）\n• 成人 4 要素：姓名、衣着、最后一次出现地点、体貌特征\n④ 广播：\n• 儿童：仅播报「请 XXX 小朋友到米奇大街走失儿童认领处，您的家人正在等您」——不暴露家长姓名与特征，防止冒领。\n• 成人：不公开广播，由安保内部定位。\n⑤ 认领：须核对亲子/亲友照片或口令，填写《安全交接单》。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 认领地点速查\n| 园区 | 走失儿童认领处 | 备注 | |---|---|---| | 上海 | ①米奇大街「护婴中心/走失儿童认领处」②明日世界医务室旁 | 与警方联动，黄金 30 分钟找回率 100% | | 东京 | ①大街服务所 ②卡通城「走失儿童服务中心」 | 提供安抚玩具、卡通贴纸 | | 香港 | 美国小镇大街「宾客服务中心」 | 与竹篙湾警岗直线电话联动 | | 加州/佛州 | City Hall & Baby Care Center | 与 Anaheim PD / Orange County Sheriff 实时共享信息 | | 巴黎 | City Hall | 法语/英语双语广播 |"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、医疗救助"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "表格",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 9,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 9,
+              "content": "<table><thead><tr><th><p><strong>园区</strong></p></th><th><p><strong>救护站位置</strong></p></th><th><p><strong>24h 急救热线</strong></p></th><th><p><strong>可提供基础服务</strong></p></th><th><p><strong>无法提供</strong></p></th></tr></thead><tbody><tr><td><p>上海</p></td><td><p>①米奇大街老车站商店旁 ②明日世界 E 空间·百事舞台旁</p></td><td><p>021-2099-8001 → 转 3</p></td><td><p>创可贴、冰袋、退烧贴、AED、简单包扎</p></td><td><p>处方药、注射</p></td></tr><tr><td><p>东京</p></td><td><p>世界市集「中央救护室」</p></td><td><p>园内拨打 0 → 救护</p></td><td><p>同上 + 轮椅出借</p></td><td><p>同上</p></td></tr><tr><td><p>香港</p></td><td><p>探险世界急救中心</p></td><td><p>园内直线 999 / 1-830-830</p></td><td><p>同上</p></td><td><p>同上</p></td></tr><tr><td><p>加州</p></td><td><p>Main Street First Aid</p></td><td><p>911</p></td><td><p>同上 + 氧气</p></td><td><p>同上</p></td></tr><tr><td><p>巴黎</p></td><td><p>City Hall 旁 First Aid</p></td><td><p>112</p></td><td><p>同上</p></td><td><p>同上</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "如需救护车：各园区均与最近公立医院开通绿色通道，平均 10-15 分钟到场。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、恶劣天气预案（台风 / 暴雨 / 极端高温）"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 预警等级与决策阈值\n• 上海：上海中心气象台发布 "
+                },
+                {
+                  "type": "text",
+                  "content": "台风橙色预警",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " 或 "
+                },
+                {
+                  "type": "text",
+                  "content": "暴雨红色预警",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " → 当日全天闭园。\n• 香港：天文台八号风球 / 黑色暴雨 → 闭园。\n• 东京：气象厅发布 "
+                },
+                {
+                  "type": "text",
+                  "content": "暴风警报",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " 或 "
+                },
+                {
+                  "type": "text",
+                  "content": "特别警报",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " → 闭园。\n• 加州/佛州：国家气象局 "
+                },
+                {
+                  "type": "text",
+                  "content": "Red Flag Warning",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "（山火）或 "
+                },
+                {
+                  "type": "text",
+                  "content": "Hurricane Warning",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " → 闭园。\n• 巴黎：Météo France 橙色或红色预警 → 闭园或提前闭园。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 闭园通知渠道\n① 官网首页弹窗 + App Push ②官方微博/微信 ③短信到预留手机。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 票务处理\n| 情形 | 处理方式 | 到账时间 | |---|---|---| | 官方闭园 | 自动全额退款或免费改期 6 个月内任选一天 | 7–45 个工作日 | | 部分户外项目关闭 | 不单独退款，可领取「快速通行证」或「当日晚场票」 | 现场发放 |"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. 园内应急\n• 设施加固、垃圾桶上锁、广播 3 分钟一次中英日三语循环。\n• 开放所有室内剧场、餐厅、商店作为临时避难区。\n• 已入住酒店的游客：凭房卡可免费延长住宿，酒店提供简餐。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": "五、游客应急速记卡"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 记住 3 个号码\n• 上海：021-2099-8001\n• 东京：+81-50-3090-2742\n• 香港：+852 1-830-830"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 记住 3 个地点\n• 失物：主入口游客服务中心\n• 走失：米奇大街护婴中心 / City Hall\n• 医疗：老车站商店旁急救室 / Central First Aid"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 记住 3 句话\n• “I lost my child, please start the Lost Child Protocol.”\n• “Where is the First Aid station?”\n• “Is the park closing today due to the typhoon?”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园无障碍服务全览\n（覆盖上海、香港、东京、美国加州/佛州、巴黎六大园区，信息截至 2025-07-28）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、服务对象总览\n• 行动不便（轮椅/电动代步车 ECV/拐杖/步行障碍）\n• 听障（需手语、助听或文字辅助）\n• 视障（需盲文、语音或导盲犬）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 17,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、核心服务与工具"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 18,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 18,
+              "content": "<table><thead><tr><th><p><strong>类别</strong></p></th><th><p><strong>上海迪士尼</strong></p></th><th><p><strong>香港迪士尼</strong></p></th><th><p><strong>东京迪士尼</strong></p></th><th><p><strong>美国迪士尼（加州/佛州）</strong></p></th><th><p><strong>巴黎迪士尼</strong></p></th></tr></thead><tbody><tr><td><p>轮椅/ECV 租借</p></td><td><p>• 先到先得，入口左侧「童车及轮椅租赁」<br/></p></td><td><p>• 小镇广场「怀旧消防局」现场租赁先到先得</p></td><td><p>• 入园后「World Bazaar Service Center」现场租赁</p></td><td><p>• 所有园区入口「Wheelchair Rental」<br/></p></td><td><p>• 入口「Wheelchair Rental」先到先得</p></td></tr><tr><td><p>残障人士通道 (DAS)</p></td><td><p>• 现场登记：主入口游客服务中心<br/></p></td><td><p>• 市镇会堂现场登记</p></td><td><p>• 无 DAS 制度，可现场申请「Priority Pass」</p></td><td><p>• 官网/APP 提前 2–30 天线上注册 DAS</p></td><td><p>• 「Easy Access Card」现场登记</p></td></tr><tr><td><p>手语翻译</p></td><td><p>• 演出：冰雪奇缘、人猿泰山等 7 天前免费预约<br/></p></td><td><p>• 演出：狮子王庆典、魔法书房等 现场感应助听/7 天前预约</p></td><td><p>• 需邮件预约 7 天前</p></td><td><p>• 加州：部分演出提供 ASL，官网可查排期</p></td><td><p>• 法语手语需邮件预约 7 天前</p></td></tr><tr><td><p>视障辅助</p></td><td><p>• 盲文指南（中英双语）免费租借<br/></p></td><td><p>• 点字指示图（繁/英/凸字）多点位</p></td><td><p>• 盲文地图园区入口领取</p></td><td><p>• 盲文+大字体指南入口领取</p></td><td><p>• 盲文指南 City Hall 领取</p></td></tr><tr><td><p>导盲犬</p></td><td><p>• 可入园，须出示检疫证明</p></td><td><p>• 可入园，须出示检疫证明</p></td><td><p>• 需提前邮件申请</p></td><td><p>• 可入园，须提前在线登记</p></td><td><p>• 可入园，须提前邮件申请</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、无障碍设施位置图速查"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 20,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 上海迪士尼（示例）\n• 主入口游客服务中心：盲文指南、轮椅/ECV 预约、DAS 登记\n• 剧院：米奇童话专列、冰雪奇缘均设轮椅专用席及坡道\n• 卫生间：每 200 m 一处无障碍厕位；创极速光轮旁设「陪同洗手间」\n• 盲道：主入口→米奇大街→奇想花园→明日世界全线贯通"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 香港迪士尼\n• 市镇会堂（美国小镇大街）：点字指示图、轮椅租赁、手语预约\n• 剧院：狮子王庆典、魔法书房轮椅席+感应助听系统\n• 无障碍洗手间：每主题区至少 2 处，附紧急呼叫铃"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 美国迪士尼（加州/佛州通用）\n• 入口 Guest Relations：DAS 登记、盲文/大字体地图、ASL 排期表\n• 所有剧院前排或后排均留 ≥6 个轮椅位\n• 停车场：持残障停车牌可停最前排 Blue Lot"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. 巴黎迪士尼\n• City Hall：Easy Access Card、盲文指南\n• 主街、探险世界、反斗奇兵大本营均设无障碍洗手间与坡道"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 21,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、预约/登记时间轴\n• 电动轮椅、手语翻译：入园前 2–7 天电话或邮件预约\n• DAS / Easy Access Card：入园当天首站 Guest Relations，5 分钟完成\n• 盲文/大字体地图：园区入口或 Guest Relations 随到随领"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 22,
+          "content": [
+            {
+              "type": "text",
+              "content": "五、一句话速记\n“入园先找 Guest Relations / 市镇会堂 / City Hall，现场一站式搞定轮椅、DAS、手语和盲文！”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 23,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园各园区\n「技术故障」应急预案与标准回应话术\n（适用场景：①官网/App/支付系统无法访问；②园内尊享卡、扫码闸机、餐饮 POS 等关键设施失灵）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 24,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、故障分级与响应时效"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 25,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 25,
+              "content": "<table><thead><tr><th><p><strong>级别</strong></p></th><th><p><strong>定义</strong></p></th><th><p><strong>现场目标</strong></p></th><th><p><strong>对外发声时限</strong></p></th></tr></thead><tbody><tr><td><p>L1 轻微</p></td><td><p>单点/短时（≤5 min）</p></td><td><p>3 min 内切换备用通道</p></td><td><p>故障后 5 min</p></td></tr><tr><td><p>L2 中等</p></td><td><p>多点/持续 5-15 min</p></td><td><p>15 min 内恢复或启用人工流程</p></td><td><p>故障后 10 min</p></td></tr><tr><td><p>L3 重大</p></td><td><p>全园系统级＞15 min</p></td><td><p>30 min 内启动应急票务与补偿方案</p></td><td><p>故障后 15 min</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 26,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、标准对外回应模板"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 27,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 官网/App/支付失败\n「尊敬的游客，因网络波动，迪士尼官网/APP 暂时无法访问，我们已在全力抢修。您可：\n① 现场售票窗口正常营业；② 拨打客服热线 400-180-0000（上海）/+1-407-939-5277（美国）完成购票；③ 故障期间产生的订单异常将在 24 h 内自动原路退回。给您带来不便，深表歉意。」"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 园内尊享卡系统失灵\nCM 对客话术：\n「非常抱歉，尊享卡系统正在维护，预计 10 分钟恢复。为不耽误您的行程，我们已为您开启人工通道，您可继续游玩项目，稍后统一补发放快速通行券，感谢您的理解！」"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 闸机扫码失效\nCM 对客话术：\n「扫码闸机暂时离线，请出示纸质门票或购票二维码截屏，人工验证后即刻入园。」"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 28,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、园内现场应急流程（尊享卡为例）"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 29,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 监控报警 → 2. 3 min 内现场 CM 贴「人工通道」标识 → 3. 手持 POS 机录入游客门票号 → 4. 发放纸质「快速通行券」并盖当日日期章 → 5. 故障恢复后 30 min 内在系统补录，避免二次扣费。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 30,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、备用与冗余机制"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 31,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 31,
+              "content": "<table><thead><tr><th><p><strong>系统</strong></p></th><th><p><strong>备用方案</strong></p></th><th><p><strong>部署位置</strong></p></th></tr></thead><tbody><tr><td><p>官网/APP</p></td><td><p>阿里云多活+CDN 自动切换</p></td><td><p>云端</p></td></tr><tr><td><p>支付通道</p></td><td><p>微信/支付宝/银行卡/云闪付 四路冗余</p></td><td><p>收银台</p></td></tr><tr><td><p>尊享卡</p></td><td><p>①离线白名单 ②纸质快速通行券</p></td><td><p>各项目入口</p></td></tr><tr><td><p>闸机</p></td><td><p>人工检票通道+手持扫码枪</p></td><td><p>安检口</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 32,
+          "content": [
+            {
+              "type": "text",
+              "content": "五、补偿与舆情闭环"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 33,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 补偿阶梯\n• L1：口头致歉\n• L2：赠送小礼品或单项快速通行券\n• L3：当日门票部分退款或 30 天内免费重游券"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 舆情通报\n• 故障后 15 min 内官方微博/推特发布首次通报；\n• 后续每 30 min 更新一次，直至系统恢复"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 34,
+          "content": [
+            {
+              "type": "text",
+              "content": "六、游客自助渠道\n• 上海：微信小程序「上海迪士尼度假区」→「应急服务」\n• 美国：My Disney Experience →「Chat with Us」\n• 通用：拨打园区客服热线→按 2 进入「技术故障专线」一句话总结\n“任何技术故障，迪士尼乐园遵循 5-10-15 分钟黄金响应：5 分钟安抚、10 分钟切换备用、15 分钟对外透明。”"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

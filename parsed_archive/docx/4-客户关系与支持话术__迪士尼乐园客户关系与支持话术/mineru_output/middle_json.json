@@ -1,0 +1,486 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "authors": [
+        "Administrator"
+      ],
+      "created_at": "2025-07-28T05:22:00Z",
+      "modified_at": "2025-07-28T05:35:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 4,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园官方客户关系沟通指南\n（含品牌语气、情绪分级话术、禁用语，2025-07-28 版）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、品牌语气关键词（官方用词）"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 语气基调：Friendly, Cheerful, Respectful, Story-Driven"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 高频词：神奇（Magical）、奇妙（Wonderful）、梦想（Dream）、欢迎回家（Welcome home）、为您创造难忘回忆（Create unforgettable memories）"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 句子结构：\n• 以主动语态开始「让我来…」「我们可以…」\n• 结尾自然加祝福「祝您今天充满魔法！」"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、面对四种情绪的客户——沟通策略与话术模板"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 4,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 4,
+              "content": "<table><thead><tr><th><p><strong>情绪</strong></p></th><th><p><strong>识别信号</strong></p></th><th><p><strong>三步策略</strong></p></th><th><p><strong>官方话术示例</strong></p></th></tr></thead><tbody><tr><td><p>开心/激动</p></td><td><p>语速快、语调高、分享喜悦</p></td><td><p>①共情放大②感谢③邀请继续体验</p></td><td><p>「听到您这么开心，我也跟着笑啦！感谢您与我们分享这份神奇，期待更多惊喜在等着您！」</p></td></tr><tr><td><p>失望</p></td><td><p>叹气、皱眉、轻声抱怨</p></td><td><p>①立即道歉②快速补偿③确认改善</p></td><td><p>「非常抱歉让您体验打折扣。让我立刻为您安排一张快速通行证，弥补这次的遗憾，好吗？」</p></td></tr><tr><td><p>愤怒</p></td><td><p>高声指责、用词尖锐</p></td><td><p>①先“降温”②同理复述③给出方案+时限</p></td><td><p>「我完全理解您此刻的失望与愤怒。让我先为您复述一下情况，确保没有遗漏，然后10分钟内给您一个解决方案，好吗？」</p></td></tr><tr><td><p>焦虑/担心</p></td><td><p>反复询问、语速快</p></td><td><p>①安抚信息透明②提供选项③陪伴式指引</p></td><td><p>「别担心，我会一直陪您直到问题解决。您可以选择现场医疗站或我先帮您呼叫护理人员，您更倾向哪一种？」</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、奇迹时刻（Magical Moment）授权\n• 触发场景：客户情绪受损、生日、初次到访等特殊节点\n• 工具包：快速通行证、小徽章、生日贴纸、限量徽章、免费餐券\n• 授权额度：一线员工 ≤100 元/件；当班主管 ≤500 元/件；再高额需宾客关系部批准"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、禁用词语与句式清单"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 7,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 7,
+              "content": "<table><thead><tr><th><p><strong>禁用词/句</strong></p></th><th><p><strong>替换建议</strong></p></th></tr></thead><tbody><tr><td><p>「这是我们的规定」</p></td><td><p>「为了让每位宾客都能安全又开心地体验，我们采用这样的做法…」</p></td></tr><tr><td><p>「没办法/不行」</p></td><td><p>「让我为您找另一种可行的方案…」</p></td></tr><tr><td><p>「你必须…」</p></td><td><p>「我们可以一起…」</p></td></tr><tr><td><p>「我不知道」</p></td><td><p>「让我立刻为您确认，10 秒内给您答复」</p></td></tr><tr><td><p>「等一下」</p></td><td><p>「请给我一点时间，马上回来」</p></td></tr><tr><td><p>「问题」「投诉」</p></td><td><p>「反馈」「建议」</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "五、沟通黄金 3 句式（可贴一线工牌）"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 先同理：「我完全理解您的感受……」"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 再行动：「让我立刻为您……」"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 再祝福：「祝您接下来的旅程更加神奇！」"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园官方「超级 FAQ 文档」"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、门票类\nQ1 门票可以退吗？\nA：\n• 上海：未预约/兑换可全额退；已预约/兑换原则上不退改，遇台风或疫情闭园可全额退或顺延 6 个月内任选一天。\n• 香港：指定日门票一经确认不可退；年卡未启用 7 天内可退。\n• 东京：所有门票一经购买概不退款；官方闭园可退。\n• 美国/巴黎：未使用且仍在有效期内的票可退，官方闭园自动全额退。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "Q2 年卡能退吗？\nA：常规不可退；因重大疾病或不可抗力，可联系客服个案协商。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": "Q3 第三方平台买的票退改流程？\nA：须回原平台按对方条款操作，迪士尼不直接受理。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、园区运营类\nQ4 乐园开放时间？\nA：各园区每日不同，需以官网/APP 当日日历为准。巴黎乐园通常 09:30–22:00（迪士尼乐园）、09:30–19:00（影城）。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": "Q5 可以带食物吗？\n• 上海：可带密封零食、水果；自热食品、需加热或刺激气味食品禁止。\n• 东京：仅允许糖果、幼儿饼干、宝特瓶饮料；玻璃、酒精禁入。\n• 巴黎：原则上禁外带，入口外设野餐区。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": "Q6 3 岁以下儿童要门票吗？\nA：上海、香港、巴黎、美国园区均免费"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 17,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、交通与入场\nQ7 如何从市区到巴黎迪士尼？\nA：巴黎市中心乘 RER A 至 Marne-la-Vallée/Chessy 站，35–40 分钟直达乐园入口。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 18,
+          "content": [
+            {
+              "type": "text",
+              "content": "Q8 需要预约入园日期吗？\nA：除部分弹性票外，上海、巴黎、美国园区目前均为「指定日门票」，需先选定日期"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、残障与无障碍\nQ9 有无轮椅/电动代步车租借？\nA：所有园区入口「Guest Relations / 游客服务中心」皆可租，先到先得；上海、美国园区支持线上预订。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 20,
+          "content": [
+            {
+              "type": "text",
+              "content": "Q10 听障/视障可享哪些服务？\nA：提供轮椅通道、手语翻译、盲文地图、导盲犬入园许可，需提前 7 天邮件或电话预约。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 21,
+          "content": [
+            {
+              "type": "text",
+              "content": "五、快速通行与尊享卡\nQ11 是否还有纸质 FastPass？\nA：已全部改为线上「尊享卡 / Genie+ / Premier Access」；若系统故障，现场发纸质快速通行券作为应急。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 22,
+          "content": [
+            {
+              "type": "text",
+              "content": "六、不可抗力（台风、疫情）\nQ12 台风天闭园怎么办？\nA：官方闭园即自动全额退款或免费改期至 6 个月内任意一天"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 23,
+          "content": [
+            {
+              "type": "text",
+              "content": "七、预测性 FAQ（新产品/活动上线前 30 天发布模板）\nQ13 新园区/新活动需要额外购票吗？\nA：常规门票即可进入；如为单独售票的 After-Hours 活动，会在购票页显著提示。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 24,
+          "content": [
+            {
+              "type": "text",
+              "content": "Q14 新活动会否影响现有 FastPass/尊享卡名额？\nA：不会，新增活动配额独立，且系统会实时显示可预约时段。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 25,
+          "content": [
+            {
+              "type": "text",
+              "content": "Q15 若当天客流超限，会临时停止现场售票吗？\nA：会。当园区实时客流达 95% 容量时，现场售票窗口及 App 购票通道将暂停，已购票游客不受影响。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 26,
+          "content": [
+            {
+              "type": "text",
+              "content": "官方答疑渠道\n• 上海：400-180-0000 或 App「在线客服」\n• 香港：+852 1-830-830\n• 东京：+81-45-330-5211\n• 美国：+1-407-939-5277\n• 巴黎：+33-1-60-30-60-53"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 27,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园安抚与升级话术\n（已按“H.E.A.R.D”模型与官方语气统一，可直接打印成口袋卡）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 28,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、安抚不满客户的标准化共情语句"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 29,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 听（Hear）\n“您先慢慢说，我会把每一个细节都记下来，确保没有遗漏。”"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 共情（Empathize）\n“我能体会到您此刻的失望/焦虑，换成我也会一样着急。”"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 道歉（Apologize）\n“无论原因是什么，让您今天的体验打了折扣，我真诚向您道歉。”"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. 解决（Resolve）\n“让我先给您一个立刻能生效的方案：……（具体补偿/替代措施）。”"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "5. 诊断（Diagnose）\n“为避免同样的事再次发生，我已同步把情况反馈给相关部门，24 小时内会给您跟进结果。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 30,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、需要将问题升级时的平稳过渡话术\n场景：现场员工权限不足、客人情绪已至愤怒或提出高额赔偿。"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 31,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 预告升级\n“为了给您最满意的解决，我需要把您的案例升级到我们的客户关系专员，他们有更高的授权和专属补偿方案。”"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 说明好处\n“升级后，您将拥有：\n• 一对一专人跟进\n• 30 分钟内收到初步方案\n• 现场赠送快速通行证，确保您先继续游玩”"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 过渡动作\n“请您跟我到旁边的贵宾休息室稍作休息，我立即通知客户关系经理过来，饮料和点心已经为您准备好。”"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. 再次确认\n“在专员到达前，还有什么我可以先为您做的吗？我会一直陪在旁边。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 32,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、一句话速记\n先降火再追责：先同理→再给路→再升级→再祝福。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

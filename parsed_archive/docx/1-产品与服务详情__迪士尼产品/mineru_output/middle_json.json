@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "authors": [
+        "Administrator"
+      ],
+      "created_at": "2025-07-28T01:10:00Z",
+      "modified_at": "2025-07-28T01:13:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 2,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼的产品和服务可以分为"
+            },
+            {
+              "type": "text",
+              "content": "实体产品",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "和"
+            },
+            {
+              "type": "text",
+              "content": "服务体验",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "两大类，涵盖乐园、商品、数字内容、酒店、个性化服务等多个维度，具体如下："
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、实体产品类",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "表格",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "复制"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 4,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 4,
+              "content": "<table><thead><tr><th><p><strong>类别</strong></p></th><th><p><strong>具体内容</strong></p></th></tr></thead><tbody><tr><td><p><strong>消费品</strong></p></td><td><p>玩具（如乐高迪士尼系列）、服装、文具、家居用品、电子产品配件等</p></td></tr><tr><td><p><strong>食品饮料</strong></p></td><td><p>乐园限定餐饮、主题甜品、联名饮品等（如冰雪奇缘纸杯）</p></td></tr><tr><td><p><strong>出版物</strong></p></td><td><p>绘本、漫画、杂志、教育类图书等</p></td></tr><tr><td><p><strong>音像制品</strong></p></td><td><p>电影蓝光碟、原声音乐、迪士尼+流媒体内容</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、服务体验类",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "1. 乐园与度假区服务",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "表格",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "复制"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 9,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 9,
+              "content": "<table><thead><tr><th><p><strong>服务名称</strong></p></th><th><p><strong>服务内容</strong></p></th></tr></thead><tbody><tr><td><p><strong>门票与尊享卡</strong></p></td><td><p>提供乐园门票、快速通行（如迪士尼尊享卡）</p></td></tr><tr><td><p><strong>住宿服务</strong></p></td><td><p>上海、香港、东京等迪士尼主题酒店提供住宿、餐饮、接送服务</p></td></tr><tr><td><p><strong>游客服务中心</strong></p></td><td><p>提供票务、失物招领、导览、无障碍服务、走失游客协助等</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "2. 个性化与贵宾服务",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "表格",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "复制"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 13,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 13,
+              "content": "<table><thead><tr><th><p><strong>服务名称</strong></p></th><th><p><strong>服务内容</strong></p></th></tr></thead><tbody><tr><td><p><strong>服务管家</strong></p></td><td><p>提供8–12小时陪同、路线规划、拍照、拎包、代排队等服务</p></td></tr><tr><td><p><strong>生日/纪念日</strong></p></td><td><p>提供定制徽章、角色合影、专属餐饮、房间布置等惊喜</p></td></tr><tr><td><p><strong>贵宾导览</strong></p></td><td><p>专属导游、后台参观、优先入场、VIP休息室</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": "3. 数字与线上服务",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": "表格",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": "复制"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 17,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 17,
+              "content": "<table><thead><tr><th><p><strong>服务名称</strong></p></th><th><p><strong>服务内容</strong></p></th></tr></thead><tbody><tr><td><p><strong>官方App/小程序</strong></p></td><td><p>实时排队时间、地图导航、预约演出、订餐、酒店预订</p></td></tr><tr><td><p><strong>邮件/社交互动</strong></p></td><td><p>发送上次游玩照片、推荐个性化路线、节日问候</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 18,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、授权与品牌合作",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼还通过授权合作推出大量联名产品，如："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 20,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "授权生产商",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如“尚喜”公司制造迪士尼包袋、帽子、配饰等；"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "防伪系统",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：产品配有红色全息防伪标签，支持真伪查询。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 21,
+          "content": [
+            {
+              "type": "text",
+              "content": "总结一句话：",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 22,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼不仅是一个“游乐园”，更是一个覆盖"
+            },
+            {
+              "type": "text",
+              "content": "吃、住、行、游、购、娱",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "全场景的"
+            },
+            {
+              "type": "text",
+              "content": "家庭娱乐生态系统",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

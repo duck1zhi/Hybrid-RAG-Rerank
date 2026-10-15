@@ -1,0 +1,133 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "迪士尼的产品和服务可以分为**实体产品**和**服务体验**两大类，涵盖乐园、商品、数字内容、酒店、个性化服务等多个维度，具体如下："
+        },
+        {
+          "type": "text",
+          "content": "**一、实体产品类**"
+        },
+        {
+          "type": "text",
+          "content": "**表格**"
+        },
+        {
+          "type": "text",
+          "content": "复制"
+        },
+        {
+          "type": "table",
+          "content": "| **类别** | **具体内容** |\n| --- | --- |\n| **消费品** | 玩具（如乐高迪士尼系列）、服装、文具、家居用品、电子产品配件等 |\n| **食品饮料** | 乐园限定餐饮、主题甜品、联名饮品等（如冰雪奇缘纸杯） |\n| **出版物** | 绘本、漫画、杂志、教育类图书等 |\n| **音像制品** | 电影蓝光碟、原声音乐、迪士尼+流媒体内容 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "**二、服务体验类**"
+        },
+        {
+          "type": "text",
+          "content": "**1. 乐园与度假区服务**"
+        },
+        {
+          "type": "text",
+          "content": "**表格**"
+        },
+        {
+          "type": "text",
+          "content": "复制"
+        },
+        {
+          "type": "table",
+          "content": "| **服务名称** | **服务内容** |\n| --- | --- |\n| **门票与尊享卡** | 提供乐园门票、快速通行（如迪士尼尊享卡） |\n| **住宿服务** | 上海、香港、东京等迪士尼主题酒店提供住宿、餐饮、接送服务 |\n| **游客服务中心** | 提供票务、失物招领、导览、无障碍服务、走失游客协助等 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "**2. 个性化与贵宾服务**"
+        },
+        {
+          "type": "text",
+          "content": "**表格**"
+        },
+        {
+          "type": "text",
+          "content": "复制"
+        },
+        {
+          "type": "table",
+          "content": "| **服务名称** | **服务内容** |\n| --- | --- |\n| **服务管家** | 提供8–12小时陪同、路线规划、拍照、拎包、代排队等服务 |\n| **生日/纪念日** | 提供定制徽章、角色合影、专属餐饮、房间布置等惊喜 |\n| **贵宾导览** | 专属导游、后台参观、优先入场、VIP休息室 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "**3. 数字与线上服务**"
+        },
+        {
+          "type": "text",
+          "content": "**表格**"
+        },
+        {
+          "type": "text",
+          "content": "复制"
+        },
+        {
+          "type": "table",
+          "content": "| **服务名称** | **服务内容** |\n| --- | --- |\n| **官方App/小程序** | 实时排队时间、地图导航、预约演出、订餐、酒店预订 |\n| **邮件/社交互动** | 发送上次游玩照片、推荐个性化路线、节日问候 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "**三、授权与品牌合作**"
+        },
+        {
+          "type": "text",
+          "content": "迪士尼还通过授权合作推出大量联名产品，如："
+        },
+        {
+          "type": "list",
+          "content": "- **授权生产商**：如“尚喜”公司制造迪士尼包袋、帽子、配饰等；\n- **防伪系统**：产品配有红色全息防伪标签，支持真伪查询。"
+        },
+        {
+          "type": "text",
+          "content": "**总结一句话：**"
+        },
+        {
+          "type": "text",
+          "content": "迪士尼不仅是一个“游乐园”，更是一个覆盖**吃、住、行、游、购、娱**全场景的**家庭娱乐生态系统**。"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "authors": [
+        "Administrator"
+      ],
+      "created_at": "2025-07-28T01:10:00Z",
+      "modified_at": "2025-07-28T01:13:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 2,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "is_full_document": true
+}

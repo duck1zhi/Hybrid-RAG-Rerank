@@ -1,0 +1,1358 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "authors": [
+        "Administrator"
+      ],
+      "created_at": "2025-07-28T02:22:00Z",
+      "modified_at": "2025-07-28T02:23:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 2,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园各地区 餐饮信息：各餐厅菜单、价格、预约方式、特殊饮食（素食、清真）选项",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园各地区提供丰富多样的餐饮选择，涵盖从快餐到高端餐厅的多种类型，满足不同游客的口味和需求。以下是对迪士尼乐园各地区餐饮信息的详细分析，包括菜单、价格、预约方式以及特殊饮食（素食、清真）选项。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、迪士尼乐园各地区的餐厅类型与菜单",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "1. 迪士尼乐园（上海/中国香港/东京等）",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "餐厅类型",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：包括主题餐厅、自助餐厅、快餐店、角色餐厅等。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "菜单内容",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "星露台餐厅",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "（明日世界）：提供西式汉堡、亚洲风味米饭碗等。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "漫月轩",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "（奇想花园）：提供中餐，如米奇形状的披萨、面等。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "巴波萨烧烤",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "（宝藏湾）：提供烧烤类菜肴。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "部落丰盛堂",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "（探险岛）：提供烤鸡、炒牛肉等。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "皇室宴会厅",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "（中国香港迪士尼）：提供多种国际美食。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "探险家俱乐部餐厅",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供亚洲风味的美食。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "美国小镇角落咖啡馆",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：供应西式菜肴，以角色主题的下午茶著称。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "价格范围",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：大部分餐厅价格在人均100元左右，部分高端餐厅或自助餐价格较高。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "2. 迪士尼世界度假区（佛罗里达）",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "餐厅类型",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：包括美式料理、波利尼西亚美食、非洲风味餐、海鲜、寿司、地中海美食、意大利美食等。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "菜单内容",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "Agrabah Café Restaurant",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供自助餐服务，适合家庭用餐。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "Walt's - An American Restaurant",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供高级桌边服务，适合追求精致用餐体验的游客。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "California Grill",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供素食寿司等创新菜肴。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "The Wave",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供创新菜肴，适合素食者。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "Artists Point",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供土豆香芹锅贴等素食选项。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "价格范围",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：价格因餐厅而异，从几百到几千美元不等，具体取决于餐厅类型和套餐。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "3. 东京迪士尼乐园",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "餐厅类型",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：包括冒险区、幻想区、未来世界、小动物区和西部区的餐厅，提供从自助餐到点菜式等多种选择。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "菜单内容",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "冒险区",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供亚洲风味的米饭碗等。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "幻想区",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供传统欧洲风格的美食。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "未来世界",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供现代风格的餐饮体验。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "价格范围",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：价格从几百日元到几千日元不等，部分餐厅提供儿童套餐和免费续杯选择。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "4. 巴黎迪士尼乐园",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "餐厅类型",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：包括主题餐厅、角色餐厅、自助餐厅等。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "菜单内容",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "卡萨卡的锅",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供地中海风味的美食。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "蓝湾餐厅",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供海鲜和意大利风味。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "奥加的牛排",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供高级牛排和葡萄酒。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "价格范围",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：价格因餐厅而异，通常在人均100欧元左右。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、预约方式",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "1. 提前预订",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "推荐工具",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：使用"
+                },
+                {
+                  "type": "text",
+                  "content": "My Disney Experience",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "应用程序或迪士尼官方网站进行预订。游客可以提前选择餐厅、设定到达时间，并通过“Mobile Order”功能预订外卖。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "预订时间",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "酒店住客",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：可提前60天预订高端餐厅。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "非酒店住客",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：同样适用，但需尽早预订以确保座位。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "特殊活动",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如EPCOT国际美食与葡萄酒节、感恩节、圣诞节等节日，建议提前预订。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": "2. 预订流程",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "研究餐厅",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：通过迪士尼官方渠道了解餐厅的菜单、服务类型和顾客评价。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "联系餐厅",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：如果需要特殊饮食或过敏友好选项，可以通过电子邮件或电话联系餐厅。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "确认预订",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：预订后，通过应用程序或餐厅确认预订信息，并在指定时间到达餐厅。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、特殊饮食选项",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 17,
+          "content": [
+            {
+              "type": "text",
+              "content": "1. 素食选项",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 18,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "普遍性",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：迪士尼乐园几乎每个餐厅都提供素食选项，包括主菜、甜点和饮料。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "具体例子",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "California Grill",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供素食寿司。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "The Wave",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供创新素食菜肴。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- "
+                    },
+                    {
+                      "type": "text",
+                      "content": "Artists Point",
+                      "styles": [
+                        "bold"
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "content": "：提供土豆香芹锅贴等素食选项。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "预订时的注意事项",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 在预订时，务必告知餐厅您的素食需求，以便厨师为您准备合适的菜肴。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 如果菜单上没有明确标注素食选项，可以向服务员或厨师咨询。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 自2019年起，迪士尼菜单上的素食选项用绿色叶子图标标识，方便游客识别。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "content": [
+            {
+              "type": "text",
+              "content": "2. 清真饮食",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 20,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "可用性",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：迪士尼乐园提供清真饮食选项，但具体餐厅和菜单需根据实际情况确认。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "预订建议",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "："
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 在预订时，告知餐厅您的清真饮食需求，并要求厨师或餐厅经理协助准备。"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "- 可以通过迪士尼的特殊饮食团队获取更多帮助。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 21,
+          "content": [
+            {
+              "type": "text",
+              "content": "3. 其他特殊饮食",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 22,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "无麸质、无乳糖、低碳水化合物等",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：迪士尼乐园也提供这些特殊饮食选项，游客可以通过应用程序或餐厅直接预订。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "过敏友好",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：在快速服务餐厅中，游客可以通过“Mobile Order”功能选择“过敏友好”选项来导航菜单。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 23,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、总结",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 24,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园各地区提供丰富多样的餐饮选择，从快餐到高端餐厅，满足不同游客的口味和需求。游客可以通过"
+            },
+            {
+              "type": "text",
+              "content": "My Disney Experience",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "应用程序或迪士尼官网预订餐厅，并在预订时告知特殊饮食需求，以确保获得满意的用餐体验。无论是素食、清真还是其他特殊饮食，迪士尼乐园都能提供相应的解决方案，让每位游客都能享受美味的用餐时光。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

@@ -1,0 +1,117 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "迪士尼乐园内部通讯录与职责说明\n（上海 | 香港 | 美国 | 巴黎园区通用模板，2025-07-28 更新）"
+        },
+        {
+          "type": "text",
+          "content": "一、使用须知"
+        },
+        {
+          "type": "list",
+          "content": "1. 以下分机与邮箱均为园区内部短号或内网域名，须连接 Disney Secure Network 或 VPN 才能拨打/收发。\n2. 外部来电请拨打园区总机后按提示转接：\n• 上海：+86-21-2099-8000\n• 香港：+852 1-830-830\n• 美国（佛州/加州）：+1-407-939-5277\n3. 夜间（22:00-07:00）所有紧急事项→安保总控中心（SOC）统一调度。"
+        },
+        {
+          "type": "text",
+          "content": "二、部门速查表（Who to Call for What）"
+        },
+        {
+          "type": "table",
+          "content": "| **场景** | **关键问题示例** | **第一联系人** | **分机 / 邮箱** | **备用/升级** |\n| --- | --- | --- | --- | --- |\n| 票务退款（未使用） | 系统无法退票、订单异常 | 财务-收入审计组 | 8112 / [refunds@shdr.com](mailto:refunds@shdr.com) | 财务总监 Natacha Rafalski（仅升级） |\n| 支付失败、尊享卡系统崩溃 | POS 断网、二维码失效 | 技术-IT 运维 | 8888 / [itsupport@shdr.com](mailto:itsupport@shdr.com) | 设施运营部-项目经理（L3 重大故障） |\n| 宾客投诉升级 | 高额赔偿、舆情风险 | 宾客关系部 Duty Manager | 8333 / [grduty@shdr.com](mailto:grduty@shdr.com) | 宾客关系总监 24h 热线 8300 |\n| 走失儿童/财物安全 | 紧急协寻、监控调取 | 安保-园区控制中心（SOC） | 9999 / [soc@shdr.com](mailto:soc@shdr.com) | 安保副经理 9001 |\n| 培训与员工系统权限 | CRM 账号、课程排班 | 运营培训专员 | 8200 / [training@shdr.com](mailto:training@shdr.com) | 迪士尼大学协调人 |\n| 施工/设施维修延误 | 扩建设施、节能项目 | 设施资产-项目经理 | 8500 / [fospm@shdr.com](mailto:fospm@shdr.com) | 设施运营部总监 |\n| 战略新项目可行性 | 扩建、财务模型 | 商业战略部 | 8600 / [bizstrategy@shdr.com](mailto:bizstrategy@shdr.com) | 总监级汇报 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "三、内部邮件命名规则\n• 上海：工号@shdr.com\n• 香港：工号@hkdl.com\n• 美国：工号@disney.com\n• 巴黎：工号@disneylandparis.com"
+        },
+        {
+          "type": "text",
+          "content": "────────────────\n四、紧急 15 秒决策表"
+        },
+        {
+          "type": "list",
+          "content": "1. 人身安全事故 → 直拨 9999（SOC）\n2. 媒体/法律威胁 → 直拨 8300（宾客关系总监）\n3. 系统级故障（>15 min） → 直拨 8888（IT）+ 抄送设施运营部 8500\n4. 财务差异 >10 万元 → 抄送财务总监 Natacha Rafalski 8101"
+        },
+        {
+          "type": "text",
+          "content": "五、一句话记忆\n“先判断场景→查表→拨对应分机→30 秒内完成首报。”"
+        },
+        {
+          "type": "text",
+          "content": "迪士尼乐园「培训材料 & 政策/产品变更通告」一站式速览"
+        },
+        {
+          "type": "text",
+          "content": "一、新员工入职培训材料（通用框架 + 上海园区示例）"
+        },
+        {
+          "type": "table",
+          "content": "| **模块** | **核心内容** | **交付方式** | **时长** | **更新频率** |\n| --- | --- | --- | --- | --- |\n| 文化与价值观 | 「Four Keys」安全、礼仪、演出、效率 | 面授 + Disney University 线上课程 | 4 h | 每年 1 次 |\n| 服务标准 | 「Guestology」+ 现场情景演练 | 面授 + VR 模拟 | 8 h | 每半年 1 次 |\n| 安全知识 | 游乐设施应急、CPR、消防 | 实操 + 在线考试 | 6 h | 每季度 1 次 |\n| 系统操作 | CRM、POS、尊享卡发放 | 实操 + e-Learning | 4 h | 随系统升级即时更新 |\n| 语言与文化 | 基础手语、常用外语问候 | 微课 | 2 h | 按需 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "• 上海园区由「Operations Training Specialist」统筹：负责分析培训需求、排班、追踪完成率，并与 Disney University 联合落地所有新员工 onboarding 课程。\n• 培训形式：课堂培训、移动学习（手机 App）、在岗辅导、回炉培训（refresh training）全覆盖。\n• 培训完成率、考试成绩、宾客满意度均实时回传 CRM，用于后续晋升评估"
+        },
+        {
+          "type": "text",
+          "content": "二、政策变更历史（最新 3 条）"
+        },
+        {
+          "type": "table",
+          "content": "| **生效日期** | **政策内容** | **适用园区** | **官方通告链接** |\n| --- | --- | --- | --- |\n| 2024-12-23 | 实名制购票：购票人须与入园人证件一致 | 上海 | [官方通告](https://www.shanghaidisneyresort.com/shanghai-disney-resort-real-name-ticketing-policy/) |\n| 2025-05-29 | 强化控烟：除指定吸烟区外全面禁烟，违者驱逐 | 上海 | 同上 |\n| 2025-07-27 | 高温天气应急预案：户外演出/巡游可能临时取消 | 上海 | 同上 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "三、产品与价格变更历史（最近 2 条）"
+        },
+        {
+          "type": "table",
+          "content": "| **生效日期** | **产品/价格变动** | **园区** | **备注** |\n| --- | --- | --- | --- |\n| 2025-06-20 | 尊享卡价格上调 5-10 %（旺季浮动） | 上海、香港 | 仅旺季日生效，官方 App 实时价 |\n| 2025-07-01 | 新增「午后票」15:00 后入园，成人 ¥299 | 上海 | 限量发售，售完即止 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "四、获取最新通告的 3 个官方渠道"
+        },
+        {
+          "type": "list",
+          "content": "1. 内网「Cast Portal」→「News & Updates」\n2. 企业微信「迪士尼培训助手」每周推送\n3. 线下「公告栏」+「每日早会」同步口头提醒"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "authors": [
+        "Administrator"
+      ],
+      "created_at": "2025-07-28T06:05:00Z",
+      "modified_at": "2025-07-28T06:09:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 3,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "is_full_document": true
+}

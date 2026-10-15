@@ -1,0 +1,1274 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {}
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "各地区迪士尼乐园酒店信息 包括各家迪士尼酒店的房型、定价、设施（泳池、健身房）、入住/退房政策和酒店宾客专属福利",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "回答",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "以下是各地区迪士尼乐园酒店的房型、定价、设施（包括泳池、健身房）、入住/退房政策和酒店宾客专属福利的详细信息："
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、迪士尼乐园酒店房型",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园酒店提供多种房型，包括标准房、豪华房、高级房和套房，可容纳1至14名成人[2]。例如，迪士尼乐园酒店的客房分布在幻想塔、冒险塔和西部塔中，价格根据楼层不同而有所差异[5]。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、迪士尼乐园酒店定价",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：平均价格（周末）为¥5885[1]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "上海迪士尼乐园周边酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：房价从¥290.1到¥2,789.6不等，其中一些酒店提供提前入园权益、免费乐园接驳巴士等服务[16]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "中国香港迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：每晚价格低至¥934，提供室外游泳池、室内游泳池、健身中心、餐厅、酒吧/酒廊、客房服务、免费无线网络、咖啡机、代客泊车、商务中心、会议室、场内自动提款机、门房服务、保险箱、现场货币兑换、会议/宴会设施、观光旅行柜台、提供房卡、快速退房、24小时柜台、餐饮等[19]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、迪士尼乐园酒店设施",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "1. 泳池与水疗",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：设有多个泳池、滑水道和活动区[2]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "上海迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供室内游泳池和健身室[9]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "中国香港迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供室外游泳池和室内游泳池[10]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：设有单轨列车泳池和滑梯[5]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "2. 健身房",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "上海迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供健身室[9]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "中国香港迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供健身中心[10]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供健康俱乐部[5]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "3. 其他设施",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：设有洗衣房、商务中心、购物和娱乐区、会议和宴会设施[5]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "上海迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供会议厅、商务中心、外币兑换服务、洗衣服务、送餐服务、穿梭机场班车、儿童乐园、邮政服务、专职行李员、行李寄存、叫醒服务、接机服务、礼宾服务、婚宴服务、管家服务、24小时前台服务、快速办理入住/退房手续、专职门童、信用卡结算服务、一次性账单结算服务、24小时大堂经理、旅游票务专柜[9]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "中国香港迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供免费无线网络、虚拟排队系统、入园预约服务、自助服务、购物信息、酒店穿梭巴士信息、主题房间装饰套餐、客房用品和服务等[13]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、入住/退房政策",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：入住时间为15:00过后，退房时间为11:00之前[1]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "上海迪士尼乐园周边酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：入住/退房时间未明确提及，但部分酒店提供快速办理入住/退房手续[9]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "中国香港迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：退房时间为上午11点，延迟退房将收取额外费用[13]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "Walt Disney World Dolphin - 华特迪士尼世界海豚度假酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：登记入住时间为下午4:00，退房时间为上午11:00[18]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": "五、酒店宾客专属福利",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 17,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供超时神奇体验（Extra Magic Hour），即每天可在指定主题乐园对大众开放前一小时提前游玩特定游乐项目[15]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "上海迪士尼乐园周边酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：部分酒店提供提前入园权益、免费乐园接驳巴士、服务周到、干净整洁、地铁附近等服务[16]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "中国香港迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供优先畅玩指定游乐设施、指定乐园入口、畅玩三家酒店的康乐活动及设施、商品快递等[12]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供迪士尼人物问候电话、神奇之钥（Key to the Magic）和包裹快递[15]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 18,
+          "content": [
+            {
+              "type": "text",
+              "content": "六、其他信息",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 19,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供多种餐饮选择，包括牛排馆55号和酒廊、Goofy's Kitchen、Tangorra Terrace、Trader Sam's和The Coffee House[5]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "上海迪士尼乐园周边酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：部分酒店提供与迪士尼朋友见面的美食体验、免费摆渡船直达乐园、免费乐园接驳巴士等服务[16]。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "- "
+                },
+                {
+                  "type": "text",
+                  "content": "迪士尼乐园酒店",
+                  "styles": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "：提供免费班车服务、主题泳池、健康俱乐部、自行车租赁等[7]。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 20,
+          "content": [
+            {
+              "type": "text",
+              "content": "总结",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 21,
+          "content": [
+            {
+              "type": "text",
+              "content": "各地区迪士尼乐园酒店在房型、定价、设施、入住/退房政策和宾客专属福利方面各有特色，但普遍提供高品质的住宿体验和丰富的娱乐设施，以满足不同游客的需求。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 22,
+          "content": [
+            {
+              "type": "text",
+              "content": "[AI生成]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 23,
+          "content": [
+            {
+              "type": "text",
+              "content": "相关组织",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "table",
+          "index": 24,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 24,
+              "content": "<table><tr><td><p><strong>组织名称</strong></p></td><td><p><strong>概述</strong></p></td><td><p><strong>类型</strong></p></td></tr><tr><td><p>迪士尼乐园酒店 (Disneyland Hotel)</p></td><td><p>一家提供多种房型、餐饮选择、健康俱乐部和独特活动的豪华型迪士尼主题酒店。</p></td><td><p>酒店</p></td></tr><tr><td><p>迪士尼乐园酒店别墅 (Disneyland Hotel Villas)</p></td><td><p>提供更大居住空间的迪士尼主题酒店，适合家庭或团体入住。</p></td><td><p>酒店</p></td></tr><tr><td><p>中国香港迪士尼乐园度假区 (Hong Kong Disneyland Resort)</p></td><td><p>位于中国香港的迪士尼度假区，包含多座主题酒店，为游客提供住宿、餐饮和娱乐设施。</p></td><td><p>度假区</p></td></tr><tr><td><p>迪士尼快通服务 (FastPass+)</p></td><td><p>迪士尼度假区的一项服务，允许游客提前预订并减少排队时间，提升游玩体验。</p></td><td><p>服务</p></td></tr><tr><td><p>上海迪士尼乐园 (Shanghai Disney Resort)</p></td><td><p>位于中国的迪士尼度假区，其周边酒店提供与乐园相关的便捷服务和优惠。</p></td><td><p>度假区</p></td></tr><tr><td><p>Walt Disney World Dolphin - 华特迪士尼世界海豚度假酒店</p></td><td><p>一家具体的迪士尼度假酒店，其入住/退房政策和设施是查询迪士尼酒店信息的参考案例。</p></td><td><p>酒店</p></td></tr><tr><td><p>Sheraton Grande Tokyo Bay Hotel - 东京湾喜来登大酒店</p></td><td><p>一家位于东京迪士尼度假区的酒店，其设施和服务是迪士尼酒店信息的补充案例。</p></td><td><p>酒店</p></td></tr><tr><td><p>米奇 (Mickey)</p></td><td><p>迪士尼乐园中的标志性角色，其问候电话是迪士尼酒店宾客专属福利的一部分。</p></td><td><p>虚拟角色</p></td></tr><tr><td><p>琳达 (Linda)</p></td><td><p>作为迪士尼乐园的代表人物，她与迪士尼乐园酒店的入住政策和宾客权益相关。</p></td><td><p>虚拟角色</p></td></tr></table>"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 25,
+          "content": [
+            {
+              "type": "text",
+              "content": "参考资料",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "text",
+          "index": 26,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.cn.kayak.com/%E5%AE%89%E7%BA%B3%E6%B5%B7%E5%A7%86-%E9%85%92%E5%BA%97-%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E9%85%92%E5%BA%97.16231.ksp",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 迪士尼乐园酒店"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 27,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2023/09/planDisney-Pocket-Guide-to-Disneyland-Hotel-and-The-Villas-at-Disneyland-Hotel.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. planDisney Pocket Guide"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 28,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://doi.org/10.1016/J.TOURMAN.2010.12.011",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. B. Sparks, Victoria Browning. “The impact of online reviews on hotel booking intentions and perception of trust..” Tourism Management"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 29,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://m.ctrip.com/html5/hotel/hoteldetail/130122601.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. Modern Retreat Minutes From Disney, King Bed Pool, Free ..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 30,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://media.disneywebcontent.com/StaticFiles/CSA/GCDCC/dlrgc/DisneylandHotelLayoutMap.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "5. Disneyland Hotel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 31,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "http://www.yrdcpcn.com/upload/2023/0703/907e5f06-cd66-4e71-8322-477a5a5569b6.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "6. 上海迪士尼乐园对其周边区域产业发展的影响研究——基于国际经验借鉴"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 32,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://cdn1.parksmedia.wdprapps.disney.com/media/disneyparksjapan-prod/disneyparksjapan_v0001/1/media/DisneyParksHolidayPlanningGuide.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "7. Disney Parks Holiday Planning Guide"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 33,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://assets-brochure.disneylandparis.com/static/A24/indiv/IE/magalog_b2c/common/data/catalogue.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "8. Disneyland Paris: Enter the Magic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 34,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "http://www.gckzw.com/tupian-4687218.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "9. 【上海迪士尼乐园酒店】图片查看,高清大图"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 35,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://hotels.ctrip.com/hotel/hong%20kong58/h367",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "10. 中国香港迪士尼酒店"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 36,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://m.gmw.cn/2025-07/23/content_1304091214.htm",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "11. 事关迪士尼！上海警方：33人被抓"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 37,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.hongkongdisneyland.com/sales-materials/pdf/HongKongDisneylandHotelFactsheet_SC.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "12. 中国香港迪士尼乐园度假区主题酒店"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 38,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.hongkongdisneyland.com/hotel-info-page/pdf/dlh-info.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "13. 酒店指南 Hotel Information"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 39,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://secure.parksandresorts.wdpromedia.com/media/espnwwos/2_PW19_Resort_Rules-9-24-19.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "14. RESORT RULES"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 40,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://cdn1.parksmedia.wdprapps.disney.com/media/disneyparksjapan-prod/disneyparksjapan_v0001/1/media/FY18-Q2-Brochure.pdf",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "15. 迪士尼目的地"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 41,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.klook.com/zh-CN/destination/p50014805-shanghai-disneyland/3-hotel/",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "16. 上海迪士尼乐园©周边酒店"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 42,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://bk.taobao.com/k/dishini_131/9628a155796a2a6721e96680f8ab6484.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "17. 迪士尼乐园酒店与门票套餐：如何享受一站式梦幻体验？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 43,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.marriott.com.cn/hotels/mcosi-walt-disney-world-dolphin/overview/",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "18. Walt Disney World Dolphin - 华特迪士尼世界海豚度假酒店"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 44,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.cn.kayak.com/%E9%A6%99%E6%B8%AF-%E9%85%92%E5%BA%97-%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E9%85%92%E5%BA%97---%E5%BC%8F.104260.ksp",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "19. 中国香港迪士尼乐园酒店每晚低至¥934​(¥̶7̶7̶8̶..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 45,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.marriott.com.cn/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/experiences/",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "20. Sheraton Grande Tokyo Bay Hotel - 东京湾喜来登大酒店"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 46,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://disneyparks.disney.go.com/cn/disneyland/hotels/disneyland-hotel/",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "21. 迪士尼乐园酒店（Disneyland Hotel）| 客房、服务和餐饮"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 47,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://zhuanlan.zhihu.com/p/663437891",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "22. 迪士尼附近酒店低价订！人均50+拿捏！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 48,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://beisaibiaoshi.com/baike/1435.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "23. 中国香港迪士尼乐园酒店标识(迪士尼乐园logo)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 49,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://m.sohu.com/a/808489531_267471",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "24. 迪士尼乐园：美国梦幻王国的奇妙探险与欢乐时光"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 50,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "http://allpahotel.com/photo-gallery/",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "25. 酒店入住及退房政策指南"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 51,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://cj.sina.cn/articles/view/6824573189/196c6b90502002bt3a?froms=ggmp",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "26. 凭房卡提前进迪士尼的游客为何比酒店住户还多"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 52,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "http://www.transformationalbookcircle.com/post/7717.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "27. 中国香港迪士尼乐园酒店,香港迪士尼乐园酒店官网 - 旅游"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 53,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "http://travel.sina.com.cn/news/2014-03-19/1855253779.shtml",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "28. 华特‧迪士尼世界度假区酒店"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 54,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.tokyodisneyresort.jp/tc/hotel/tdh/room.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "29. 客房简介"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 55,
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://www.163.com/dy/article/JBET5DTL05568E2R.html",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "30. 2025 年迪士尼乐园度假套餐火热开售啦!|酒店|度假区|景观..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 56,
+          "content": [
+            {
+              "type": "text",
+              "content": "内容为AI生成，可能不准确，请谨慎参考"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

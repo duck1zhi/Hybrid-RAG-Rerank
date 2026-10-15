@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "file_suffix": "docx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "authors": [
+        "Administrator"
+      ],
+      "created_at": "2025-07-28T06:05:00Z",
+      "modified_at": "2025-07-28T06:09:00Z",
+      "creator_application": "Microsoft Office Word",
+      "page_count": 3,
+      "page_count_kind": "declared"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园内部通讯录与职责说明\n（上海 | 香港 | 美国 | 巴黎园区通用模板，2025-07-28 更新）"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、使用须知"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 以下分机与邮箱均为园区内部短号或内网域名，须连接 Disney Secure Network 或 VPN 才能拨打/收发。"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 外部来电请拨打园区总机后按提示转接：\n• 上海：+86-21-2099-8000\n• 香港：+852 1-830-830\n• 美国（佛州/加州）：+1-407-939-5277"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 夜间（22:00-07:00）所有紧急事项→安保总控中心（SOC）统一调度。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、部门速查表（Who to Call for What）"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 4,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 4,
+              "content": "<table><thead><tr><th><p><strong>场景</strong></p></th><th><p><strong>关键问题示例</strong></p></th><th><p><strong>第一联系人</strong></p></th><th><p><strong>分机 / 邮箱</strong></p></th><th><p><strong>备用/升级</strong></p></th></tr></thead><tbody><tr><td><p>票务退款（未使用）</p></td><td><p>系统无法退票、订单异常</p></td><td><p>财务-收入审计组</p></td><td><p>8112 / <a href=\"mailto:refunds@shdr.com\" target=\"_blank\">refunds@shdr.com</a></p></td><td><p>财务总监 Natacha Rafalski（仅升级）</p></td></tr><tr><td><p>支付失败、尊享卡系统崩溃</p></td><td><p>POS 断网、二维码失效</p></td><td><p>技术-IT 运维</p></td><td><p>8888 / <a href=\"mailto:itsupport@shdr.com\" target=\"_blank\">itsupport@shdr.com</a></p></td><td><p>设施运营部-项目经理（L3 重大故障）</p></td></tr><tr><td><p>宾客投诉升级</p></td><td><p>高额赔偿、舆情风险</p></td><td><p>宾客关系部 Duty Manager</p></td><td><p>8333 / <a href=\"mailto:grduty@shdr.com\" target=\"_blank\">grduty@shdr.com</a></p></td><td><p>宾客关系总监 24h 热线 8300</p></td></tr><tr><td><p>走失儿童/财物安全</p></td><td><p>紧急协寻、监控调取</p></td><td><p>安保-园区控制中心（SOC）</p></td><td><p>9999 / <a href=\"mailto:soc@shdr.com\" target=\"_blank\">soc@shdr.com</a></p></td><td><p>安保副经理 9001</p></td></tr><tr><td><p>培训与员工系统权限</p></td><td><p>CRM 账号、课程排班</p></td><td><p>运营培训专员</p></td><td><p>8200 / <a href=\"mailto:training@shdr.com\" target=\"_blank\">training@shdr.com</a></p></td><td><p>迪士尼大学协调人</p></td></tr><tr><td><p>施工/设施维修延误</p></td><td><p>扩建设施、节能项目</p></td><td><p>设施资产-项目经理</p></td><td><p>8500 / <a href=\"mailto:fospm@shdr.com\" target=\"_blank\">fospm@shdr.com</a></p></td><td><p>设施运营部总监</p></td></tr><tr><td><p>战略新项目可行性</p></td><td><p>扩建、财务模型</p></td><td><p>商业战略部</p></td><td><p>8600 / <a href=\"mailto:bizstrategy@shdr.com\" target=\"_blank\">bizstrategy@shdr.com</a></p></td><td><p>总监级汇报</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、内部邮件命名规则\n• 上海：工号@shdr.com\n• 香港：工号@hkdl.com\n• 美国：工号@disney.com\n• 巴黎：工号@disneylandparis.com"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "────────────────\n四、紧急 15 秒决策表"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 人身安全事故 → 直拨 9999（SOC）"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 媒体/法律威胁 → 直拨 8300（宾客关系总监）"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 系统级故障（>15 min） → 直拨 8888（IT）+ 抄送设施运营部 8500"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "4. 财务差异 >10 万元 → 抄送财务总监 Natacha Rafalski 8101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "五、一句话记忆\n“先判断场景→查表→拨对应分机→30 秒内完成首报。”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "迪士尼乐园「培训材料 & 政策/产品变更通告」一站式速览"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "一、新员工入职培训材料（通用框架 + 上海园区示例）"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 11,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 11,
+              "content": "<table><thead><tr><th><p><strong>模块</strong></p></th><th><p><strong>核心内容</strong></p></th><th><p><strong>交付方式</strong></p></th><th><p><strong>时长</strong></p></th><th><p><strong>更新频率</strong></p></th></tr></thead><tbody><tr><td><p>文化与价值观</p></td><td><p>「Four Keys」安全、礼仪、演出、效率</p></td><td><p>面授 + Disney University 线上课程</p></td><td><p>4 h</p></td><td><p>每年 1 次</p></td></tr><tr><td><p>服务标准</p></td><td><p>「Guestology」+ 现场情景演练</p></td><td><p>面授 + VR 模拟</p></td><td><p>8 h</p></td><td><p>每半年 1 次</p></td></tr><tr><td><p>安全知识</p></td><td><p>游乐设施应急、CPR、消防</p></td><td><p>实操 + 在线考试</p></td><td><p>6 h</p></td><td><p>每季度 1 次</p></td></tr><tr><td><p>系统操作</p></td><td><p>CRM、POS、尊享卡发放</p></td><td><p>实操 + e-Learning</p></td><td><p>4 h</p></td><td><p>随系统升级即时更新</p></td></tr><tr><td><p>语言与文化</p></td><td><p>基础手语、常用外语问候</p></td><td><p>微课</p></td><td><p>2 h</p></td><td><p>按需</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "• 上海园区由「Operations Training Specialist」统筹：负责分析培训需求、排班、追踪完成率，并与 Disney University 联合落地所有新员工 onboarding 课程。\n• 培训形式：课堂培训、移动学习（手机 App）、在岗辅导、回炉培训（refresh training）全覆盖。\n• 培训完成率、考试成绩、宾客满意度均实时回传 CRM，用于后续晋升评估"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": "二、政策变更历史（最新 3 条）"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 14,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 14,
+              "content": "<table><thead><tr><th><p><strong>生效日期</strong></p></th><th><p><strong>政策内容</strong></p></th><th><p><strong>适用园区</strong></p></th><th><p><strong>官方通告链接</strong></p></th></tr></thead><tbody><tr><td><p>2024-12-23</p></td><td><p>实名制购票：购票人须与入园人证件一致</p></td><td><p>上海</p></td><td><p><a href=\"https://www.shanghaidisneyresort.com/shanghai-disney-resort-real-name-ticketing-policy/\" target=\"_blank\">官方通告</a> </p></td></tr><tr><td><p>2025-05-29</p></td><td><p>强化控烟：除指定吸烟区外全面禁烟，违者驱逐</p></td><td><p>上海</p></td><td><p>同上 </p></td></tr><tr><td><p>2025-07-27</p></td><td><p>高温天气应急预案：户外演出/巡游可能临时取消</p></td><td><p>上海</p></td><td><p>同上 </p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "content": [
+            {
+              "type": "text",
+              "content": "三、产品与价格变更历史（最近 2 条）"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 16,
+          "content": [
+            {
+              "type": "table_body",
+              "index": 16,
+              "content": "<table><thead><tr><th><p><strong>生效日期</strong></p></th><th><p><strong>产品/价格变动</strong></p></th><th><p><strong>园区</strong></p></th><th><p><strong>备注</strong></p></th></tr></thead><tbody><tr><td><p>2025-06-20</p></td><td><p>尊享卡价格上调 5-10 %（旺季浮动）</p></td><td><p>上海、香港</p></td><td><p>仅旺季日生效，官方 App 实时价</p></td></tr><tr><td><p>2025-07-01</p></td><td><p>新增「午后票」15:00 后入园，成人 ¥299</p></td><td><p>上海</p></td><td><p>限量发售，售完即止</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 17,
+          "content": [
+            {
+              "type": "text",
+              "content": "四、获取最新通告的 3 个官方渠道"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "index": 18,
+          "content": [
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "1. 内网「Cast Portal」→「News & Updates」"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "2. 企业微信「迪士尼培训助手」每周推送"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "3. 线下「公告栏」+「每日早会」同步口头提醒"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}
