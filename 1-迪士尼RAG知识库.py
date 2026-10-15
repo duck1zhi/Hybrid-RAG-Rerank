@@ -40,6 +40,29 @@ MULTIMODAL_EMBEDDING_MODEL = "tongyi-embedding-vision-plus"
 INDEX_FILE = os.path.join(BASE_DIR, "disney_index.faiss")
 METADATA_FILE = os.path.join(BASE_DIR, "disney_metadata.json")
 
+
+def to_store_path(path):
+    """存入元数据的相对路径（相对项目根，统一用 /，便于跨机克隆）"""
+    if not path:
+        return path
+    normalized = path.replace("/", os.sep).replace("\\", os.sep)
+    lower = normalized.lower()
+    # 旧数据可能来自其他盘符/项目，只要含 parsed_archive 就挂到本项目相对路径
+    marker = "parsed_archive"
+    idx = lower.find(marker)
+    if idx >= 0:
+        return normalized[idx:].replace("\\", "/")
+    abs_path = os.path.abspath(normalized)
+    return os.path.relpath(abs_path, BASE_DIR).replace("\\", "/")
+
+
+def resolve_project_path(path):
+    """元数据路径转为当前机器上的绝对路径"""
+    if not path:
+        return path
+    stored = to_store_path(path)
+    return os.path.normpath(os.path.join(BASE_DIR, stored.replace("/", os.sep)))
+
 # 切分参数
 CHUNK_SIZE = 500  # 每个chunk的字符数
 CHUNK_OVERLAP = 50  # chunk之间的重叠字符数
@@ -753,18 +776,19 @@ def append_text_chunks(metadata_store, all_vectors, doc_id, source, text, conten
 
 def append_image_record(metadata_store, all_vectors, doc_id, source_label, img_path, content_label=None):
     """按原脚本方式写入一条图片记录，返回新的 doc_id"""
-    img_name = os.path.basename(img_path)
+    abs_img = os.path.abspath(img_path)
+    img_name = os.path.basename(abs_img)
     display_name = content_label or img_name
-    reused = os.path.isfile(img_path + ".npy")
+    reused = os.path.isfile(abs_img + ".npy")
     print(f"    - {img_name}" + (" 复用向量" if reused else ""))
     metadata = {
         "id": doc_id,
         "source": source_label,
         "type": "image",
-        "path": img_path,
+        "path": to_store_path(abs_img),
         "content": f"[图片] {display_name}"
     }
-    vector = get_image_embedding(img_path)
+    vector = get_image_embedding(abs_img)
     all_vectors.append(vector)
     metadata_store.append(metadata)
     return doc_id + 1

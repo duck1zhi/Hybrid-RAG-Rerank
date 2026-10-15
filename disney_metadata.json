@@ -57,14 +57,14 @@
     "id": 9,
     "source": "图片: page_0_image_14.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__全球迪士尼乐园的现状和启示\\mineru_output\\images\\page_0_image_14.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__全球迪士尼乐园的现状和启示/mineru_output/images/page_0_image_14.jpg",
     "content": "[图片] page_0_image_14.jpg"
   },
   {
     "id": 10,
     "source": "图片: page_1_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__全球迪士尼乐园的现状和启示\\mineru_output\\images\\page_1_image_1.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__全球迪士尼乐园的现状和启示/mineru_output/images/page_1_image_1.jpg",
     "content": "[图片] page_1_image_1.jpg"
   },
   {
@@ -95,7 +95,7 @@
     "id": 15,
     "source": "图片: page_0_chart_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼乐园流媒体介绍包括不同方案的价格、功能差异（像画质、同时观看设备）、内容库、技术支持等\\mineru_output\\images\\page_0_chart_6.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼乐园流媒体介绍包括不同方案的价格、功能差异（像画质、同时观看设备）、内容库、技术支持等/mineru_output/images/page_0_chart_6.jpg",
     "content": "[图片] page_0_chart_6.jpg"
   },
   {
@@ -612,112 +612,112 @@
     "id": 101,
     "source": "图片: page_15_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_15_image_0.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_15_image_0.jpg",
     "content": "[图片] page_15_image_0.jpg"
   },
   {
     "id": 102,
     "source": "图片: page_16_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_16_image_2.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_16_image_2.jpg",
     "content": "[图片] page_16_image_2.jpg"
   },
   {
     "id": 103,
     "source": "图片: page_17_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_17_image_0.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_17_image_0.jpg",
     "content": "[图片] page_17_image_0.jpg"
   },
   {
     "id": 104,
     "source": "图片: page_17_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_17_image_2.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_17_image_2.jpg",
     "content": "[图片] page_17_image_2.jpg"
   },
   {
     "id": 105,
     "source": "图片: page_18_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_18_image_0.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_18_image_0.jpg",
     "content": "[图片] page_18_image_0.jpg"
   },
   {
     "id": 106,
     "source": "图片: page_18_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_18_image_1.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_18_image_1.jpg",
     "content": "[图片] page_18_image_1.jpg"
   },
   {
     "id": 107,
     "source": "图片: page_18_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_18_image_2.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_18_image_2.jpg",
     "content": "[图片] page_18_image_2.jpg"
   },
   {
     "id": 108,
     "source": "图片: page_19_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_19_image_0.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_19_image_0.jpg",
     "content": "[图片] page_19_image_0.jpg"
   },
   {
     "id": 109,
     "source": "图片: page_20_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_20_image_4.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_20_image_4.jpg",
     "content": "[图片] page_20_image_4.jpg"
   },
   {
     "id": 110,
     "source": "图片: page_2_image_11.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_2_image_11.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_2_image_11.jpg",
     "content": "[图片] page_2_image_11.jpg"
   },
   {
     "id": 111,
     "source": "图片: page_2_image_12.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_2_image_12.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_2_image_12.jpg",
     "content": "[图片] page_2_image_12.jpg"
   },
   {
     "id": 112,
     "source": "图片: page_2_image_13.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_2_image_13.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_2_image_13.jpg",
     "content": "[图片] page_2_image_13.jpg"
   },
   {
     "id": 113,
     "source": "图片: page_2_image_14.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_2_image_14.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_2_image_14.jpg",
     "content": "[图片] page_2_image_14.jpg"
   },
   {
     "id": 114,
     "source": "图片: page_2_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_2_image_6.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_2_image_6.jpg",
     "content": "[图片] page_2_image_6.jpg"
   },
   {
     "id": 115,
     "source": "图片: page_7_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_7_image_6.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_7_image_6.jpg",
     "content": "[图片] page_7_image_6.jpg"
   },
   {
     "id": 116,
     "source": "图片: page_8_table_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__迪士尼公司发展分析\\mineru_output\\images\\page_8_table_0.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__迪士尼公司发展分析/mineru_output/images/page_8_table_0.jpg",
     "content": "[图片] page_8_table_0.jpg"
   },
   {
@@ -946,210 +946,210 @@
     "id": 154,
     "source": "图片: page_0_image_23.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_0_image_23.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_0_image_23.jpg",
     "content": "[图片] page_0_image_23.jpg"
   },
   {
     "id": 155,
     "source": "图片: page_10_image_14.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_10_image_14.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_10_image_14.jpg",
     "content": "[图片] page_10_image_14.jpg"
   },
   {
     "id": 156,
     "source": "图片: page_10_image_18.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_10_image_18.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_10_image_18.jpg",
     "content": "[图片] page_10_image_18.jpg"
   },
   {
     "id": 157,
     "source": "图片: page_11_chart_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_11_chart_0.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_11_chart_0.jpg",
     "content": "[图片] page_11_chart_0.jpg"
   },
   {
     "id": 158,
     "source": "图片: page_11_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_11_image_7.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_11_image_7.jpg",
     "content": "[图片] page_11_image_7.jpg"
   },
   {
     "id": 159,
     "source": "图片: page_11_table_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_11_table_5.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_11_table_5.jpg",
     "content": "[图片] page_11_table_5.jpg"
   },
   {
     "id": 160,
     "source": "图片: page_11_table_9.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_11_table_9.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_11_table_9.jpg",
     "content": "[图片] page_11_table_9.jpg"
   },
   {
     "id": 161,
     "source": "图片: page_11_table_image_5_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_11_table_image_5_1.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_11_table_image_5_1.jpg",
     "content": "[图片] page_11_table_image_5_1.jpg"
   },
   {
     "id": 162,
     "source": "图片: page_11_table_image_9_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_11_table_image_9_1.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_11_table_image_9_1.jpg",
     "content": "[图片] page_11_table_image_9_1.jpg"
   },
   {
     "id": 163,
     "source": "图片: page_12_image_15.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_12_image_15.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_12_image_15.jpg",
     "content": "[图片] page_12_image_15.jpg"
   },
   {
     "id": 164,
     "source": "图片: page_13_image_18.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_13_image_18.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_13_image_18.jpg",
     "content": "[图片] page_13_image_18.jpg"
   },
   {
     "id": 165,
     "source": "图片: page_13_image_29.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_13_image_29.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_13_image_29.jpg",
     "content": "[图片] page_13_image_29.jpg"
   },
   {
     "id": 166,
     "source": "图片: page_14_table_11.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_14_table_11.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_14_table_11.jpg",
     "content": "[图片] page_14_table_11.jpg"
   },
   {
     "id": 167,
     "source": "图片: page_15_table_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_15_table_2.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_15_table_2.jpg",
     "content": "[图片] page_15_table_2.jpg"
   },
   {
     "id": 168,
     "source": "图片: page_16_image_13.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_16_image_13.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_16_image_13.jpg",
     "content": "[图片] page_16_image_13.jpg"
   },
   {
     "id": 169,
     "source": "图片: page_16_image_26.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_16_image_26.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_16_image_26.jpg",
     "content": "[图片] page_16_image_26.jpg"
   },
   {
     "id": 170,
     "source": "图片: page_1_image_9.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_1_image_9.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_1_image_9.jpg",
     "content": "[图片] page_1_image_9.jpg"
   },
   {
     "id": 171,
     "source": "图片: page_1_table_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_1_table_3.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_1_table_3.jpg",
     "content": "[图片] page_1_table_3.jpg"
   },
   {
     "id": 172,
     "source": "图片: page_2_image_12.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_2_image_12.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_2_image_12.jpg",
     "content": "[图片] page_2_image_12.jpg"
   },
   {
     "id": 173,
     "source": "图片: page_2_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_2_image_3.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_2_image_3.jpg",
     "content": "[图片] page_2_image_3.jpg"
   },
   {
     "id": 174,
     "source": "图片: page_3_image_9.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_3_image_9.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_3_image_9.jpg",
     "content": "[图片] page_3_image_9.jpg"
   },
   {
     "id": 175,
     "source": "图片: page_4_image_10.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_4_image_10.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_4_image_10.jpg",
     "content": "[图片] page_4_image_10.jpg"
   },
   {
     "id": 176,
     "source": "图片: page_5_image_8.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_5_image_8.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_5_image_8.jpg",
     "content": "[图片] page_5_image_8.jpg"
   },
   {
     "id": 177,
     "source": "图片: page_6_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_6_image_3.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_6_image_3.jpg",
     "content": "[图片] page_6_image_3.jpg"
   },
   {
     "id": 178,
     "source": "图片: page_7_image_8.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_7_image_8.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_7_image_8.jpg",
     "content": "[图片] page_7_image_8.jpg"
   },
   {
     "id": 179,
     "source": "图片: page_8_image_10.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_8_image_10.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_8_image_10.jpg",
     "content": "[图片] page_8_image_10.jpg"
   },
   {
     "id": 180,
     "source": "图片: page_8_table_14.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_8_table_14.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_8_table_14.jpg",
     "content": "[图片] page_8_table_14.jpg"
   },
   {
     "id": 181,
     "source": "图片: page_8_table_16.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_8_table_16.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_8_table_16.jpg",
     "content": "[图片] page_8_table_16.jpg"
   },
   {
     "id": 182,
     "source": "图片: page_9_image_19.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_9_image_19.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_9_image_19.jpg",
     "content": "[图片] page_9_image_19.jpg"
   },
   {
     "id": 183,
     "source": "图片: page_9_table_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\pdf\\1-产品与服务详情__香港迪士尼乐园旅游攻略\\mineru_output\\images\\page_9_table_3.jpg",
+    "path": "parsed_archive/pdf/1-产品与服务详情__香港迪士尼乐园旅游攻略/mineru_output/images/page_9_table_3.jpg",
     "content": "[图片] page_9_table_3.jpg"
   },
   {
@@ -1336,7 +1336,7 @@
     "id": 214,
     "source": "图片: page_0_image_9.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__乐园与度假区设施信息：各项游乐设施的身高_年龄限制、安全须知、排队时间的官方查询方式\\mineru_output\\images\\page_0_image_9.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__乐园与度假区设施信息：各项游乐设施的身高_年龄限制、安全须知、排队时间的官方查询方式/mineru_output/images/page_0_image_9.jpg",
     "content": "[图片] page_0_image_9.jpg"
   },
   {
@@ -1481,42 +1481,42 @@
     "id": 238,
     "source": "图片: page_0_image_12.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍\\mineru_output\\images\\page_0_image_12.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍/mineru_output/images/page_0_image_12.jpg",
     "content": "[图片] page_0_image_12.jpg"
   },
   {
     "id": 239,
     "source": "图片: page_0_image_14.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍\\mineru_output\\images\\page_0_image_14.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍/mineru_output/images/page_0_image_14.jpg",
     "content": "[图片] page_0_image_14.jpg"
   },
   {
     "id": 240,
     "source": "图片: page_0_image_16.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍\\mineru_output\\images\\page_0_image_16.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍/mineru_output/images/page_0_image_16.jpg",
     "content": "[图片] page_0_image_16.jpg"
   },
   {
     "id": 241,
     "source": "图片: page_0_image_23.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍\\mineru_output\\images\\page_0_image_23.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍/mineru_output/images/page_0_image_23.jpg",
     "content": "[图片] page_0_image_23.jpg"
   },
   {
     "id": 242,
     "source": "图片: page_0_image_28.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍\\mineru_output\\images\\page_0_image_28.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍/mineru_output/images/page_0_image_28.jpg",
     "content": "[图片] page_0_image_28.jpg"
   },
   {
     "id": 243,
     "source": "图片: page_0_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍\\mineru_output\\images\\page_0_image_6.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园 _园区地图、各主题区域介绍/mineru_output/images/page_0_image_6.jpg",
     "content": "[图片] page_0_image_6.jpg"
   },
   {
@@ -1577,14 +1577,14 @@
     "id": 253,
     "source": "图片: page_0_image_14.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园 _每日开闭园时间、特殊活动（烟花、巡游）时间表\\mineru_output\\images\\page_0_image_14.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园 _每日开闭园时间、特殊活动（烟花、巡游）时间表/mineru_output/images/page_0_image_14.jpg",
     "content": "[图片] page_0_image_14.jpg"
   },
   {
     "id": 254,
     "source": "图片: page_0_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园 _每日开闭园时间、特殊活动（烟花、巡游）时间表\\mineru_output\\images\\page_0_image_5.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园 _每日开闭园时间、特殊活动（烟花、巡游）时间表/mineru_output/images/page_0_image_5.jpg",
     "content": "[图片] page_0_image_5.jpg"
   },
   {
@@ -1861,7 +1861,7 @@
     "id": 300,
     "source": "图片: page_0_image_14.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼乐园与度假区\\mineru_output\\images\\page_0_image_14.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼乐园与度假区/mineru_output/images/page_0_image_14.jpg",
     "content": "[图片] page_0_image_14.jpg"
   },
   {
@@ -2156,98 +2156,98 @@
     "id": 349,
     "source": "图片: page_0_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_1.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_1.jpg",
     "content": "[图片] page_0_image_1.jpg"
   },
   {
     "id": 350,
     "source": "图片: page_0_image_12.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_12.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_12.jpg",
     "content": "[图片] page_0_image_12.jpg"
   },
   {
     "id": 351,
     "source": "图片: page_0_image_15.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_15.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_15.jpg",
     "content": "[图片] page_0_image_15.jpg"
   },
   {
     "id": 352,
     "source": "图片: page_0_image_18.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_18.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_18.jpg",
     "content": "[图片] page_0_image_18.jpg"
   },
   {
     "id": 353,
     "source": "图片: page_0_image_21.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_21.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_21.jpg",
     "content": "[图片] page_0_image_21.jpg"
   },
   {
     "id": 354,
     "source": "图片: page_0_image_24.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_24.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_24.jpg",
     "content": "[图片] page_0_image_24.jpg"
   },
   {
     "id": 355,
     "source": "图片: page_0_image_27.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_27.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_27.jpg",
     "content": "[图片] page_0_image_27.jpg"
   },
   {
     "id": 356,
     "source": "图片: page_0_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_3.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_3.jpg",
     "content": "[图片] page_0_image_3.jpg"
   },
   {
     "id": 357,
     "source": "图片: page_0_image_30.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_30.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_30.jpg",
     "content": "[图片] page_0_image_30.jpg"
   },
   {
     "id": 358,
     "source": "图片: page_0_image_33.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_33.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_33.jpg",
     "content": "[图片] page_0_image_33.jpg"
   },
   {
     "id": 359,
     "source": "图片: page_0_image_34.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_34.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_34.jpg",
     "content": "[图片] page_0_image_34.jpg"
   },
   {
     "id": 360,
     "source": "图片: page_0_image_35.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_35.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_35.jpg",
     "content": "[图片] page_0_image_35.jpg"
   },
   {
     "id": 361,
     "source": "图片: page_0_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_6.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_6.jpg",
     "content": "[图片] page_0_image_6.jpg"
   },
   {
     "id": 362,
     "source": "图片: page_0_image_9.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你\\mineru_output\\images\\page_0_image_9.jpg",
+    "path": "parsed_archive/docx/1-产品与服务详情__迪士尼邮轮的10条秘密，没有人会告诉你/mineru_output/images/page_0_image_9.jpg",
     "content": "[图片] page_0_image_9.jpg"
   },
   {
@@ -2434,7 +2434,7 @@
     "id": 393,
     "source": "图片: page_0_image_20.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\docx\\2-运营流程与标准作业程序__迪士尼乐园度假区客诉处理流程，不同类型投诉（服务态度、设施故障、商品瑕疵）的应对话术与补偿方案模板\\mineru_output\\images\\page_0_image_20.jpg",
+    "path": "parsed_archive/docx/2-运营流程与标准作业程序__迪士尼乐园度假区客诉处理流程，不同类型投诉（服务态度、设施故障、商品瑕疵）的应对话术与补偿方案模板/mineru_output/images/page_0_image_20.jpg",
     "content": "[图片] page_0_image_20.jpg"
   },
   {
@@ -3659,294 +3659,294 @@
     "id": 597,
     "source": "图片: page_0_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_0_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_0_image_0.jpg",
     "content": "[图片] page_0_image_0.jpg"
   },
   {
     "id": 598,
     "source": "图片: page_10_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_10_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_10_image_0.jpg",
     "content": "[图片] page_10_image_0.jpg"
   },
   {
     "id": 599,
     "source": "图片: page_13_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_13_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_13_image_1.jpg",
     "content": "[图片] page_13_image_1.jpg"
   },
   {
     "id": 600,
     "source": "图片: page_14_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_14_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_14_image_1.jpg",
     "content": "[图片] page_14_image_1.jpg"
   },
   {
     "id": 601,
     "source": "图片: page_15_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_15_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_15_image_0.jpg",
     "content": "[图片] page_15_image_0.jpg"
   },
   {
     "id": 602,
     "source": "图片: page_15_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_15_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_15_image_1.jpg",
     "content": "[图片] page_15_image_1.jpg"
   },
   {
     "id": 603,
     "source": "图片: page_16_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_16_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_16_image_1.jpg",
     "content": "[图片] page_16_image_1.jpg"
   },
   {
     "id": 604,
     "source": "图片: page_16_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_16_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_16_image_2.jpg",
     "content": "[图片] page_16_image_2.jpg"
   },
   {
     "id": 605,
     "source": "图片: page_16_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_16_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_16_image_3.jpg",
     "content": "[图片] page_16_image_3.jpg"
   },
   {
     "id": 606,
     "source": "图片: page_17_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_17_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_17_image_1.jpg",
     "content": "[图片] page_17_image_1.jpg"
   },
   {
     "id": 607,
     "source": "图片: page_18_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_18_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_18_image_0.jpg",
     "content": "[图片] page_18_image_0.jpg"
   },
   {
     "id": 608,
     "source": "图片: page_18_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_18_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_18_image_1.jpg",
     "content": "[图片] page_18_image_1.jpg"
   },
   {
     "id": 609,
     "source": "图片: page_19_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_19_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_19_image_0.jpg",
     "content": "[图片] page_19_image_0.jpg"
   },
   {
     "id": 610,
     "source": "图片: page_19_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_19_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_19_image_1.jpg",
     "content": "[图片] page_19_image_1.jpg"
   },
   {
     "id": 611,
     "source": "图片: page_19_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_19_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_19_image_2.jpg",
     "content": "[图片] page_19_image_2.jpg"
   },
   {
     "id": 612,
     "source": "图片: page_1_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_1_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_1_image_1.jpg",
     "content": "[图片] page_1_image_1.jpg"
   },
   {
     "id": 613,
     "source": "图片: page_20_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_20_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_20_image_0.jpg",
     "content": "[图片] page_20_image_0.jpg"
   },
   {
     "id": 614,
     "source": "图片: page_21_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_21_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_21_image_0.jpg",
     "content": "[图片] page_21_image_0.jpg"
   },
   {
     "id": 615,
     "source": "图片: page_22_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_22_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_22_image_0.jpg",
     "content": "[图片] page_22_image_0.jpg"
   },
   {
     "id": 616,
     "source": "图片: page_22_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_22_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_22_image_1.jpg",
     "content": "[图片] page_22_image_1.jpg"
   },
   {
     "id": 617,
     "source": "图片: page_22_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_22_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_22_image_2.jpg",
     "content": "[图片] page_22_image_2.jpg"
   },
   {
     "id": 618,
     "source": "图片: page_23_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_23_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_23_image_0.jpg",
     "content": "[图片] page_23_image_0.jpg"
   },
   {
     "id": 619,
     "source": "图片: page_23_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_23_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_23_image_1.jpg",
     "content": "[图片] page_23_image_1.jpg"
   },
   {
     "id": 620,
     "source": "图片: page_23_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_23_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_23_image_2.jpg",
     "content": "[图片] page_23_image_2.jpg"
   },
   {
     "id": 621,
     "source": "图片: page_24_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_24_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_24_image_0.jpg",
     "content": "[图片] page_24_image_0.jpg"
   },
   {
     "id": 622,
     "source": "图片: page_25_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_25_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_25_image_1.jpg",
     "content": "[图片] page_25_image_1.jpg"
   },
   {
     "id": 623,
     "source": "图片: page_26_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_26_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_26_image_1.jpg",
     "content": "[图片] page_26_image_1.jpg"
   },
   {
     "id": 624,
     "source": "图片: page_28_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_28_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_28_image_1.jpg",
     "content": "[图片] page_28_image_1.jpg"
   },
   {
     "id": 625,
     "source": "图片: page_29_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_29_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_29_image_0.jpg",
     "content": "[图片] page_29_image_0.jpg"
   },
   {
     "id": 626,
     "source": "图片: page_2_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_2_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_2_image_1.jpg",
     "content": "[图片] page_2_image_1.jpg"
   },
   {
     "id": 627,
     "source": "图片: page_30_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_30_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_30_image_1.jpg",
     "content": "[图片] page_30_image_1.jpg"
   },
   {
     "id": 628,
     "source": "图片: page_31_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_31_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_31_image_0.jpg",
     "content": "[图片] page_31_image_0.jpg"
   },
   {
     "id": 629,
     "source": "图片: page_32_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_32_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_32_image_0.jpg",
     "content": "[图片] page_32_image_0.jpg"
   },
   {
     "id": 630,
     "source": "图片: page_3_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_3_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_3_image_0.jpg",
     "content": "[图片] page_3_image_0.jpg"
   },
   {
     "id": 631,
     "source": "图片: page_3_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_3_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_3_image_1.jpg",
     "content": "[图片] page_3_image_1.jpg"
   },
   {
     "id": 632,
     "source": "图片: page_3_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_3_image_2.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_3_image_2.png",
     "content": "[图片] page_3_image_2.png"
   },
   {
     "id": 633,
     "source": "图片: page_4_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_4_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_4_image_1.jpg",
     "content": "[图片] page_4_image_1.jpg"
   },
   {
     "id": 634,
     "source": "图片: page_5_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_5_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_5_image_0.jpg",
     "content": "[图片] page_5_image_0.jpg"
   },
   {
     "id": 635,
     "source": "图片: page_5_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_5_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_5_image_1.jpg",
     "content": "[图片] page_5_image_1.jpg"
   },
   {
     "id": 636,
     "source": "图片: page_7_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_7_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_7_image_0.jpg",
     "content": "[图片] page_7_image_0.jpg"
   },
   {
     "id": 637,
     "source": "图片: page_8_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_8_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_8_image_0.jpg",
     "content": "[图片] page_8_image_0.jpg"
   },
   {
     "id": 638,
     "source": "图片: page_9_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__上海迪士尼发展分析\\mineru_output\\images\\page_9_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__上海迪士尼发展分析/mineru_output/images/page_9_image_0.jpg",
     "content": "[图片] page_9_image_0.jpg"
   },
   {
@@ -4067,364 +4067,364 @@
     "id": 658,
     "source": "图片: page_0_image_1.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_0_image_1.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_0_image_1.png",
     "content": "[图片] page_0_image_1.png"
   },
   {
     "id": 659,
     "source": "图片: page_0_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_0_image_2.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_0_image_2.png",
     "content": "[图片] page_0_image_2.png"
   },
   {
     "id": 660,
     "source": "图片: page_0_image_3.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_0_image_3.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_0_image_3.png",
     "content": "[图片] page_0_image_3.png"
   },
   {
     "id": 661,
     "source": "图片: page_0_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_0_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_0_image_4.jpg",
     "content": "[图片] page_0_image_4.jpg"
   },
   {
     "id": 662,
     "source": "图片: page_0_image_5.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_0_image_5.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_0_image_5.png",
     "content": "[图片] page_0_image_5.png"
   },
   {
     "id": 663,
     "source": "图片: page_10_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_10_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_10_image_0.jpg",
     "content": "[图片] page_10_image_0.jpg"
   },
   {
     "id": 664,
     "source": "图片: page_10_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_10_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_10_image_1.jpg",
     "content": "[图片] page_10_image_1.jpg"
   },
   {
     "id": 665,
     "source": "图片: page_10_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_10_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_10_image_3.jpg",
     "content": "[图片] page_10_image_3.jpg"
   },
   {
     "id": 666,
     "source": "图片: page_10_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_10_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_10_image_4.jpg",
     "content": "[图片] page_10_image_4.jpg"
   },
   {
     "id": 667,
     "source": "图片: page_10_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_10_image_5.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_10_image_5.jpg",
     "content": "[图片] page_10_image_5.jpg"
   },
   {
     "id": 668,
     "source": "图片: page_10_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_10_image_6.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_10_image_6.jpg",
     "content": "[图片] page_10_image_6.jpg"
   },
   {
     "id": 669,
     "source": "图片: page_11_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_11_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_11_image_0.jpg",
     "content": "[图片] page_11_image_0.jpg"
   },
   {
     "id": 670,
     "source": "图片: page_11_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_11_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_11_image_1.jpg",
     "content": "[图片] page_11_image_1.jpg"
   },
   {
     "id": 671,
     "source": "图片: page_12_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_12_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_12_image_0.jpg",
     "content": "[图片] page_12_image_0.jpg"
   },
   {
     "id": 672,
     "source": "图片: page_12_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_12_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_12_image_2.jpg",
     "content": "[图片] page_12_image_2.jpg"
   },
   {
     "id": 673,
     "source": "图片: page_13_image_0.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_13_image_0.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_13_image_0.png",
     "content": "[图片] page_13_image_0.png"
   },
   {
     "id": 674,
     "source": "图片: page_13_image_1.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_13_image_1.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_13_image_1.png",
     "content": "[图片] page_13_image_1.png"
   },
   {
     "id": 675,
     "source": "图片: page_13_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_13_image_2.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_13_image_2.png",
     "content": "[图片] page_13_image_2.png"
   },
   {
     "id": 676,
     "source": "图片: page_13_image_3.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_13_image_3.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_13_image_3.png",
     "content": "[图片] page_13_image_3.png"
   },
   {
     "id": 677,
     "source": "图片: page_13_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_13_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_13_image_4.jpg",
     "content": "[图片] page_13_image_4.jpg"
   },
   {
     "id": 678,
     "source": "图片: page_1_image_0.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_1_image_0.png",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_1_image_0.png",
     "content": "[图片] page_1_image_0.png"
   },
   {
     "id": 679,
     "source": "图片: page_2_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_2_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_2_image_1.jpg",
     "content": "[图片] page_2_image_1.jpg"
   },
   {
     "id": 680,
     "source": "图片: page_2_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_2_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_2_image_2.jpg",
     "content": "[图片] page_2_image_2.jpg"
   },
   {
     "id": 681,
     "source": "图片: page_2_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_2_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_2_image_3.jpg",
     "content": "[图片] page_2_image_3.jpg"
   },
   {
     "id": 682,
     "source": "图片: page_2_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_2_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_2_image_4.jpg",
     "content": "[图片] page_2_image_4.jpg"
   },
   {
     "id": 683,
     "source": "图片: page_3_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_3_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_3_image_2.jpg",
     "content": "[图片] page_3_image_2.jpg"
   },
   {
     "id": 684,
     "source": "图片: page_3_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_3_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_3_image_3.jpg",
     "content": "[图片] page_3_image_3.jpg"
   },
   {
     "id": 685,
     "source": "图片: page_3_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_3_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_3_image_4.jpg",
     "content": "[图片] page_3_image_4.jpg"
   },
   {
     "id": 686,
     "source": "图片: page_3_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_3_image_5.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_3_image_5.jpg",
     "content": "[图片] page_3_image_5.jpg"
   },
   {
     "id": 687,
     "source": "图片: page_4_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_4_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_4_image_0.jpg",
     "content": "[图片] page_4_image_0.jpg"
   },
   {
     "id": 688,
     "source": "图片: page_4_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_4_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_4_image_1.jpg",
     "content": "[图片] page_4_image_1.jpg"
   },
   {
     "id": 689,
     "source": "图片: page_4_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_4_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_4_image_2.jpg",
     "content": "[图片] page_4_image_2.jpg"
   },
   {
     "id": 690,
     "source": "图片: page_5_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_5_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_5_image_0.jpg",
     "content": "[图片] page_5_image_0.jpg"
   },
   {
     "id": 691,
     "source": "图片: page_5_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_5_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_5_image_1.jpg",
     "content": "[图片] page_5_image_1.jpg"
   },
   {
     "id": 692,
     "source": "图片: page_5_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_5_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_5_image_2.jpg",
     "content": "[图片] page_5_image_2.jpg"
   },
   {
     "id": 693,
     "source": "图片: page_5_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_5_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_5_image_3.jpg",
     "content": "[图片] page_5_image_3.jpg"
   },
   {
     "id": 694,
     "source": "图片: page_6_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_6_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_6_image_0.jpg",
     "content": "[图片] page_6_image_0.jpg"
   },
   {
     "id": 695,
     "source": "图片: page_6_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_6_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_6_image_1.jpg",
     "content": "[图片] page_6_image_1.jpg"
   },
   {
     "id": 696,
     "source": "图片: page_6_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_6_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_6_image_2.jpg",
     "content": "[图片] page_6_image_2.jpg"
   },
   {
     "id": 697,
     "source": "图片: page_7_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_7_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_7_image_0.jpg",
     "content": "[图片] page_7_image_0.jpg"
   },
   {
     "id": 698,
     "source": "图片: page_7_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_7_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_7_image_1.jpg",
     "content": "[图片] page_7_image_1.jpg"
   },
   {
     "id": 699,
     "source": "图片: page_7_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_7_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_7_image_2.jpg",
     "content": "[图片] page_7_image_2.jpg"
   },
   {
     "id": 700,
     "source": "图片: page_7_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_7_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_7_image_3.jpg",
     "content": "[图片] page_7_image_3.jpg"
   },
   {
     "id": 701,
     "source": "图片: page_8_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_8_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_8_image_0.jpg",
     "content": "[图片] page_8_image_0.jpg"
   },
   {
     "id": 702,
     "source": "图片: page_8_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_8_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_8_image_1.jpg",
     "content": "[图片] page_8_image_1.jpg"
   },
   {
     "id": 703,
     "source": "图片: page_8_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_8_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_8_image_2.jpg",
     "content": "[图片] page_8_image_2.jpg"
   },
   {
     "id": 704,
     "source": "图片: page_9_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_9_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_9_image_0.jpg",
     "content": "[图片] page_9_image_0.jpg"
   },
   {
     "id": 705,
     "source": "图片: page_9_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_9_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_9_image_1.jpg",
     "content": "[图片] page_9_image_1.jpg"
   },
   {
     "id": 706,
     "source": "图片: page_9_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_9_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_9_image_4.jpg",
     "content": "[图片] page_9_image_4.jpg"
   },
   {
     "id": 707,
     "source": "图片: page_9_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_9_image_5.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_9_image_5.jpg",
     "content": "[图片] page_9_image_5.jpg"
   },
   {
     "id": 708,
     "source": "图片: page_9_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_9_image_6.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_9_image_6.jpg",
     "content": "[图片] page_9_image_6.jpg"
   },
   {
     "id": 709,
     "source": "图片: page_9_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园PPT\\mineru_output\\images\\page_9_image_7.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园PPT/mineru_output/images/page_9_image_7.jpg",
     "content": "[图片] page_9_image_7.jpg"
   },
   {
@@ -4497,175 +4497,175 @@
     "id": 721,
     "source": "图片: page_12_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_12_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_12_image_1.jpg",
     "content": "[图片] page_12_image_1.jpg"
   },
   {
     "id": 722,
     "source": "图片: page_13_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_13_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_13_image_1.jpg",
     "content": "[图片] page_13_image_1.jpg"
   },
   {
     "id": 723,
     "source": "图片: page_13_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_13_image_5.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_13_image_5.jpg",
     "content": "[图片] page_13_image_5.jpg"
   },
   {
     "id": 724,
     "source": "图片: page_13_image_9.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_13_image_9.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_13_image_9.jpg",
     "content": "[图片] page_13_image_9.jpg"
   },
   {
     "id": 725,
     "source": "图片: page_14_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_14_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_14_image_1.jpg",
     "content": "[图片] page_14_image_1.jpg"
   },
   {
     "id": 726,
     "source": "图片: page_14_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_14_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_14_image_4.jpg",
     "content": "[图片] page_14_image_4.jpg"
   },
   {
     "id": 727,
     "source": "图片: page_14_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_14_image_7.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_14_image_7.jpg",
     "content": "[图片] page_14_image_7.jpg"
   },
   {
     "id": 728,
     "source": "图片: page_15_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_15_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_15_image_1.jpg",
     "content": "[图片] page_15_image_1.jpg"
   },
   {
     "id": 729,
     "source": "图片: page_15_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_15_image_6.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_15_image_6.jpg",
     "content": "[图片] page_15_image_6.jpg"
   },
   {
     "id": 730,
     "source": "图片: page_15_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_15_image_7.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_15_image_7.jpg",
     "content": "[图片] page_15_image_7.jpg"
   },
   {
     "id": 731,
     "source": "图片: page_17_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_17_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_17_image_1.jpg",
     "content": "[图片] page_17_image_1.jpg"
   },
   {
     "id": 732,
     "source": "图片: page_18_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_18_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_18_image_1.jpg",
     "content": "[图片] page_18_image_1.jpg"
   },
   {
     "id": 733,
     "source": "图片: page_18_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_18_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_18_image_4.jpg",
     "content": "[图片] page_18_image_4.jpg"
   },
   {
     "id": 734,
     "source": "图片: page_18_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_18_image_7.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_18_image_7.jpg",
     "content": "[图片] page_18_image_7.jpg"
   },
   {
     "id": 735,
     "source": "图片: page_19_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_19_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_19_image_3.jpg",
     "content": "[图片] page_19_image_3.jpg"
   },
   {
     "id": 736,
     "source": "图片: page_19_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_19_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_19_image_4.jpg",
     "content": "[图片] page_19_image_4.jpg"
   },
   {
     "id": 737,
     "source": "图片: page_19_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_19_image_7.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_19_image_7.jpg",
     "content": "[图片] page_19_image_7.jpg"
   },
   {
     "id": 738,
     "source": "图片: page_21_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_21_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_21_image_1.jpg",
     "content": "[图片] page_21_image_1.jpg"
   },
   {
     "id": 739,
     "source": "图片: page_22_image_10.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_22_image_10.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_22_image_10.jpg",
     "content": "[图片] page_22_image_10.jpg"
   },
   {
     "id": 740,
     "source": "图片: page_23_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_23_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_23_image_1.jpg",
     "content": "[图片] page_23_image_1.jpg"
   },
   {
     "id": 741,
     "source": "图片: page_3_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_3_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_3_image_1.jpg",
     "content": "[图片] page_3_image_1.jpg"
   },
   {
     "id": 742,
     "source": "图片: page_4_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_4_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_4_image_3.jpg",
     "content": "[图片] page_4_image_3.jpg"
   },
   {
     "id": 743,
     "source": "图片: page_5_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_5_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_5_image_1.jpg",
     "content": "[图片] page_5_image_1.jpg"
   },
   {
     "id": 744,
     "source": "图片: page_7_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_7_image_5.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_7_image_5.jpg",
     "content": "[图片] page_7_image_5.jpg"
   },
   {
     "id": 745,
     "source": "图片: page_8_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园ppt课件\\mineru_output\\images\\page_8_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园ppt课件/mineru_output/images/page_8_image_1.jpg",
     "content": "[图片] page_8_image_1.jpg"
   },
   {
@@ -4810,196 +4810,196 @@
     "id": 769,
     "source": "图片: page_0_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_0_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_0_image_1.jpg",
     "content": "[图片] page_0_image_1.jpg"
   },
   {
     "id": 770,
     "source": "图片: page_10_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_10_image_6.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_10_image_6.jpg",
     "content": "[图片] page_10_image_6.jpg"
   },
   {
     "id": 771,
     "source": "图片: page_11_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_11_image_7.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_11_image_7.jpg",
     "content": "[图片] page_11_image_7.jpg"
   },
   {
     "id": 772,
     "source": "图片: page_12_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_12_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_12_image_4.jpg",
     "content": "[图片] page_12_image_4.jpg"
   },
   {
     "id": 773,
     "source": "图片: page_13_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_13_image_5.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_13_image_5.jpg",
     "content": "[图片] page_13_image_5.jpg"
   },
   {
     "id": 774,
     "source": "图片: page_14_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_14_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_14_image_2.jpg",
     "content": "[图片] page_14_image_2.jpg"
   },
   {
     "id": 775,
     "source": "图片: page_15_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_15_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_15_image_3.jpg",
     "content": "[图片] page_15_image_3.jpg"
   },
   {
     "id": 776,
     "source": "图片: page_17_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_17_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_17_image_0.jpg",
     "content": "[图片] page_17_image_0.jpg"
   },
   {
     "id": 777,
     "source": "图片: page_18_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_18_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_18_image_0.jpg",
     "content": "[图片] page_18_image_0.jpg"
   },
   {
     "id": 778,
     "source": "图片: page_19_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_19_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_19_image_0.jpg",
     "content": "[图片] page_19_image_0.jpg"
   },
   {
     "id": 779,
     "source": "图片: page_1_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_1_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_1_image_0.jpg",
     "content": "[图片] page_1_image_0.jpg"
   },
   {
     "id": 780,
     "source": "图片: page_20_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_20_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_20_image_0.jpg",
     "content": "[图片] page_20_image_0.jpg"
   },
   {
     "id": 781,
     "source": "图片: page_20_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_20_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_20_image_1.jpg",
     "content": "[图片] page_20_image_1.jpg"
   },
   {
     "id": 782,
     "source": "图片: page_21_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_21_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_21_image_2.jpg",
     "content": "[图片] page_21_image_2.jpg"
   },
   {
     "id": 783,
     "source": "图片: page_22_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_22_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_22_image_2.jpg",
     "content": "[图片] page_22_image_2.jpg"
   },
   {
     "id": 784,
     "source": "图片: page_23_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_23_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_23_image_2.jpg",
     "content": "[图片] page_23_image_2.jpg"
   },
   {
     "id": 785,
     "source": "图片: page_24_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_24_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_24_image_0.jpg",
     "content": "[图片] page_24_image_0.jpg"
   },
   {
     "id": 786,
     "source": "图片: page_25_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_25_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_25_image_0.jpg",
     "content": "[图片] page_25_image_0.jpg"
   },
   {
     "id": 787,
     "source": "图片: page_25_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_25_image_1.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_25_image_1.jpg",
     "content": "[图片] page_25_image_1.jpg"
   },
   {
     "id": 788,
     "source": "图片: page_2_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_2_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_2_image_0.jpg",
     "content": "[图片] page_2_image_0.jpg"
   },
   {
     "id": 789,
     "source": "图片: page_31_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_31_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_31_image_3.jpg",
     "content": "[图片] page_31_image_3.jpg"
   },
   {
     "id": 790,
     "source": "图片: page_3_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_3_image_7.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_3_image_7.jpg",
     "content": "[图片] page_3_image_7.jpg"
   },
   {
     "id": 791,
     "source": "图片: page_4_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_4_image_6.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_4_image_6.jpg",
     "content": "[图片] page_4_image_6.jpg"
   },
   {
     "id": 792,
     "source": "图片: page_5_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_5_image_4.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_5_image_4.jpg",
     "content": "[图片] page_5_image_4.jpg"
   },
   {
     "id": 793,
     "source": "图片: page_6_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_6_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_6_image_0.jpg",
     "content": "[图片] page_6_image_0.jpg"
   },
   {
     "id": 794,
     "source": "图片: page_7_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_7_image_2.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_7_image_2.jpg",
     "content": "[图片] page_7_image_2.jpg"
   },
   {
     "id": 795,
     "source": "图片: page_8_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_8_image_3.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_8_image_3.jpg",
     "content": "[图片] page_8_image_3.jpg"
   },
   {
     "id": 796,
     "source": "图片: page_9_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版\\mineru_output\\images\\page_9_image_0.jpg",
+    "path": "parsed_archive/ppt/1-产品与服务详情__迪士尼乐园——东京迪士尼解析-中英文版/mineru_output/images/page_9_image_0.jpg",
     "content": "[图片] page_9_image_0.jpg"
   },
   {
@@ -5252,364 +5252,364 @@
     "id": 838,
     "source": "图片: page_0_image_0.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_0_image_0.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_0_image_0.png",
     "content": "[图片] page_0_image_0.png"
   },
   {
     "id": 839,
     "source": "图片: page_0_image_4.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_0_image_4.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_0_image_4.png",
     "content": "[图片] page_0_image_4.png"
   },
   {
     "id": 840,
     "source": "图片: page_10_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_10_image_2.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_10_image_2.png",
     "content": "[图片] page_10_image_2.png"
   },
   {
     "id": 841,
     "source": "图片: page_11_image_10.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_11_image_10.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_11_image_10.jpg",
     "content": "[图片] page_11_image_10.jpg"
   },
   {
     "id": 842,
     "source": "图片: page_12_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_12_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_12_image_1.jpg",
     "content": "[图片] page_12_image_1.jpg"
   },
   {
     "id": 843,
     "source": "图片: page_13_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_13_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_13_image_1.jpg",
     "content": "[图片] page_13_image_1.jpg"
   },
   {
     "id": 844,
     "source": "图片: page_14_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_14_image_7.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_14_image_7.jpg",
     "content": "[图片] page_14_image_7.jpg"
   },
   {
     "id": 845,
     "source": "图片: page_15_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_15_image_2.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_15_image_2.png",
     "content": "[图片] page_15_image_2.png"
   },
   {
     "id": 846,
     "source": "图片: page_16_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_16_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_16_image_1.jpg",
     "content": "[图片] page_16_image_1.jpg"
   },
   {
     "id": 847,
     "source": "图片: page_16_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_16_image_4.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_16_image_4.jpg",
     "content": "[图片] page_16_image_4.jpg"
   },
   {
     "id": 848,
     "source": "图片: page_16_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_16_image_5.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_16_image_5.jpg",
     "content": "[图片] page_16_image_5.jpg"
   },
   {
     "id": 849,
     "source": "图片: page_17_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_17_image_2.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_17_image_2.jpg",
     "content": "[图片] page_17_image_2.jpg"
   },
   {
     "id": 850,
     "source": "图片: page_17_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_17_image_3.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_17_image_3.jpg",
     "content": "[图片] page_17_image_3.jpg"
   },
   {
     "id": 851,
     "source": "图片: page_17_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_17_image_6.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_17_image_6.jpg",
     "content": "[图片] page_17_image_6.jpg"
   },
   {
     "id": 852,
     "source": "图片: page_18_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_18_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_18_image_1.jpg",
     "content": "[图片] page_18_image_1.jpg"
   },
   {
     "id": 853,
     "source": "图片: page_18_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_18_image_3.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_18_image_3.jpg",
     "content": "[图片] page_18_image_3.jpg"
   },
   {
     "id": 854,
     "source": "图片: page_18_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_18_image_5.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_18_image_5.jpg",
     "content": "[图片] page_18_image_5.jpg"
   },
   {
     "id": 855,
     "source": "图片: page_19_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_19_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_19_image_1.jpg",
     "content": "[图片] page_19_image_1.jpg"
   },
   {
     "id": 856,
     "source": "图片: page_19_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_19_image_3.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_19_image_3.jpg",
     "content": "[图片] page_19_image_3.jpg"
   },
   {
     "id": 857,
     "source": "图片: page_19_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_19_image_5.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_19_image_5.jpg",
     "content": "[图片] page_19_image_5.jpg"
   },
   {
     "id": 858,
     "source": "图片: page_20_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_20_image_2.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_20_image_2.png",
     "content": "[图片] page_20_image_2.png"
   },
   {
     "id": 859,
     "source": "图片: page_21_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_21_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_21_image_1.jpg",
     "content": "[图片] page_21_image_1.jpg"
   },
   {
     "id": 860,
     "source": "图片: page_22_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_22_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_22_image_1.jpg",
     "content": "[图片] page_22_image_1.jpg"
   },
   {
     "id": 861,
     "source": "图片: page_22_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_22_image_2.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_22_image_2.jpg",
     "content": "[图片] page_22_image_2.jpg"
   },
   {
     "id": 862,
     "source": "图片: page_22_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_22_image_3.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_22_image_3.jpg",
     "content": "[图片] page_22_image_3.jpg"
   },
   {
     "id": 863,
     "source": "图片: page_23_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_23_image_5.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_23_image_5.jpg",
     "content": "[图片] page_23_image_5.jpg"
   },
   {
     "id": 864,
     "source": "图片: page_24_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_24_image_5.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_24_image_5.jpg",
     "content": "[图片] page_24_image_5.jpg"
   },
   {
     "id": 865,
     "source": "图片: page_25_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_25_image_2.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_25_image_2.png",
     "content": "[图片] page_25_image_2.png"
   },
   {
     "id": 866,
     "source": "图片: page_26_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_26_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_26_image_1.jpg",
     "content": "[图片] page_26_image_1.jpg"
   },
   {
     "id": 867,
     "source": "图片: page_27_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_27_image_5.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_27_image_5.jpg",
     "content": "[图片] page_27_image_5.jpg"
   },
   {
     "id": 868,
     "source": "图片: page_27_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_27_image_6.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_27_image_6.jpg",
     "content": "[图片] page_27_image_6.jpg"
   },
   {
     "id": 869,
     "source": "图片: page_27_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_27_image_7.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_27_image_7.jpg",
     "content": "[图片] page_27_image_7.jpg"
   },
   {
     "id": 870,
     "source": "图片: page_28_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_28_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_28_image_1.jpg",
     "content": "[图片] page_28_image_1.jpg"
   },
   {
     "id": 871,
     "source": "图片: page_28_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_28_image_5.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_28_image_5.jpg",
     "content": "[图片] page_28_image_5.jpg"
   },
   {
     "id": 872,
     "source": "图片: page_28_image_9.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_28_image_9.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_28_image_9.jpg",
     "content": "[图片] page_28_image_9.jpg"
   },
   {
     "id": 873,
     "source": "图片: page_29_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_29_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_29_image_1.jpg",
     "content": "[图片] page_29_image_1.jpg"
   },
   {
     "id": 874,
     "source": "图片: page_2_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_2_image_2.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_2_image_2.png",
     "content": "[图片] page_2_image_2.png"
   },
   {
     "id": 875,
     "source": "图片: page_30_image_0.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_30_image_0.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_30_image_0.png",
     "content": "[图片] page_30_image_0.png"
   },
   {
     "id": 876,
     "source": "图片: page_30_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_30_image_2.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_30_image_2.png",
     "content": "[图片] page_30_image_2.png"
   },
   {
     "id": 877,
     "source": "图片: page_3_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_3_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_3_image_1.jpg",
     "content": "[图片] page_3_image_1.jpg"
   },
   {
     "id": 878,
     "source": "图片: page_4_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_4_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_4_image_1.jpg",
     "content": "[图片] page_4_image_1.jpg"
   },
   {
     "id": 879,
     "source": "图片: page_5_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_5_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_5_image_1.jpg",
     "content": "[图片] page_5_image_1.jpg"
   },
   {
     "id": 880,
     "source": "图片: page_6_image_2.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_6_image_2.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_6_image_2.png",
     "content": "[图片] page_6_image_2.png"
   },
   {
     "id": 881,
     "source": "图片: page_7_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_7_image_3.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_7_image_3.jpg",
     "content": "[图片] page_7_image_3.jpg"
   },
   {
     "id": 882,
     "source": "图片: page_7_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_7_image_4.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_7_image_4.jpg",
     "content": "[图片] page_7_image_4.jpg"
   },
   {
     "id": 883,
     "source": "图片: page_7_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_7_image_7.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_7_image_7.jpg",
     "content": "[图片] page_7_image_7.jpg"
   },
   {
     "id": 884,
     "source": "图片: page_8_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_8_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_8_image_1.jpg",
     "content": "[图片] page_8_image_1.jpg"
   },
   {
     "id": 885,
     "source": "图片: page_8_image_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_8_image_6.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_8_image_6.jpg",
     "content": "[图片] page_8_image_6.jpg"
   },
   {
     "id": 886,
     "source": "图片: page_8_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_8_image_7.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_8_image_7.jpg",
     "content": "[图片] page_8_image_7.jpg"
   },
   {
     "id": 887,
     "source": "图片: page_9_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_9_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_9_image_1.jpg",
     "content": "[图片] page_9_image_1.jpg"
   },
   {
     "id": 888,
     "source": "图片: page_9_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_9_image_4.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_9_image_4.jpg",
     "content": "[图片] page_9_image_4.jpg"
   },
   {
     "id": 889,
     "source": "图片: page_9_image_7.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__东京迪士尼乐园员工培训\\mineru_output\\images\\page_9_image_7.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__东京迪士尼乐园员工培训/mineru_output/images/page_9_image_7.jpg",
     "content": "[图片] page_9_image_7.jpg"
   },
   {
@@ -5676,63 +5676,63 @@
     "id": 900,
     "source": "图片: page_10_image_1.png",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_10_image_1.png",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_10_image_1.png",
     "content": "[图片] page_10_image_1.png"
   },
   {
     "id": 901,
     "source": "图片: page_13_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_13_image_0.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_13_image_0.jpg",
     "content": "[图片] page_13_image_0.jpg"
   },
   {
     "id": 902,
     "source": "图片: page_5_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_5_image_0.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_5_image_0.jpg",
     "content": "[图片] page_5_image_0.jpg"
   },
   {
     "id": 903,
     "source": "图片: page_5_image_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_5_image_1.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_5_image_1.jpg",
     "content": "[图片] page_5_image_1.jpg"
   },
   {
     "id": 904,
     "source": "图片: page_5_image_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_5_image_2.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_5_image_2.jpg",
     "content": "[图片] page_5_image_2.jpg"
   },
   {
     "id": 905,
     "source": "图片: page_5_image_3.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_5_image_3.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_5_image_3.jpg",
     "content": "[图片] page_5_image_3.jpg"
   },
   {
     "id": 906,
     "source": "图片: page_5_image_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_5_image_4.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_5_image_4.jpg",
     "content": "[图片] page_5_image_4.jpg"
   },
   {
     "id": 907,
     "source": "图片: page_6_image_5.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_6_image_5.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_6_image_5.jpg",
     "content": "[图片] page_6_image_5.jpg"
   },
   {
     "id": 908,
     "source": "图片: page_8_image_0.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Multimodal RAG\\parsed_archive\\ppt\\5-内部知识与工具__迪士尼游乐园服务策略\\mineru_output\\images\\page_8_image_0.jpg",
+    "path": "parsed_archive/ppt/5-内部知识与工具__迪士尼游乐园服务策略/mineru_output/images/page_8_image_0.jpg",
     "content": "[图片] page_8_image_0.jpg"
   },
   {
@@ -5801,14 +5801,14 @@
     "id": 919,
     "source": "图片: page_0_table_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格1\\mineru_output\\images\\page_0_table_1.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格1/mineru_output/images/page_0_table_1.jpg",
     "content": "[图片] page_0_table_1.jpg"
   },
   {
     "id": 920,
     "source": "图片: 迪士尼邮轮价格1.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格1\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格1/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格1.jpeg"
   },
   {
@@ -5869,14 +5869,14 @@
     "id": 930,
     "source": "图片: page_0_table_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格2\\mineru_output\\images\\page_0_table_1.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格2/mineru_output/images/page_0_table_1.jpg",
     "content": "[图片] page_0_table_1.jpg"
   },
   {
     "id": 931,
     "source": "图片: 迪士尼邮轮价格2.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格2\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格2/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格2.jpeg"
   },
   {
@@ -5937,14 +5937,14 @@
     "id": 941,
     "source": "图片: page_0_table_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格3\\mineru_output\\images\\page_0_table_1.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格3/mineru_output/images/page_0_table_1.jpg",
     "content": "[图片] page_0_table_1.jpg"
   },
   {
     "id": 942,
     "source": "图片: 迪士尼邮轮价格3.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格3\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格3/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格3.jpeg"
   },
   {
@@ -5987,14 +5987,14 @@
     "id": 949,
     "source": "图片: page_0_table_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格4\\mineru_output\\images\\page_0_table_1.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格4/mineru_output/images/page_0_table_1.jpg",
     "content": "[图片] page_0_table_1.jpg"
   },
   {
     "id": 950,
     "source": "图片: 迪士尼邮轮价格4.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格4\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格4/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格4.jpeg"
   },
   {
@@ -6031,28 +6031,28 @@
     "id": 956,
     "source": "图片: page_0_table_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格5\\mineru_output\\images\\page_0_table_2.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格5/mineru_output/images/page_0_table_2.jpg",
     "content": "[图片] page_0_table_2.jpg"
   },
   {
     "id": 957,
     "source": "图片: page_0_table_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格5\\mineru_output\\images\\page_0_table_4.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格5/mineru_output/images/page_0_table_4.jpg",
     "content": "[图片] page_0_table_4.jpg"
   },
   {
     "id": 958,
     "source": "图片: page_0_table_6.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格5\\mineru_output\\images\\page_0_table_6.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格5/mineru_output/images/page_0_table_6.jpg",
     "content": "[图片] page_0_table_6.jpg"
   },
   {
     "id": 959,
     "source": "图片: 迪士尼邮轮价格5.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格5\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格5/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格5.jpeg"
   },
   {
@@ -6113,14 +6113,14 @@
     "id": 969,
     "source": "图片: page_0_table_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格6\\mineru_output\\images\\page_0_table_1.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格6/mineru_output/images/page_0_table_1.jpg",
     "content": "[图片] page_0_table_1.jpg"
   },
   {
     "id": 970,
     "source": "图片: 迪士尼邮轮价格6.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格6\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格6/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格6.jpeg"
   },
   {
@@ -6181,14 +6181,14 @@
     "id": 980,
     "source": "图片: page_0_table_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格7\\mineru_output\\images\\page_0_table_1.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格7/mineru_output/images/page_0_table_1.jpg",
     "content": "[图片] page_0_table_1.jpg"
   },
   {
     "id": 981,
     "source": "图片: 迪士尼邮轮价格7.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格7\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格7/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格7.jpeg"
   },
   {
@@ -6231,14 +6231,14 @@
     "id": 988,
     "source": "图片: page_0_table_1.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格8\\mineru_output\\images\\page_0_table_1.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格8/mineru_output/images/page_0_table_1.jpg",
     "content": "[图片] page_0_table_1.jpg"
   },
   {
     "id": 989,
     "source": "图片: 迪士尼邮轮价格8.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格8\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格8/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格8.jpeg"
   },
   {
@@ -6269,21 +6269,21 @@
     "id": 994,
     "source": "图片: page_0_table_2.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格9\\mineru_output\\images\\page_0_table_2.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格9/mineru_output/images/page_0_table_2.jpg",
     "content": "[图片] page_0_table_2.jpg"
   },
   {
     "id": 995,
     "source": "图片: page_0_table_4.jpg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格9\\mineru_output\\images\\page_0_table_4.jpg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格9/mineru_output/images/page_0_table_4.jpg",
     "content": "[图片] page_0_table_4.jpg"
   },
   {
     "id": 996,
     "source": "图片: 迪士尼邮轮价格9.jpeg",
     "type": "image",
-    "path": "h:\\MY_KB\\Hybrid RAG_Rerank\\parsed_archive\\price_images\\1-产品与服务详情__迪士尼邮轮价格9\\original.jpeg",
+    "path": "parsed_archive/price_images/1-产品与服务详情__迪士尼邮轮价格9/original.jpeg",
     "content": "[图片] 迪士尼邮轮价格9.jpeg"
   }
 ]

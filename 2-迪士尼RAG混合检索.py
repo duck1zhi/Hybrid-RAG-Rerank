@@ -38,6 +38,28 @@ INDEX_FILE = os.path.join(BASE_DIR, "disney_index.faiss")
 METADATA_FILE = os.path.join(BASE_DIR, "disney_metadata.json")
 RANK_PRINT_LIMIT = 20  # 索引条目较多，控制台只打印前若干名
 
+
+def to_store_path(path):
+    """存入/展示用的相对路径（相对项目根，统一用 /）"""
+    if not path:
+        return path
+    normalized = path.replace("/", os.sep).replace("\\", os.sep)
+    lower = normalized.lower()
+    marker = "parsed_archive"
+    idx = lower.find(marker)
+    if idx >= 0:
+        return normalized[idx:].replace("\\", "/")
+    abs_path = os.path.abspath(normalized)
+    return os.path.relpath(abs_path, BASE_DIR).replace("\\", "/")
+
+
+def resolve_project_path(path):
+    """元数据路径转为当前机器上的绝对路径"""
+    if not path:
+        return path
+    stored = to_store_path(path)
+    return os.path.normpath(os.path.join(BASE_DIR, stored.replace("/", os.sep)))
+
 # 关键词配置
 IMAGE_KEYWORDS = ["图片", "海报", "照片", "看看", "长什么样", "图"]
 VIDEO_KEYWORDS = ["视频", "录像", "影片", "看一下", "播放"]
@@ -162,7 +184,7 @@ def filename_overlap(source, query):
 
 
 def find_original_image(source, metadata):
-    """按图片文件名找到归档目录里的 original 原图"""
+    """按图片文件名找到归档目录里的 original 原图（返回相对项目根的路径）"""
     stem = os.path.splitext(os.path.basename(source))[0]
     ext = os.path.splitext(source)[1].lower()
     needle = f"__{stem}{os.sep}"
@@ -172,19 +194,19 @@ def find_original_image(source, metadata):
     for item in metadata:
         if item.get("type") != "image":
             continue
-        path = (item.get("path") or "").replace("/", os.sep)
+        path = resolve_project_path(item.get("path") or "")
 
         # 原图已向量化入库时，path 直接指向 original.ext
         if path.endswith(original_tail) or path.endswith(f"{os.sep}original{ext}"):
             if needle in path and os.path.isfile(path):
-                return path
+                return to_store_path(path)
 
         if needle not in path or marker not in path:
             continue
         archive_dir = path.split(marker)[0]
         original = os.path.join(archive_dir, "original" + ext)
         if os.path.isfile(original):
-            return original
+            return to_store_path(original)
     return None
 
 
