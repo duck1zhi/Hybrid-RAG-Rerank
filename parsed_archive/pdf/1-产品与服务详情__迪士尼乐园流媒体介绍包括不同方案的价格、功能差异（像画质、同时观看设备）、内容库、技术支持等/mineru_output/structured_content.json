@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.666,
+            0.05,
+            0.852,
+            0.082
+          ],
+          "content": "metaso.cn\nAI FOR SEARCH"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.152,
+            0.097,
+            0.847,
+            0.199
+          ],
+          "level": 1,
+          "content": "各地区迪士尼乐园流媒体介绍包括不同方案的价格、功能差异（像画质、同时观看设备）、内容库、技术支持等"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.148,
+            0.227,
+            0.2,
+            0.247
+          ],
+          "level": 2,
+          "content": "回答"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.145,
+            0.27,
+            0.837,
+            0.326
+          ],
+          "content": "迪士尼乐园的流媒体服务主要指的是 Disney+，它为迪士尼粉丝提供了一个集电影、电视节目和原创内容于一体的平台。以下是关于 Disney+在不同地区的介绍，包括价格、功能差异、内容库和技术支持等方面的信息。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.148,
+            0.357,
+            0.205,
+            0.378
+          ],
+          "level": 2,
+          "content": "价格"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.146,
+            0.41,
+            0.849,
+            0.504
+          ],
+          "content": "Disney+的价格因地区而异。例如，在美国，Disney+的基本计划价格为每月7.99美元，而Premium（无广告）计划的价格为每月13.99美元[3]。在韩国，迪士尼+国内服务的价格为7.49美元，迪士尼+国际服务的价格为6.01美元，迪士尼+核心服务的整体价格为6.49美元[2]。此外，Disney+还提供年度订阅选项，例如在美国，用户可以选择每年支付69.99美元以获得滚动订阅[4]。"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.157,
+            0.526,
+            0.847,
+            0.72
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_chart_6.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.147,
+            0.761,
+            0.255,
+            0.783
+          ],
+          "level": 2,
+          "content": "功能差异"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.146,
+            0.815,
+            0.852,
+            0.852
+          ],
+          "content": "\\- 画质:Disney+支持高达4K超高清和HDR的画质，为用户提供生动的色彩和详细的图像体验[3]。不过，并非所有内容都支持4K，具体取决于设备和内容的可用性[11]。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.147,
+            0.876,
+            0.846,
+            0.894
+          ],
+          "content": "\\- 同时观看设备数量:Disney+基本计划允许在最多4台设备上同时观看内容，而Premium"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.147,
+            0.927,
+            0.433,
+            0.942
+          ],
+          "content": "内容为 AI 生成，可能不准确，请谨慎参考"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.666,
+            0.05,
+            0.852,
+            0.081
+          ],
+          "content": "metaso.cn\nAI FOR SEARCH"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.094,
+            0.488,
+            0.11
+          ],
+          "content": "计划则支持在最多 10 台设备上无限下载[3]。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.146,
+            0.136,
+            0.849,
+            0.171
+          ],
+          "content": "\\- 广告:Disney+提供带广告和无广告两种版本。带广告的版本价格较低，适合预算有限的用户；无广告版本则提供更流畅的观看体验[7]。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.148,
+            0.203,
+            0.229,
+            0.224
+          ],
+          "level": 2,
+          "content": "内容库"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.145,
+            0.257,
+            0.856,
+            0.33
+          ],
+          "content": "Disney+的内容库非常丰富，涵盖了迪士尼、皮克斯、漫威、星球大战和国家地理等多个品牌。用户可以观看大量的电影、电视剧和纪录片，包括经典作品和新上映的影片[3]。此外，Disney+还投资了大量独家内容，如《曼达洛人》、《孤胆特工》、《洛基》等[11]。内容库的规模和质量是吸引用户的重要因素之一[14]。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.148,
+            0.362,
+            0.255,
+            0.383
+          ],
+          "level": 2,
+          "content": "技术支持"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.145,
+            0.416,
+            0.851,
+            0.508
+          ],
+          "content": "Disney+的用户界面被认为是最好的之一，易于使用，内容分类清晰，视觉布局美观[13]。用户可以通过多种设备访问 Disney+，包括 Windows、iPhone、iPad、Android、网络浏览器和 Amazon 设备等[7]。此外，Disney+还提供离线下载功能，用户可以在 10 台设备上下载无限内容[11]。对于遇到的技术问题，用户可以通过 Disney+的官方网站或应用程序获取帮助和支持[11]。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.148,
+            0.539,
+            0.205,
+            0.56
+          ],
+          "level": 2,
+          "content": "总结"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.146,
+            0.593,
+            0.843,
+            0.648
+          ],
+          "content": "Disney+作为迪士尼的流媒体服务，以其丰富的内容库、灵活的价格计划和高质量的画质，成为了许多家庭和迪士尼粉丝的首选。无论是想要观看经典迪士尼电影，还是最新的漫威剧集，Disney+都能满足不同用户的需求[14]。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.673,
+            0.224,
+            0.689
+          ],
+          "content": "[AI 生成]"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.714,
+            0.241,
+            0.732
+          ],
+          "content": "参考资料"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.758,
+            0.342,
+            0.773
+          ],
+          "content": "1. CUTTING THE CORD"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.789,
+            0.355,
+            0.803
+          ],
+          "content": "2. MEDIA ISSUE&TREND"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.147,
+            0.818,
+            0.369,
+            0.834
+          ],
+          "content": "3.15 项最佳电视流媒体服务"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.147,
+            0.849,
+            0.605,
+            0.864
+          ],
+          "content": "4. Disney+ 视频流媒体服务发布，价格与发布日期详情公布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.147,
+            0.879,
+            0.599,
+            0.895
+          ],
+          "content": "5. Walt Disney Co (DIS US) Streaming and ESPN+ on the rise"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.927,
+            0.433,
+            0.942
+          ],
+          "content": "内容为 AI 生成，可能不准确，请谨慎参考"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.667,
+            0.051,
+            0.853,
+            0.081
+          ],
+          "content": "metaso.cn\nAI FOR SEARCH"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.146,
+            0.094,
+            0.51,
+            0.109
+          ],
+          "content": "6. 2024 年最受欢迎的付费视频流媒体服务指南"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.147,
+            0.124,
+            0.481,
+            0.14
+          ],
+          "content": "7. 迪士尼+上线:如何立即观看流媒体服务"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.146,
+            0.155,
+            0.411,
+            0.171
+          ],
+          "content": "8. Disney.getstreaming tv 服务概览"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.146,
+            0.184,
+            0.519,
+            0.201
+          ],
+          "content": "9. 迪士尼: Disney+登场开启流媒体“拉新”总动员"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.215,
+            0.375,
+            0.231
+          ],
+          "content": "10. 流媒体行业板块:迪士尼"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.245,
+            0.469,
+            0.262
+          ],
+          "content": "11. Disney Plus: 价格、订阅、目录和功能"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.277,
+            0.437,
+            0.293
+          ],
+          "content": "12. streaming options + channel lineups"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.307,
+            0.683,
+            0.323
+          ],
+          "content": "13. How Disney+ Compares to the Other Top Streaming Services - Nerdist"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.148,
+            0.338,
+            0.485,
+            0.354
+          ],
+          "content": "14. Disney+ Content Library and List of Titles"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.147,
+            0.367,
+            0.553,
+            0.383
+          ],
+          "content": "15. 迪士尼提供有关其流媒体服务迪士尼 Plus 的细节"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.148,
+            0.927,
+            0.433,
+            0.941
+          ],
+          "content": "内容为 AI 生成，可能不准确，请谨慎参考"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "languages": [
+        "en-US"
+      ],
+      "created_at": "2025-07-28T10:52:07+08:00",
+      "creator_application": "Writer",
+      "producer_application": "LibreOffice 24.2",
+      "page_count": 3,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.303955078125,
+          "height_pt": 841.8897705078125
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.303955078125,
+          "height_pt": 841.8897705078125
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.303955078125,
+          "height_pt": 841.8897705078125
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}
