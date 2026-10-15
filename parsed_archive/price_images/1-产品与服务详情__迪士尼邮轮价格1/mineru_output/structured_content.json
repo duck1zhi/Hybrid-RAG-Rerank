@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.397,
+            0.038,
+            0.596,
+            0.088
+          ],
+          "level": 2,
+          "content": "4天3晚"
+        },
+        {
+          "type": "table",
+          "bbox": [
+            0.056,
+            0.113,
+            0.944,
+            0.998
+          ],
+          "content": "<table><tr><td colspan=\"5\">2025年12月15-18日 新加坡 3晚</td></tr><tr><td>房型</td><td>第一第二人价(USD)</td><td>第三第四人价(USD)</td><td>港务税费(USD)</td><td>总价(USD)</td></tr><tr><td>标准内舱双人间</td><td>$735.00</td><td></td><td>$93.90</td><td>$1,564.00</td></tr><tr><td>标准内舱三人间</td><td>$735.00</td><td>$477.00</td><td>$140.85</td><td>$2,088.00</td></tr><tr><td>标准内舱四人间</td><td>$735.00</td><td>$477.00</td><td>$187.80</td><td>$2,612.00</td></tr><tr><td>标准海景双人间</td><td>$1,041.00</td><td></td><td>$93.90</td><td>$2,176.00</td></tr><tr><td>标准海景三人间</td><td>$1,041.00</td><td>$573.00</td><td>$140.85</td><td>$2,796.00</td></tr><tr><td>标准海景四人间</td><td>$1,041.00</td><td>$573.00</td><td>$187.80</td><td>$3,416.00</td></tr><tr><td>标准阳台双人间</td><td>$1,143.00</td><td></td><td>$93.90</td><td>$2,380.00</td></tr><tr><td>标准阳台三人间</td><td>$1,143.00</td><td>$630.00</td><td>$140.85</td><td>$3,057.00</td></tr><tr><td>标准阳台四人间</td><td>$1,143.00</td><td>$630.00</td><td>$187.80</td><td>$3,734.00</td></tr><tr><td>礼宾套房双人间</td><td>$2,724.00</td><td></td><td>$93.90</td><td>$5,542.00</td></tr><tr><td>礼宾套房三人间</td><td>$2,724.00</td><td>$1,089.00</td><td>$140.85</td><td>$6,678.00</td></tr><tr><td>礼宾套房四人间</td><td>$2,724.00</td><td>$1,089.00</td><td>$187.80</td><td>$7,814.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">2026年1月5-8日 新加坡 3晚</td></tr><tr><td>房型</td><td>第一第二人价(USD)</td><td>第三第四人价(USD)</td><td>港务税费(USD)</td><td>总价(USD)</td></tr><tr><td>标准内舱双人间</td><td>$459.00</td><td></td><td>$93.90</td><td>$1,012.00</td></tr><tr><td>标准内舱三人间</td><td>$459.00</td><td>$297.00</td><td>$140.85</td><td>$1,356.00</td></tr><tr><td>标准内舱四人间</td><td>$459.00</td><td>$297.00</td><td>$187.80</td><td>$1,700.00</td></tr><tr><td>标准海景双人间</td><td>$651.00</td><td></td><td>$93.90</td><td>$1,396.00</td></tr><tr><td>标准海景三人间</td><td>$651.00</td><td>$357.00</td><td>$140.85</td><td>$1,800.00</td></tr><tr><td>标准海景四人间</td><td>$651.00</td><td>$357.00</td><td>$187.80</td><td>$2,204.00</td></tr><tr><td>标准阳台双人间</td><td>$714.00</td><td></td><td>$93.90</td><td>$1,522.00</td></tr><tr><td>标准阳台三人间</td><td>$714.00</td><td>$393.00</td><td>$140.85</td><td>$1,962.00</td></tr><tr><td>标准阳台四人间</td><td>$714.00</td><td>$393.00</td><td>$187.80</td><td>$2,402.00</td></tr><tr><td>礼宾套房双人间</td><td>$1,701.00</td><td></td><td>$93.90</td><td>$3,496.00</td></tr><tr><td>礼宾套房三人间</td><td>$1,701.00</td><td>$681.00</td><td>$140.85</td><td>$4,224.00</td></tr><tr><td>礼宾套房四人间</td><td>$1,701.00</td><td>$681.00</td><td>$187.80</td><td>$4,952.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">2026年1月12-15日 新加坡 3晚</td></tr><tr><td>房型</td><td>第一第二人价(USD)</td><td>第三第四人价(USD)</td><td>港务税费(USD)</td><td>总价(USD)</td></tr><tr><td>标准内舱双人间</td><td>$432.00</td><td></td><td>$93.90</td><td>$958.00</td></tr><tr><td>标准内舱三人间</td><td>$432.00</td><td>$282.00</td><td>$140.85</td><td>$1,287.00</td></tr><tr><td>标准内舱四人间</td><td>$432.00</td><td>$282.00</td><td>$187.80</td><td>$1,616.00</td></tr><tr><td>标准海景双人间</td><td>$612.00</td><td></td><td>$93.90</td><td>$1,318.00</td></tr><tr><td>标准海景三人间</td><td>$612.00</td><td>$336.00</td><td>$140.85</td><td>$1,701.00</td></tr><tr><td>标准海景四人间</td><td>$612.00</td><td>$336.00</td><td>$187.80</td><td>$2,084.00</td></tr><tr><td>标准阳台双人间</td><td>$672.00</td><td></td><td>$93.90</td><td>$1,438.00</td></tr><tr><td>标准阳台三人间</td><td>$672.00</td><td>$369.00</td><td>$140.85</td><td>$1,854.00</td></tr><tr><td>标准阳台四人间</td><td>$672.00</td><td>$369.00</td><td>$187.80</td><td>$2,270.00</td></tr><tr><td>礼宾套房双人间</td><td>$1,602.00</td><td></td><td>$93.90</td><td>$3,298.00</td></tr><tr><td>礼宾套房三人间</td><td>$1,602.00</td><td>$642.00</td><td>$140.85</td><td>$3,987.00</td></tr><tr><td>礼宾套房四人间</td><td>$1,602.00</td><td>$642.00</td><td>$187.80</td><td>$4,676.00</td></tr></table>",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_table_1.jpg"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {}
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 388.79998779296875,
+          "height_pt": 507.6000061035156
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}
