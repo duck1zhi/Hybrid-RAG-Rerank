@@ -1,0 +1,1031 @@
+{
+  "metadata": {
+    "file_suffix": "pptx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "title": "PowerPoint 演示文稿",
+      "authors": [
+        "张 翠红"
+      ],
+      "created_at": "2022-07-09T13:11:03Z",
+      "modified_at": "2022-07-10T03:26:49Z",
+      "creator_application": "Microsoft Office PowerPoint",
+      "page_count": 14,
+      "page_count_kind": "slide"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "最美迪士尼"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_0_image_1.png",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_0_image_2.png",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 3,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 3,
+              "image_path": "images/page_0_image_3.png",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 4,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 4,
+              "image_path": "images/page_0_image_4.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 5,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 5,
+              "image_path": "images/page_0_image_5.png",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_1_image_0.png",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "上海迪士尼",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 3
+        },
+        {
+          "type": "paragraph_title",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "乐园",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "它中国内地首座迪士尼主题乐园，位于上海市浦东新区川沙新镇，于2016年6月16日正式开园。它是中国大陆第一个、亚洲第三个，世界第六个迪士尼主题公园。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "最高的城堡",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_2_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_2_image_2.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 3,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 3,
+              "image_path": "images/page_2_image_3.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 4,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 4,
+              "image_path": "images/page_2_image_4.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "巍"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "峨"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "耸"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "立"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "content": [
+            {
+              "type": "text",
+              "content": "城",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "堡",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_3_image_2.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 3,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 3,
+              "image_path": "images/page_3_image_3.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 4,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 4,
+              "image_path": "images/page_3_image_4.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 5,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 5,
+              "image_path": "images/page_3_image_5.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "乐"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "园"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_4_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_4_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_4_image_2.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "乐"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "园"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_5_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_5_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_5_image_2.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 3,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 3,
+              "image_path": "images/page_5_image_3.jpg",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_6_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_6_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_6_image_2.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "城 堡",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 2
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_7_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_7_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_7_image_2.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 3,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 3,
+              "image_path": "images/page_7_image_3.jpg",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_8_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_8_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_8_image_2.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "总 动 园",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 2
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_9_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_9_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "旅",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "游",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 4,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 4,
+              "image_path": "images/page_9_image_4.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 5,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 5,
+              "image_path": "images/page_9_image_5.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 6,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 6,
+              "image_path": "images/page_9_image_6.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 7,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 7,
+              "image_path": "images/page_9_image_7.jpg",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 10,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_10_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_10_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "米 ",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "奇"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 3,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 3,
+              "image_path": "images/page_10_image_3.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 4,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 4,
+              "image_path": "images/page_10_image_4.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 5,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 5,
+              "image_path": "images/page_10_image_5.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 6,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 6,
+              "image_path": "images/page_10_image_6.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "大 "
+            },
+            {
+              "type": "text",
+              "content": "街",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 11,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_11_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_11_image_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "乐园拥有七大主题园区",
+              "styles": [
+                "bold"
+              ]
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "米奇大街、奇想花园、探险岛、宝藏湾、明日世界、梦幻世界、玩具总动园；两座主题酒店：上海迪士尼乐园酒店、玩具总动员酒店；一座地铁站：迪士尼站；并有许多全球首发游乐项目。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 12,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_12_image_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "米 奇 ",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "大 街"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_12_image_2.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "它是全球迪士尼乐园中第一个以米奇和他的欢乐伙伴们为主题设计的迎宾大道，米妮、唐老鸭、黛丝、高飞以及布鲁托等一众伙伴将在这里欢聚。在进入其他主题园区前，游客们就有机会了解到更多关于经典的迪士尼朋友和他们的故事，例如“帕帕里诺冰激凌”店内的壁画上，游客会看到冰激凌店老板——唐老鸭的意大利家族族谱。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 13,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "image_path": "images/page_13_image_0.png",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 1,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 1,
+              "image_path": "images/page_13_image_1.png",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 2,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 2,
+              "image_path": "images/page_13_image_2.png",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 3,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 3,
+              "image_path": "images/page_13_image_3.png",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 4,
+          "content": [
+            {
+              "type": "image_body",
+              "index": 4,
+              "image_path": "images/page_13_image_4.jpg",
+              "content": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

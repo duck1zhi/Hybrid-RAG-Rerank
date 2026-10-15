@@ -1,0 +1,960 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "paragraph_title",
+          "level": 2,
+          "content": "**华特迪士尼**"
+        },
+        {
+          "type": "list",
+          "content": "- 华特迪士尼公司成立于1923年，起初名为“迪士尼兄弟卡通制片厂”，自成立后不断扩大其经营范围，目前是一家多元化的全球娱乐公司，  拥有四个业务部门：传媒网络(Media Networks)，乐园、体验与产品(Parks, Experiences and Products)，影视娱乐(Studio Entertainment)，直接面 向消费者与国际业务(Direct to Consumer & International)。\n- 此前，迪士尼主题公园业务是公司收入的主要来源，2019年占据公司营业收入的36.66%。2020年受到全球COVID-19疫情的影响，其主题公园 业务收入显著下滑，这部分收入被Disney+和Hulu的显著提高而抵消，2020财年DTCI收入达到169.67亿美元，同比增长81%。由于迪士尼集团 的业务涉及内容制作、发行、渠道等多个方面，在跨部门交易上，内容生产部门按照类似于与第三方交易的方式来报告跨部门的内部交易的 收入和利润，并在汇总时，以单独的抵消项报告相应部分。2020财年的内部抵消大约61.1亿美元，主要来自公司的流媒体从广播和有线电视渠 道、广播和有线电视从电影工作室、流媒体从电影电视工作室获得内容的授权。"
+        },
+        {
+          "type": "paragraph_title",
+          "level": 2,
+          "content": "**华特迪士尼四大业务部门主要品牌\t迪士尼四大事业部收入情况**"
+        },
+        {
+          "type": "text",
+          "content": "单位:亿美元"
+        },
+        {
+          "type": "table",
+          "content": "| 传媒网络 |  |\n| --- | --- |\n| 主题公园、度 假村及消费品 |  |\n| 影视娱乐 |  |\n| 直接面向消费 者&amp;国际业务 |  |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "800"
+        },
+        {
+          "type": "text",
+          "content": "700"
+        },
+        {
+          "type": "text",
+          "content": "600"
+        },
+        {
+          "type": "text",
+          "content": "500"
+        },
+        {
+          "type": "text",
+          "content": "400"
+        },
+        {
+          "type": "text",
+          "content": "300"
+        },
+        {
+          "type": "text",
+          "content": "200"
+        },
+        {
+          "type": "text",
+          "content": "100"
+        },
+        {
+          "type": "text",
+          "content": "30.75"
+        },
+        {
+          "type": "text",
+          "content": "83.52"
+        },
+        {
+          "type": "text",
+          "content": "230.24"
+        },
+        {
+          "type": "text",
+          "content": "212.99"
+        },
+        {
+          "type": "text",
+          "content": "34.14"
+        },
+        {
+          "type": "text",
+          "content": "100.65"
+        },
+        {
+          "type": "text",
+          "content": "247.01"
+        },
+        {
+          "type": "text",
+          "content": "219.22"
+        },
+        {
+          "type": "text",
+          "content": "93.49"
+        },
+        {
+          "type": "text",
+          "content": "111.27"
+        },
+        {
+          "type": "text",
+          "content": "262.25"
+        },
+        {
+          "type": "text",
+          "content": "248.27"
+        },
+        {
+          "type": "text",
+          "content": "169.67"
+        },
+        {
+          "type": "text",
+          "content": "96.36"
+        },
+        {
+          "type": "text",
+          "content": "165.02"
+        },
+        {
+          "type": "text",
+          "content": "283.93"
+        },
+        {
+          "type": "text",
+          "content": "2018"
+        },
+        {
+          "type": "text",
+          "content": "乐园、体验与产品"
+        },
+        {
+          "type": "text",
+          "content": "2019\t2020"
+        },
+        {
+          "type": "text",
+          "content": "直接面向消费者与国际业务"
+        },
+        {
+          "type": "text",
+          "content": "2017"
+        },
+        {
+          "type": "text",
+          "content": "传媒网络"
+        },
+        {
+          "type": "text",
+          "content": "1"
+        },
+        {
+          "type": "text",
+          "content": "0"
+        },
+        {
+          "type": "text",
+          "content": "影视娱乐"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "paragraph_title",
+          "level": 2,
+          "content": "**迪士尼传媒网络**"
+        },
+        {
+          "type": "list",
+          "content": "- 传媒网络(Media Network)是迪士尼的主要组成部分，其运营的主要业务包括美国国内有线电视网络Disney、ESPN、Freeform、FX和国家地理；  美国广播公司ABC旗下的广播电视网络以及八家美国本地电视台；电视节目的制作和发行；国家地理杂志；以及对A+E电视网络的50%股权 投资。2019年第三季度，迪士尼有线电视用户已经突破10亿，其中Disney、ESPN、FX均超过2亿；ABC电视网拥有与约240个本地电视台的 加盟协议，覆盖了几乎100％的美国家庭；公司有积累70年的强大片库，包含105部四季以上的电视剧；拥有的8家本地电视台中有6家位于美 国前十的电视市场，覆盖全国20%的家庭。\n- 收入构成方面，传媒网络业务部的收入主要来自向多频道视频节目运营商(即有线、卫星、vMVPD等)和ABC的附属电视台收取的转播其电视 节目的加盟费；广告收入；以及向电视辛迪加和SVOD收取的版权分销费。加盟费收入相对稳定，2020年会员费收入的提高主要来自会员费 率的提高(8%)和原21世纪福克斯的电视网络的加入，广告收入有逐年递减的趋势，版权分销收入逐年增长，2020年的增长主要来自对21世纪 福克斯的收购以及内部对Hulu和Disney+的授权。"
+        },
+        {
+          "type": "paragraph_title",
+          "level": 2,
+          "content": "**迪士尼传媒网络国内主要有线频道及订阅规模**"
+        },
+        {
+          "type": "text",
+          "content": "单位:万人"
+        },
+        {
+          "type": "text",
+          "content": "亿美元"
+        },
+        {
+          "type": "table",
+          "content": "<table border=\"1\">\n  <tr>\n    <th colspan=\"5\">迪士尼传媒网络业务收入构成</th>\n  </tr>\n  <tr>\n    <td>300</td>\n    <td colspan=\"4\">单位:</td>\n  </tr>\n  <tr>\n    <td>250</td>\n    <td colspan=\"4\">70.01</td>\n  </tr>\n  <tr>\n    <td colspan=\"5\">28.74\t29.21\t27.22\t44.29\n200\t34.29\n63.74</td>\n  </tr>\n  <tr>\n    <td colspan=\"2\">150</td>\n    <td></td>\n    <td></td>\n    <td>65.86</td>\n  </tr>\n  <tr>\n    <td colspan=\"2\">100</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td colspan=\"2\">120.29\n\n\n0</td>\n    <td>122.59</td>\n    <td>126.59</td>\n    <td>119.07\t134.33\t150.18</td>\n  </tr>\n  <tr>\n    <td colspan=\"2\">2015</td>\n    <td>2016</td>\n    <td>2017</td>\n    <td>2018\t2019\t2020</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td colspan=\"2\">加盟费收入</td>\n    <td>广告收入</td>\n    <td>TV/SVOD版权分销收入</td>\n  </tr>\n</table>",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "table",
+          "content": "| Disney |  | ESPN |  |\n| --- | --- | --- | --- |\n| Disney Channel | 850 | ESPN | 840 |\n| Disney Junior | 660 | ESPN2 | 840 |\n| Disney XD | 660 | ESPNU | 620 |\n| Freeform | 850 | ESPNEWS | 620 |\n| FX |  | SEC Network | 570 |\n| FX | 860 | National Geographic |  |\n| FXM | 570 | National Geographic | 850 |\n| FXX | 830 | National Geographic Wild | 600 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "50"
+        },
+        {
+          "type": "text",
+          "content": "83.61"
+        },
+        {
+          "type": "text",
+          "content": "85.09"
+        },
+        {
+          "type": "text",
+          "content": "81.29"
+        },
+        {
+          "type": "text",
+          "content": "69.65"
+        },
+        {
+          "type": "text",
+          "content": "注：订阅规模为2020年第三季度的数据"
+        },
+        {
+          "type": "text",
+          "content": "2"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "paragraph_title",
+          "level": 2,
+          "content": "**迪士尼乐园、体验与产品**"
+        },
+        {
+          "type": "list",
+          "content": "- 迪士尼主题公园、体验与产品部门的业务主要涉及公司位于佛罗里达州、加州、巴黎、香港(48%权益)和上海(43%权益)的迪士尼 乐园以及对东京迪士尼度假区的第三方经营授权；迪士尼邮轮、迪士尼度假俱乐部，国家地理探险(73%权益)，以及位于夏威夷的 迪士尼度假村和水疗中心；还涉及对迪士尼各类知识产权的授权、出版、消费品的销售等。\n- 收入方面，迪士尼乐园、体验与产品板块的收入主要有主题公园门票收入、商品、食物和饮料收入、度假区收入、商品授权与零售 收入、公园许可及其他收入。乐园、体验与产品业务一般情况下经营相对稳定，呈现稳定增长，2020年以来随着COVID-19疫情在 美国的爆发，这一板块的收入及利润均大幅滑坡，成为受疫情影响最重的部门。"
+        },
+        {
+          "type": "paragraph_title",
+          "level": 3,
+          "content": "**迪士尼主题公园、度假村及消费品部门收入与利润**"
+        },
+        {
+          "type": "paragraph_title",
+          "level": 3,
+          "content": "**迪士尼主题公园、度假村及消费品部门收入构成**"
+        },
+        {
+          "type": "text",
+          "content": "单位:亿美元"
+        },
+        {
+          "type": "text",
+          "content": "80.00"
+        },
+        {
+          "type": "text",
+          "content": "70.00"
+        },
+        {
+          "type": "text",
+          "content": "60.00"
+        },
+        {
+          "type": "text",
+          "content": "50.00"
+        },
+        {
+          "type": "text",
+          "content": "40.00"
+        },
+        {
+          "type": "text",
+          "content": "30.00"
+        },
+        {
+          "type": "text",
+          "content": "20.00"
+        },
+        {
+          "type": "text",
+          "content": "10.00"
+        },
+        {
+          "type": "text",
+          "content": "75.40"
+        },
+        {
+          "type": "text",
+          "content": "40.38"
+        },
+        {
+          "type": "text",
+          "content": "59.63"
+        },
+        {
+          "type": "text",
+          "content": "34.41"
+        },
+        {
+          "type": "text",
+          "content": "62.66"
+        },
+        {
+          "type": "text",
+          "content": "34.02"
+        },
+        {
+          "type": "text",
+          "content": "45.19"
+        },
+        {
+          "type": "text",
+          "content": "41.85"
+        },
+        {
+          "type": "text",
+          "content": "80"
+        },
+        {
+          "type": "text",
+          "content": "70"
+        },
+        {
+          "type": "text",
+          "content": "60"
+        },
+        {
+          "type": "text",
+          "content": "50"
+        },
+        {
+          "type": "text",
+          "content": "40"
+        },
+        {
+          "type": "text",
+          "content": "30"
+        },
+        {
+          "type": "text",
+          "content": "20"
+        },
+        {
+          "type": "text",
+          "content": "10"
+        },
+        {
+          "type": "text",
+          "content": "59.03"
+        },
+        {
+          "type": "text",
+          "content": "61.36"
+        },
+        {
+          "type": "text",
+          "content": "61.35"
+        },
+        {
+          "type": "text",
+          "content": "68.24"
+        },
+        {
+          "type": "text",
+          "content": "61.69"
+        },
+        {
+          "type": "text",
+          "content": "13.09"
+        },
+        {
+          "type": "text",
+          "content": "16.55"
+        },
+        {
+          "type": "text",
+          "content": "11.77"
+        },
+        {
+          "type": "text",
+          "content": "21.52"
+        },
+        {
+          "type": "text",
+          "content": "15.06"
+        },
+        {
+          "type": "text",
+          "content": "65.75"
+        },
+        {
+          "type": "text",
+          "content": "66.55"
+        },
+        {
+          "type": "text",
+          "content": "73.96"
+        },
+        {
+          "type": "text",
+          "content": "55.43"
+        },
+        {
+          "type": "text",
+          "content": "17.19"
+        },
+        {
+          "type": "text",
+          "content": "13.81"
+        },
+        {
+          "type": "text",
+          "content": "23.38"
+        },
+        {
+          "type": "text",
+          "content": "6.39"
+        },
+        {
+          "type": "text",
+          "content": "9.83"
+        },
+        {
+          "type": "text",
+          "content": "25.8"
+        },
+        {
+          "type": "text",
+          "content": "2020Q2  2020Q3"
+        },
+        {
+          "type": "text",
+          "content": "-10.98"
+        },
+        {
+          "type": "text",
+          "content": "0.00"
+        },
+        {
+          "type": "text",
+          "content": "0"
+        },
+        {
+          "type": "text",
+          "content": "-10"
+        },
+        {
+          "type": "text",
+          "content": "2018Q1"
+        },
+        {
+          "type": "text",
+          "content": "2018Q2"
+        },
+        {
+          "type": "text",
+          "content": "2018Q3"
+        },
+        {
+          "type": "text",
+          "content": "2018Q4"
+        },
+        {
+          "type": "text",
+          "content": "2019Q1"
+        },
+        {
+          "type": "text",
+          "content": "2019Q2"
+        },
+        {
+          "type": "text",
+          "content": "2019Q3"
+        },
+        {
+          "type": "text",
+          "content": "2019Q4"
+        },
+        {
+          "type": "text",
+          "content": "2020Q1"
+        },
+        {
+          "type": "text",
+          "content": "主题公园门票"
+        },
+        {
+          "type": "text",
+          "content": "商品、食物和饮料"
+        },
+        {
+          "type": "text",
+          "content": "商品授权与零售"
+        },
+        {
+          "type": "text",
+          "content": "2019"
+        },
+        {
+          "type": "text",
+          "content": "2020"
+        },
+        {
+          "type": "text",
+          "content": "度假区"
+        },
+        {
+          "type": "text",
+          "content": "3"
+        },
+        {
+          "type": "text",
+          "content": "-20"
+        },
+        {
+          "type": "text",
+          "content": "营业收入"
+        },
+        {
+          "type": "text",
+          "content": "营业利润"
+        },
+        {
+          "type": "text",
+          "content": "-19.6"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "paragraph_title",
+          "level": 2,
+          "content": "**迪士尼影业**"
+        },
+        {
+          "type": "list",
+          "content": "- 华特迪士尼影业(Studio Entertainment)是华特迪士尼公司旗下负责制片娱乐业务的业务部门。华特迪士尼影业集团以其多元化制片业 务闻名，是好莱坞电影巨头之一，旗下拥有许多知名电影制片公司，例如：华特迪士尼影片、迪士尼自然、华特迪士尼动画制片厂、 皮克斯动画工作室、漫威影业、卢卡斯影业、二十世纪影业、探照灯影业，以及隶属于20世纪动画的蓝天工作室。\n- 收入构成方面，迪士尼影业的收入主要来自票房收入、家庭娱乐收入、TV/SVOD授权收入、舞台剧的门票收入、生活娱乐产品授 权收入、音乐授权收入，后期制作服务的收入等。票房和TV/SVOD授权收入是迪士尼影业主要的收入来源，票房在2020年受疫情 影响开始呈现大幅下跌，但随着2019年对20世纪福克斯的收购，迪士尼片源更加丰富，使其电影版权的授权收入在近两年显著提升， 而Disney+在2019年末的上线运营在公司内部为其电影授权贡献了更多的收入。"
+        },
+        {
+          "type": "text",
+          "content": "**迪士尼影业收入构成**"
+        },
+        {
+          "type": "paragraph_title",
+          "level": 3,
+          "content": "**华特迪士尼影业部门及组织架构**"
+        },
+        {
+          "type": "text",
+          "content": "单位:亿美元"
+        },
+        {
+          "type": "table",
+          "content": "<table border=\"1\">\n  <tr>\n    <th>制片业务</th>\n    <th>发行业务</th>\n    <th>音乐业务</th>\n    <th>戏剧业务</th>\n    <th>片场服务</th>\n  </tr>\n  <tr>\n    <td>真人电影\n华特迪士尼影片 迪士尼自然 漫威影业\n卢卡斯影业 二十世纪影业 探照灯影业\n福斯2000影业</td>\n    <td rowspan=\"2\">华特迪士尼工作室电\n影\n华特迪士尼工作室/索 尼影业联合发行\n博伟国际\n华特迪士尼影业行销 公司\n华特迪士尼影业特别\n企划</td>\n    <td rowspan=\"2\">华特迪士尼唱片 好莱坞唱片 漫威音乐\n福斯音乐\n迪士尼音乐出版</td>\n    <td rowspan=\"2\">迪士尼戏剧制作 迪士尼百老汇 迪士尼戏剧授权 福斯舞台制作 迪士尼直播家庭 娱乐\n冰上迪士尼 迪士尼直播\n华特迪士尼特别\n企划集团</td>\n    <td rowspan=\"2\">华特迪士尼伯班克制\n片厂\n金色橡树牧场 展望制片厂\n美国广播頻道KABC-\nTV制片厂 福斯澳洲片场\n迪士尼数字片场服务\n福斯特效实验室</td>\n  </tr>\n  <tr>\n    <td>动画电影\n华特迪士尼动画工 作室\n皮克斯动画工作室\n二十世纪动画\n（蓝天工作室）</td>\n  </tr>\n</table>",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "120"
+        },
+        {
+          "type": "text",
+          "content": "100"
+        },
+        {
+          "type": "text",
+          "content": "46.67"
+        },
+        {
+          "type": "text",
+          "content": "80"
+        },
+        {
+          "type": "text",
+          "content": "60"
+        },
+        {
+          "type": "text",
+          "content": "40"
+        },
+        {
+          "type": "text",
+          "content": "20"
+        },
+        {
+          "type": "text",
+          "content": "32.46"
+        },
+        {
+          "type": "text",
+          "content": "17.99"
+        },
+        {
+          "type": "text",
+          "content": "23.21"
+        },
+        {
+          "type": "text",
+          "content": "36.61"
+        },
+        {
+          "type": "text",
+          "content": "21.08"
+        },
+        {
+          "type": "text",
+          "content": "36.72"
+        },
+        {
+          "type": "text",
+          "content": "36.78"
+        },
+        {
+          "type": "text",
+          "content": "17.98"
+        },
+        {
+          "type": "text",
+          "content": "29.03"
+        },
+        {
+          "type": "text",
+          "content": "41.15"
+        },
+        {
+          "type": "text",
+          "content": "16.47"
+        },
+        {
+          "type": "text",
+          "content": "43.03"
+        },
+        {
+          "type": "text",
+          "content": "17.34"
+        },
+        {
+          "type": "text",
+          "content": "47.26"
+        },
+        {
+          "type": "text",
+          "content": "59.74"
+        },
+        {
+          "type": "text",
+          "content": "15.28"
+        },
+        {
+          "type": "text",
+          "content": "21.34"
+        },
+        {
+          "type": "text",
+          "content": "2015"
+        },
+        {
+          "type": "text",
+          "content": "票房收入"
+        },
+        {
+          "type": "text",
+          "content": "2017"
+        },
+        {
+          "type": "text",
+          "content": "家庭娱乐收入"
+        },
+        {
+          "type": "text",
+          "content": "2018\t2019"
+        },
+        {
+          "type": "text",
+          "content": "0"
+        },
+        {
+          "type": "text",
+          "content": "2016"
+        },
+        {
+          "type": "text",
+          "content": "2020"
+        },
+        {
+          "type": "text",
+          "content": "TV/SVOD授权收入及其他"
+        },
+        {
+          "type": "text",
+          "content": "4"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "paragraph_title",
+          "level": 2,
+          "content": "**迪士尼直接面向消费者及国际业务(DTCI)**"
+        },
+        {
+          "type": "list",
+          "content": "- 迪士尼的直接面向消费者服务及国际业务部门(Direct-to-Consumer & International)由流媒体服务和海外媒体服务构成，还经营着品牌App、 网站、迪士尼电影俱乐部和迪士尼数字网络，为其提供技术服务，同时还拥有Endemol Shine Group、 Seven TV、 Tata Sky 、Vice等公司 的部分股权。流媒体服务主要包括Disney+、ESPN+、Hotstar以及Hulu；国际电视网络/频道主要包括Disney、ESPN、Fox、National"
+        },
+        {
+          "type": "text",
+          "content": "Geographic以及Star 。"
+        },
+        {
+          "type": "list",
+          "content": "- 收入构成方面，DTCI的收入主要来自广告收入、国际频道的加盟费以及流媒体的订阅收入等。2019年对21世纪福克斯的收购让迪士尼 获得了更多来自21世纪福克斯的国际频道及Hulu的股权(目前持有67%），因此在2019年二季度，迪士尼DTCI部门在加盟费、广告以及 订阅收入上都有了显著的增长。2019年11月，流媒体Disney+的上线进一步拉动了迪士尼在订阅收入业绩上的提升。目前，流媒体的订 阅收入已经远超过国际频道的加盟费收入，成为DTCI业务部门最主要的收入来源。"
+        },
+        {
+          "type": "paragraph_title",
+          "level": 3,
+          "content": "**迪士尼DTCI业务部流媒体及国际频道订阅规模**"
+        },
+        {
+          "type": "paragraph_title",
+          "level": 3,
+          "content": "**迪士尼DTCI业务收入构成**"
+        },
+        {
+          "type": "text",
+          "content": "单位:亿美元"
+        },
+        {
+          "type": "table",
+          "content": "| 流媒体(2021.01) |  |\n| --- | --- |\n| Disney+ | 0.95 |\n| ESPN+ | 0.12 |\n| Hulu | 仅SVOD:0.35 / SVOD+Live TV:0.04 |\n| Hotstar | 0.28 |\n| 国际频道(2020.09) |  |\n| Disney Channel | 1.96 |\n| Disney Junior | 1.66 |\n| Disney XD | 1.05 |\n| ESPN | 0.53 |\n| Fox | 2.01 |\n| National Geographic | 3.17 |\n| Star | 2.14 |",
+          "captions": [],
+          "footnotes": []
+        },
+        {
+          "type": "text",
+          "content": "60"
+        },
+        {
+          "type": "text",
+          "content": "50"
+        },
+        {
+          "type": "text",
+          "content": "40"
+        },
+        {
+          "type": "text",
+          "content": "30"
+        },
+        {
+          "type": "text",
+          "content": "20"
+        },
+        {
+          "type": "text",
+          "content": "10"
+        },
+        {
+          "type": "text",
+          "content": "10..4353"
+        },
+        {
+          "type": "text",
+          "content": "4.17"
+        },
+        {
+          "type": "text",
+          "content": "3.23"
+        },
+        {
+          "type": "text",
+          "content": "11..2563"
+        },
+        {
+          "type": "text",
+          "content": "4.54"
+        },
+        {
+          "type": "text",
+          "content": "4.12"
+        },
+        {
+          "type": "text",
+          "content": "4.27"
+        },
+        {
+          "type": "text",
+          "content": "9.5"
+        },
+        {
+          "type": "text",
+          "content": "14.92"
+        },
+        {
+          "type": "text",
+          "content": "10.06"
+        },
+        {
+          "type": "text",
+          "content": "1.33"
+        },
+        {
+          "type": "text",
+          "content": "11.08"
+        },
+        {
+          "type": "text",
+          "content": "11.71"
+        },
+        {
+          "type": "text",
+          "content": "9.99"
+        },
+        {
+          "type": "text",
+          "content": "3.41"
+        },
+        {
+          "type": "text",
+          "content": "13.26"
+        },
+        {
+          "type": "text",
+          "content": "13.67"
+        },
+        {
+          "type": "text",
+          "content": "9.53"
+        },
+        {
+          "type": "text",
+          "content": "2.89"
+        },
+        {
+          "type": "text",
+          "content": "17.96"
+        },
+        {
+          "type": "text",
+          "content": "10.81"
+        },
+        {
+          "type": "text",
+          "content": "9.57"
+        },
+        {
+          "type": "text",
+          "content": "2.06"
+        },
+        {
+          "type": "text",
+          "content": "21.29"
+        },
+        {
+          "type": "text",
+          "content": "7.86"
+        },
+        {
+          "type": "text",
+          "content": "8.48"
+        },
+        {
+          "type": "text",
+          "content": "3.36"
+        },
+        {
+          "type": "text",
+          "content": "23.94"
+        },
+        {
+          "type": "text",
+          "content": "12.43"
+        },
+        {
+          "type": "text",
+          "content": "9.15"
+        },
+        {
+          "type": "text",
+          "content": "2018Q4\t2019Q1"
+        },
+        {
+          "type": "text",
+          "content": "加盟费收入"
+        },
+        {
+          "type": "text",
+          "content": "2019Q2"
+        },
+        {
+          "type": "text",
+          "content": "广告收入"
+        },
+        {
+          "type": "text",
+          "content": "2019Q4\t2020Q1\t2020Q2"
+        },
+        {
+          "type": "text",
+          "content": "0"
+        },
+        {
+          "type": "text",
+          "content": "2019Q3"
+        },
+        {
+          "type": "text",
+          "content": "2020Q3"
+        },
+        {
+          "type": "text",
+          "content": "订阅收入"
+        },
+        {
+          "type": "text",
+          "content": "TV/SVOD授权收入及其他"
+        },
+        {
+          "type": "text",
+          "content": "单位:亿人"
+        },
+        {
+          "type": "text",
+          "content": "5"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pptx",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.10"
+    },
+    "document": {
+      "created_at": "2021-06-03T10:43:04Z",
+      "modified_at": "2021-06-03T10:43:04Z",
+      "creator_application": "Microsoft Office PowerPoint",
+      "page_count": 5,
+      "page_count_kind": "slide"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "flash",
+      "parse_mode": "txt"
+    }
+  },
+  "is_full_document": true
+}
